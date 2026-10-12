@@ -1,0 +1,1213 @@
+Order_ID,Order_Date,Customer_ID,Region,City,Customer_Segment,Sales_Channel,Product_Category,Product_Name,Unit_Price,Quantity,Discount,Payment_Method,Order_Status,Shipping_Days,Gross_Sales,Discount_Amount,Net_Sales,Estimated_Cost,Profit
+ORD-00047,2025-06-16,CUST-0199,East,Patna,Corporate,Phone Order,Electronics,Keyboard,5974.41,1,0.2,Credit Card,Delivered,3.0,5974.41,1194.88,4779.53,3021.95,1757.58
+ORD-00291,2025-12-15,CUST-0089,East,Patna,Consumer,Retail Store,Office Supplies,Pen Set,475.48,2,0.0,UPI,Delivered,5.0,950.96,0.0,950.96,632.0,318.96
+ORD-00755,2025-03-19,CUST-0301,East,Bhubaneswar,Corporate,Marketplace,Home & Kitchen,Coffee Maker,4432.65,1,0.25,Credit Card,Processing,7.0,4432.65,1108.16,3324.49,2941.65,382.84
+ORD-00449,2025-10-17,CUST-0136,North,Lucknow,Consumer,Marketplace,Office Supplies,Notebook,384.28,1,0.3,Net Banking,delivered,4.0,384.28,115.28,269.0,288.06,-19.06
+ORD-00912,2025-03-27,CUST-0216,North,Chandigarh,Consumer,Marketplace,Electronics,USB Hub,8008.88,5,0.0,UPI,Cancelled,5.0,40044.4,0.0,40044.4,23663.3,16381.1
+ORD-00294,2025-11-06,CUST-0238,North,Delhi,Consumer,Online,Office Supplies,Stapler,471.86,1,0.15,UPI,Shipped,3.0,471.86,70.78,401.08,302.88,98.2
+ORD-00801,2025-12-01,CUST-0338,East,Kolkata,Consumer,Retail Store,Furniture,Office Chair,15363.31,1,0.0,Debit Card,Delivered,4.0,15363.31,0.0,15363.31,9902.3,5461.01
+ORD-00987,2025-08-13,CUST-0357,North,Chandigarh,Corporate,Online,Electronics,Headphones,8023.55,4,0.05,UPI,Delivered,2.0,32094.2,1604.71,30489.49,18513.53,11975.96
+ORD-00194,2025-08-21,CUST-0055,North,Jaipur,Small Business,Online,Furniture,Office Chair,8652.42,3,0.0,UPI,Processing,3.0,25957.26,0.0,25957.26,14617.95,11339.31
+ORD-00736,2025-10-10,CUST-0250,North,Lucknow,Consumer,Marketplace,Clothing,Jacket,3142.21,2,0.05,UPI,Processing,4.0,6284.42,314.22,5970.2,3527.35,2442.85
+ORD-00444,2025-05-09,CUST-0008,North,Chandigarh,Consumer,Online,Office Supplies,Markers,856.64,3,0.15,UPI,Delivered,1.0,2569.92,385.49,2184.43,1902.39,282.04
+ORD-00570,2025-08-21,CUST-0365,West,Pune,Corporate,Online,Office Supplies,Pen Set,538.36,1,0.15,Credit Card,Processing,,538.36,80.75,457.61,291.17,166.44
+ORD-00357,2025-02-27,CUST-0275,West,Ahmedabad,Consumer,Retail Store,Electronics,Keyboard,13768.96,1,0.1,Credit Card,Delivered,1.0,13768.96,1376.9,12392.06,7299.23,5092.83
+ORD-00789,2025-09-09,CUST-0185,North,Chandigarh,Corporate,Retail Store,Home & Kitchen,Desk Lamp,4700.12,6,0.15,UPI,Delivered,4.0,28200.72,4230.11,23970.61,21511.45,2459.16
+ORD-00536,2025-03-16,CUST-0210,West,Mumbai,Consumer,Online,Electronics,Headphones,3032.0,1,0.0,UPI,Shipped,2.0,3032.0,0.0,3032.0,1663.68,1368.32
+ORD-00828,2025-04-05,CUST-0128,West,Mumbai,Corporate,Online,Clothing,Jacket,354.15,6,0.15,Credit Card,Delivered,2.0,2124.9,318.74,1806.16,1600.96,205.2
+ORD-00223,2025-07-22,CUST-0201,West,Pune,Consumer,Online,Home & Kitchen,Water Bottle,5950.17,3,0.0,Cash,Delivered,2.0,17850.51,0.0,17850.51,13271.89,4578.62
+ORD-00881,2025-07-26,CUST-0197,North,Lucknow,Consumer,Online,Furniture,Office Chair,19568.88,8,0.3,UPI,Delivered,5.0,156551.04,46965.31,109585.73,116162.36,-6576.63
+ORD-00143,2025-02-21,CUST-0299,North,Delhi,Small Business,Online,Home & Kitchen,Water Bottle,6071.65,1,0.2,Cash,Shipped,2.0,6071.65,1214.33,4857.32,4674.67,182.65
+ORD-00655,2025-05-14,CUST-0346,East,Kolkata,Consumer,Marketplace,Home & Kitchen,Coffee Maker,1694.78,1,0.1,UPI,Processing,4.0,1694.78,169.48,1525.3,1088.36,436.94
+ORD-01033,2025-11-16,CUST-0282,South,Hyderabad,Consumer,Retail Store,Clothing,T-Shirt,792.85,6,0.2,UPI,Delivered,6.0,4757.1,951.42,3805.68,3098.67,707.01
+ORD-00522,2025-09-10,CUST-0044,North,Delhi,Small Business,Online,Electronics,Headphones,16237.89,8,0.0,UPI,Delivered,10.0,129903.12,0.0,129903.12,76241.75,53661.37
+ORD-00985,2025-10-02,CUST-0005,East,Bhubaneswar,Corporate,Online,Furniture,Bookshelf,8127.22,1,0.15,Debit Card,Processing,1.0,8127.22,1219.08,6908.14,6143.02,765.12
+ORD-00253,2025-05-09,CUST-0133,East,Bhubaneswar,Consumer,Phone Order,Clothing,Jeans,2220.81,2,0.0,UPI,Delivered,3.0,4441.62,0.0,4441.62,3347.3,1094.32
+ORD-00543,2025-08-15,CUST-0188,West,Mumbai,Consumer, MARKETPLACE,Furniture,Filing Cabinet,17780.83,1,0.25,Credit Card,Processing,7.0,17780.83,4445.21,13335.62,10969.07,2366.55
+ORD-00451,2025-05-06,CUST-0139,South,Hyderabad,,Retail Store,Office Supplies,Notebook,521.23,1,0.05,Debit Card,Delivered,1.0,521.23,26.06,495.17,359.0,136.17
+ORD-00542,2025-07-11,CUST-0366,South,Hyderabad,Corporate,Online,Furniture,Filing Cabinet,8554.7,2,0.1,Cash,Shipped,5.0,17109.4,1710.94,15398.46,12261.15,3137.31
+ORD-00820,2025-08-23,CUST-0051,South,Hyderabad,Consumer,Marketplace,Clothing,Sneakers,1524.94,2,0.05,UPI,Delivered,6.0,3049.88,152.49,2897.39,1997.25,900.14
+ORD-01155,2025-10-24,CUST-0376,West,Ahmedabad,Corporate,Marketplace,Electronics,Wireless Mouse,9779.33,3,0.1,UPI,Processing,8.0,29337.99,2933.8,26404.19,15253.71,11150.48
+ORD-00778,2025-11-09,CUST-0153,East,Bhubaneswar,Corporate,Online,Clothing,Jeans,1653.14,10,0.15,Debit Card,Delivered,5.0,16531.4,2479.71,14051.69,11628.3,2423.39
+ORD-00984,2025-11-20,CUST-0182,West,Surat,Small Business,Online,Home & Kitchen,Storage Box,5531.63,4,0.0,Net Banking,Delivered,3.0,22126.52,0.0,22126.52,13293.84,8832.68
+ORD-00838,2025-06-09,CUST-0182,SOUTH,Kochi,Small Business,Marketplace,Office Supplies,Markers,761.58,2,0.2,Net Banking,Returned,6.0,1523.16,304.63,1218.53,1078.69,139.84
+ORD-00966,2025-11-18,CUST-0133,West,Mumbai,Consumer,online ,Electronics,USB Hub,1617.35,8,0.15,Credit Card,Delivered,4.0,12938.8,1940.82,10997.98,6537.34,4460.64
+ORD-00562,2025-03-03,CUST-0224,North,Delhi,Consumer,Retail Store,Office Supplies,Markers,841.94,2,0.1,Debit Card,Delivered,3.0,1683.88,168.39,1515.49,1195.56,319.93
+ORD-00322,2025-10-11,CUST-0364,North,Chandigarh,Corporate,Online,Furniture,Filing Cabinet,,3,0.0,UPI,Delivered,1.0,23167.08,0.0,23167.08,12454.37,10712.71
+ORD-00944,2025-05-30,CUST-0376,East,Bhubaneswar,Consumer,Phone Order,Home & Kitchen,Coffee Maker,2165.2,2,0.2,Cash,Delivered,1.0,4330.4,866.08,3464.32,2253.77,1210.55
+ORD-00367,2025-06-04,CUST-0085,East,Patna,Consumer,Retail Store,Home & Kitchen,Storage Box,371.49,2,0.1,UPI,Delivered,6.0,742.98,74.3,668.68,404.35,264.33
+ORD-00957,2025-05-17,CUST-0187,East,Kolkata,Consumer,Retail Store,Furniture,Filing Cabinet,8236.34,1,0.05,Debit Card,Delivered,5.0,8236.34,411.82,7824.52,4013.97,3810.55
+ORD-00440,2025-04-27,CUST-0385,South,Chennai,Corporate,Marketplace,Home & Kitchen,Desk Lamp,5890.27,4,0.15,Cash,Shipped,1.0,23561.08,3534.16,20026.92,14564.94,5461.98
+ORD-00019,2025-09-15,CUST-0185,East,Patna,Consumer,Online,Electronics,Headphones,5428.59,3,0.0,UPI,Delivered,5.0,16285.77,0.0,16285.77,12497.27,3788.5
+ORD-00726,2025-08-12,CUST-0072,South,Hyderabad,Consumer,Retail Store,Clothing,Sneakers,2947.63,1,0.1,credit card,Delivered,2.0,2947.63,294.76,2652.87,1445.23,1207.64
+ORD-00324,2025-10-31,CUST-0061,East,Bhubaneswar,Consumer,Retail Store,Home & Kitchen,Desk Lamp,2871.39,8,0.2,Net Banking,Delivered,7.0,22971.12,4594.22,18376.9,12948.58,5428.32
+ORD-00231,2025-07-17,CUST-0255,South,Bengaluru,Small Business,Online,Home & Kitchen,Water Bottle,4391.32,4,0.1,UPI,Delivered,1.0,17565.28,1756.53,15808.75,11798.77,4009.98
+ORD-00225,2025-05-03,CUST-0128,South,Bengaluru,Corporate,Online,Office Supplies,Markers,728.7,1,0.05,UPI,Delivered,5.0,728.7,36.44,692.26,525.99,166.27
+ORD-00043,2025-11-03,CUST-0262,North,Lucknow,Consumer,Marketplace,Electronics,Headphones,6841.41,2,0.25,UPI,Delivered,2.0,13682.82,3420.7,10262.12,9555.08,707.04
+ORD-00833,2025-07-14,CUST-0357,West,Ahmedabad,Consumer,Online,Office Supplies,Printer Paper,664.52,3,0.0,Debit Card,Delivered,1.0,1993.56,0.0,1993.56,1472.25,521.31
+ORD-00786,2025-03-16,CUST-0373,East,Kolkata,Consumer,Online,Office Supplies,Stapler,887.79,4,0.1,Cash,Shipped,3.0,3551.16,355.12,3196.04,1813.29,1382.75
+ORD-00181,2025-12-25,CUST-0121,East,Bhubaneswar,Consumer,Marketplace,Home & Kitchen,Water Bottle,1576.6,2,0.2,Debit Card,Returned,,3153.2,630.64,2522.56,2457.83,64.73
+ORD-00452,2025-04-28,CUST-0367,North,Jaipur,Consumer,Online,Home & Kitchen,Water Bottle,4375.98,4,0.1,UPI,Cancelled,5.0,17503.92,1750.39,15753.53,11449.82,4303.71
+ORD-00751,2025-07-21,CUST-0195,East,Bhubaneswar,Consumer,Retail Store,Furniture,Office Chair,18423.64,1,0.1,Credit Card,Delivered,8.0,18423.64,1842.36,16581.28,9836.82,6744.46
+ORD-00170,2025-11-27,CUST-0222,South,Bengaluru,Consumer,Online,Clothing,Sneakers,1597.29,2,0.0,Net Banking,Delivered,3.0,3194.58,0.0,3194.58,2186.44,1008.14
+ORD-01143,2025-12-22,CUST-0021,South,Bengaluru,Small Business,Retail Store,Electronics,Wireless Mouse,11936.53,3,0.1,UPI,Delivered,5.0,35809.59,3580.96,32228.63,27651.63,4577.0
+ORD-00379,2025-01-13,CUST-0030,East,Bhubaneswar,Small Business,Online,Electronics,Keyboard,2063.55,5,0.25,Debit Card,Delivered,5.0,10317.75,2579.44,7738.31,7374.14,364.17
+ORD-00017,2025-05-30,CUST-0187,North,Delhi,Corporate,Online,Home & Kitchen,Coffee Maker,3697.79,1,0.05,Debit Card,Shipped,7.0,3697.79,184.89,3512.9,2059.62,1453.28
+ORD-00214,2025-05-06,CUST-0193,West,Mumbai,Consumer,Marketplace,Home & Kitchen,Desk Lamp,3722.77,3,0.1,UPI,Shipped,3.0,11168.31,1116.83,10051.48,6124.96,3926.52
+ORD-00506,2025-06-27,CUST-0208,South,Bengaluru,Consumer,Retail Store,Furniture,Office Chair,20915.01,2,0.05,Credit Card,Delivered,8.0,41830.02,2091.5,39738.52,22510.02,17228.5
+ORD-00980,2025-10-27,CUST-0050,South,Chennai,Consumer,Online,Electronics,USB Hub,9300.53,8,0.3,Debit Card,Delivered,1.0,74404.24,22321.27,52082.97,41020.46,11062.51
+ORD-00024,2025-06-10,CUST-0230,South,Chennai,Consumer,Online,Clothing,Jacket,1141.82,5,0.15,Cash,Delivered,3.0,5709.1,856.36,4852.74,2847.14,2005.6
+ORD-00588,2025-06-30,CUST-0059,West,Pune,Consumer,Phone Order,Furniture,Desk,6405.12,1,0.05,Debit Card,Delivered,1.0,6405.12,320.26,6084.86,3169.79,2915.07
+ORD-00718,2025-08-30,CUST-0179,South,Chennai,Consumer,Online,Furniture,Desk,14636.06,1,0.0,Credit Card,Delivered,5.0,14636.06,0.0,14636.06,7504.77,7131.29
+ORD-01101,2025-12-31,CUST-0214,North,Lucknow,Consumer,Online,Home & Kitchen,Coffee Maker,1211.29,2,0.05,Debit Card,Shipped,3.0,2422.58,121.13,2301.45,1757.18,544.27
+ORD-00699,2025-12-23,CUST-0194,North,Delhi,Corporate,Phone Order,Office Supplies,Printer Paper,437.74,5,0.1,UPI,Delivered,8.0,2188.7,218.87,1969.83,1454.14,515.69
+ORD-00479,2025-10-16,CUST-0246,North,Jaipur,Corporate,Online,Furniture,Desk,5681.76,3,0.25,Net Banking,Delivered,8.0,17045.28,4261.32,12783.96,12834.74,-50.78
+ORD-00694,2025-07-05,CUST-0253,North,Chandigarh,Corporate,Retail Store,Electronics,Headphones,9047.35,1,0.25,Cash,Delivered,5.0,9047.35,2261.84,6785.51,7018.4,-232.89
+ORD-00663,2025-05-29,CUST-0150,North,Lucknow,Small Business,Retail Store,Office Supplies,Notebook,329.82,1,0.15,Net Banking,Cancelled,6.0,329.82,49.47,280.35,241.14,39.21
+ORD-00659,2025-06-09,CUST-0159,South,Hyderabad,Corporate,Marketplace,Furniture,Desk,18222.78,2,0.1,Debit Card,delivered,5.0,36445.56,3644.56,32801.0,20465.3,12335.7
+ORD-01093,2025-05-03,CUST-0239,East,Ranchi,Consumer,Marketplace,Office Supplies,Pen Set,93.43,3,0.25,Net Banking,Delivered,3.0,280.29,70.07,210.22,209.45,0.77
+ORD-00815,2025-02-03,CUST-0126,North,Chandigarh,Corporate,Online,Home & Kitchen,Storage Box,3153.43,3,0.0,Net Banking,Delivered,4.0,9460.29,0.0,9460.29,4618.62,4841.67
+ORD-00010,2025-08-03,CUST-0025,East,Ranchi,Corporate,Retail Store,Office Supplies,Pen Set,223.23,1,0.1,Debit Card,Processing,6.0,223.23,22.32,200.91,117.44,83.47
+ORD-00827,2025-12-02,CUST-0326,North,Chandigarh,Corporate,Online,Office Supplies,Printer Paper,400.4,2,0.05,Cash,Shipped,5.0,800.8,40.04,760.76,476.15,284.61
+ORD-00618,2025-05-16,CUST-0258,East,Kolkata,Consumer,Retail store,Electronics,Wireless Mouse,4199.4,3,0.2,UPI,Processing,7.0,12598.2,2519.64,10078.56,8462.01,1616.55
+ORD-01179,2025-03-31,CUST-0397,North,Delhi,Consumer,Marketplace,Home & Kitchen,Coffee Maker,3209.9,2,0.2,UPI,Delivered,1.0,6419.8,1283.96,5135.84,4625.04,510.8
+ORD-00608,2025-05-21,CUST-0328,West,Mumbai,Small Business,Marketplace,Office Supplies,Printer Paper,870.81,8,0.15,Net Banking,Delivered,3.0,6966.48,1044.97,5921.51,4534.47,1387.04
+ORD-01200,2025-06-03,CUST-0385,North,Delhi,Small Business,Online,Clothing,T-Shirt,3150.74,1,0.0,Net Banking,Shipped,8.0,3150.74,0.0,3150.74,1841.13,1309.61
+ORD-00795,2025-10-13,CUST-0096,West,Surat,Corporate,Online,Clothing,Sneakers,2613.28,3,0.1,Net banking ,Delivered,7.0,7839.84,783.98,7055.86,5460.09,1595.77
+ORD-01070,2025-04-14,CUST-0176,North,Delhi,Corporate,Online,Home & Kitchen,Storage Box,4898.15,6,0.1,Credit Card,Delivered,4.0,29388.9,2938.89,26450.01,21340.74,5109.27
+ORD-00396,2025-06-02,CUST-0259,South,Hyderabad,Consumer,Retail Store,Furniture,Bookshelf,6534.94,5,0.25,Credit Card,Delivered,5.0,32674.7,8168.68,24506.02,23811.35,694.67
+ORD-00693,2025-05-16,CUST-0324,East,Patna,Consumer,Online,Electronics,USB Hub,4355.23,3,0.15,Debit Card,Delivered,4.0,13065.69,1959.85,11105.84,6908.29,4197.55
+ORD-00468,2025-10-12,CUST-0165,West,Surat,Consumer,Marketplace,Electronics,Wireless Mouse,13405.2,1,0.25,UPI,Delivered,2.0,13405.2,3351.3,10053.9,7351.9,2702.0
+ORD-00722,2025-04-29,CUST-0327,North,Chandigarh,Small Business,Online,Furniture,Desk,10354.66,6,0.1,Credit Card,Delivered,3.0,62127.96,6212.8,55915.16,30469.76,25445.4
+ORD-00962,2025-08-17,CUST-0368,East,Patna,Corporate,Online,Office Supplies,Pen Set,197.31,2,0.2,UPI,Shipped,5.0,394.62,78.92,315.7,205.93,109.77
+ORD-01123,2025-01-11,CUST-0064,West,Ahmedabad,Consumer,Online,Office Supplies,Pen Set,300.05,6,0.0,Cash,Delivered,5.0,1800.3,0.0,1800.3,1218.17,582.13
+ORD-01178,2025-01-25,CUST-0354,West,Mumbai,Corporate,Online,Home & Kitchen,Storage Box,5724.23,1,0.05,UPI,Delivered,,5724.23,286.21,5438.02,3466.19,1971.83
+ORD-00197,2025-11-14,CUST-0088,South,Bengaluru,Consumer,Retail Store,Home & Kitchen,Storage Box,1698.4,1,0.1,Debit Card,Delivered,5.0,1698.4,169.84,1528.56,894.58,633.98
+ORD-00393,2025-08-03,CUST-0060,North,Delhi,Consumer,Online,Clothing,Sneakers,1277.13,1,0.3,Credit Card,Processing,4.0,1277.13,383.14,893.99,886.26,7.73
+ORD-00210,2025-02-23,CUST-0288,North,Jaipur,Consumer,Online,Furniture,Office Chair,6998.12,1,0.15,Net banking ,Delivered,3.0,6998.12,1049.72,5948.4,3546.23,2402.17
+ORD-00788,2025-07-11,CUST-0009,East,Bhubaneswar,Corporate,Marketplace,Office Supplies,Pen Set,250.56,2,0.2,UPI,Delivered,10.0,501.12,100.22,400.9,325.07,75.83
+ORD-01019,2025-04-04,CUST-0020,West,Pune,Corporate,Online,Office Supplies,Stapler,295.09,3,0.0,UPI,Delivered,4.0,885.27,0.0,885.27,511.11,374.16
+ORD-00460,2025-10-05,CUST-0348,East,Ranchi,Corporate,Marketplace,Office Supplies,Printer Paper,216.53,2,0.0,UPI,Delivered,4.0,433.06,0.0,433.06,234.04,199.02
+ORD-01154,2025-10-23,CUST-0140,North,Chandigarh,Consumer,Retail Store,Clothing,Jacket,3491.13,2,0.0,UPI,Delivered,3.0,6982.26,0.0,6982.26,3376.86,3605.4
+ORD-00066,2025-04-16,CUST-0252,West,Surat,Consumer,Online,Clothing,Sneakers,1568.34,4,0.25,Net Banking,Delivered,3.0,6273.36,1568.34,4705.02,3071.07,1633.95
+ORD-00725,2025-05-26,CUST-0133,West,Pune,Consumer,Marketplace,Home & Kitchen,Storage Box,4120.13,2,0.0,Credit Card,Shipped,3.0,8240.26,0.0,8240.26,5225.78,3014.48
+ORD-01177,2025-09-01,CUST-0284,South,Chennai,Consumer,Marketplace,Furniture,Bookshelf,5878.96,3,0.0,UPI,Shipped,8.0,17636.88,0.0,17636.88,9679.06,7957.82
+ORD-00877,2025-04-23,CUST-0138,North,Lucknow,Consumer,Marketplace,Electronics,Keyboard,17230.46,3,0.15,Net Banking,Processing,1.0,51691.38,7753.71,43937.67,32657.33,11280.34
+ORD-00310,2025-06-07,CUST-0243,WEST ,Pune,Consumer,Online,Home & Kitchen,Coffee Maker,992.29,10,0.05,UPI,Delivered,3.0,9922.9,496.14,9426.76,7239.28,2187.48
+ORD-00037,2025-02-20,CUST-0167,East,,Corporate,Online,Furniture,Office Chair,4002.09,2,0.3,Cash,Delivered,2.0,8004.18,2401.25,5602.93,4493.74,1109.19
+ORD-01165,2025-01-01,CUST-0122,North,Delhi,Consumer,Online,Furniture,Desk,10544.61,1,0.0,Net Banking,Delivered,2.0,10544.61,0.0,10544.61,5542.14,5002.47
+ORD-00426,2025-05-24,CUST-0354,North,Chandigarh,Small Business,Online,Furniture,Filing Cabinet,17616.27,3,0.15,Cash,Cancelled ,4.0,52848.81,7927.32,44921.49,30877.94,14043.55
+ORD-00508,2025-02-02,CUST-0046,South,Bengaluru,Consumer,Online,Clothing,Jacket,3204.58,8,0.25,Debit Card,Cancelled,10.0,25636.64,6409.16,19227.48,17081.28,2146.2
+ORD-00278,2025-02-23,CUST-0068,West,Pune,Consumer,Marketplace,Home & Kitchen,Water Bottle,213.95,4,0.05,Credit Card,Cancelled,5.0,855.8,42.79,813.01,600.35,212.66
+ORD-01028,2025-02-04,CUST-0245,North,Lucknow,Consumer,Online,Electronics,Keyboard,3193.55,5,0.1,Credit Card,Delivered,1.0,15967.75,1596.78,14370.97,10644.51,3726.46
+ORD-00867,2025-12-16,CUST-0165,East,Bhubaneswar,Small Business,Marketplace,Home & Kitchen,Storage Box,3983.66,4,0.25,UPI,Delivered,,15934.64,3983.66,11950.98,9082.47,2868.51
+ORD-00606,2025-01-07,CUST-0140,North,Chandigarh,Consumer,Marketplace,Electronics,Keyboard,10391.62,1,0.2,UPI,Shipped,14.0,10391.62,2078.32,8313.3,5383.96,2929.34
+ORD-00131,2025-09-12,CUST-0314, east,Bhubaneswar,Corporate,Phone Order,Electronics,Wireless Mouse,5722.1,1,0.0,Credit Card,Delivered,3.0,5722.1,0.0,5722.1,3447.7,2274.4
+ORD-00045,2025-01-21,CUST-0329,West,Surat,Corporate,Online,Furniture,Filing Cabinet,15202.65,1,0.1,Cash,Delivered,5.0,15202.65,1520.26,13682.39,11417.5,2264.89
+ORD-00437,2025-02-27,CUST-0018,North,Lucknow,Consumer,Online,Home & Kitchen,Desk Lamp,4105.88,4,0.15,UPI,Delivered,4.0,16423.52,2463.53,13959.99,8260.63,5699.36
+ORD-00430,2025-06-07,CUST-0325,South,Kochi,Corporate,Online,Clothing,Sneakers,2819.2,6,0.25,Debit Card,Delivered,5.0,16915.2,4228.8,12686.4,9894.75,2791.65
+ORD-00486,2025-09-03,CUST-0273,South,Chennai,Consumer,Marketplace,Office Supplies,Printer Paper,533.02,3,0.1,Credit Card,Delivered,6.0,1599.06,159.91,1439.15,1190.78,248.37
+ORD-00093,2025-01-15,CUST-0001,West,Pune,Consumer,Online,Electronics,Keyboard,10136.4,1,0.1,UPI,Delivered,3.0,10136.4,1013.64,9122.76,6307.06,2815.7
+ORD-00779,2025-04-22,CUST-0234,East,Bhubaneswar,Corporate,Online,Furniture,Office Chair,5102.31,2,0.0,Credit Card,Delivered,,10204.62,0.0,10204.62,6287.9,3916.72
+ORD-00352,2025-05-08,CUST-0323,East,Ranchi,Consumer,Marketplace,Clothing,Sneakers,2402.61,6,0.05,Credit Card,Shipped,7.0,14415.66,720.78,13694.88,7054.76,6640.12
+ORD-01016,2025-09-30,CUST-0296,North,Lucknow,Corporate,Retail store,Electronics,USB Hub,13618.37,1,0.0,UPI,Delivered,2.0,13618.37,0.0,13618.37,7332.96,6285.41
+ORD-01183,2025-12-13,CUST-0239,West,Surat,Consumer,Online,Clothing,Jacket,1885.78,3,0.25,UPI,Delivered,5.0,5657.34,1414.34,4243.0,3084.86,1158.14
+ORD-00998,2025-05-19,CUST-0053,South,Kochi,Small Business,Retail Store,Electronics,Monitor,3757.89,1,0.1,Debit Card,Delivered,6.0,3757.89,375.79,3382.1,2610.69,771.41
+ORD-00428,2025-05-04,CUST-0347,South,Chennai,Consumer,Online,Home & Kitchen,Water Bottle,901.49,1,0.2,UPI,Cancelled,,901.49,180.3,721.19,541.01,180.18
+ORD-00104,2025-03-22,CUST-0115,West,Ahmedabad,Corporate,Online,Electronics,Headphones,4484.21,1,0.0,Debit Card,Cancelled,5.0,4484.21,0.0,4484.21,2809.49,1674.72
+ORD-00467,2025-07-04,CUST-0118,East,Patna,Consumer,Retail Store,Clothing,Sneakers,2791.4,4,0.15,Credit Card,delivered,4.0,11165.6,1674.84,9490.76,5994.75,3496.01
+ORD-00026,2025-01-22,CUST-0287,East,Kolkata,Corporate,Marketplace,Furniture,Bookshelf,15685.91,8,0.15,Net Banking,Cancelled,3.0,125487.28,18823.09,106664.19,86988.58,19675.61
+ORD-01015,2025-11-25,CUST-0028,West,Surat,Corporate,Online,Electronics,Keyboard,6687.72,2,0.05,UPI,Delivered,4.0,13375.44,668.77,12706.67,7281.33,5425.34
+ORD-00951,2025-11-27,CUST-0119,North,Chandigarh,Consumer,Retail Store,Home & Kitchen,Desk Lamp,515.58,1,0.05,UPI,Cancelled,,515.58,25.78,489.8,353.9,135.9
+ORD-00590,2025-07-05,CUST-0064,West,Surat,Small Business,Retail Store,Furniture,Bookshelf,16647.34,3,0.1,UPI,Delivered,4.0,49942.02,4994.2,44947.82,27751.67,17196.15
+ORD-00603,2025-03-15,CUST-0268,East,Kolkata,Corporate,Online,Office Supplies,Stapler,67.66,5,0.1,Credit Card,Delivered,14.0,338.3,33.83,304.47,162.75,141.72
+ORD-00686,2025-12-24,CUST-0083,North,Delhi,Consumer,Online,Clothing,Jeans,1149.6,5,0.15,Cash,Delivered,6.0,5748.0,862.2,4885.8,4465.81,419.99
+ORD-00873,2025-01-26,CUST-0002,West,Mumbai,Small Business,Retail store,Home & Kitchen,Desk Lamp,4386.8,3,0.05,Credit Card,Delivered,6.0,13160.4,658.02,12502.38,9463.89,3038.49
+ORD-01012,2025-11-17,CUST-0021,West,Pune,Consumer,Marketplace,Office Supplies,Markers,681.33,4,0.05,Credit Card,Delivered,4.0,2725.32,136.27,2589.05,1492.67,1096.38
+ORD-01133,2025-10-29,CUST-0382,North,Jaipur,Consumer,online ,Furniture,Office Chair,7671.31,10,0.0,Credit Card,Delivered,4.0,76713.1,0.0,76713.1,57675.38,19037.72
+ORD-00243,2025-12-12,CUST-0066,South,Kochi,Corporate,Retail Store,Electronics,Headphones,12794.54,2,0.15,Debit Card,Cancelled,7.0,25589.08,3838.36,21750.72,15269.24,6481.48
+ORD-00137,2025-02-11,CUST-0342,East,Patna,Corporate,Phone Order,Electronics,USB Hub,8500.7,1,0.05,Credit Card,Processing,3.0,8500.7,425.04,8075.66,6505.36,1570.3
+ORD-01188,2025-06-28,CUST-0182,West,Mumbai,Consumer,Marketplace,Office Supplies,Stapler,88.77,10,0.1,Credit Card,Delivered,4.0,887.7,88.77,798.93,688.91,110.02
+ORD-00534,2025-11-10,CUST-0222,South,Bengaluru,Consumer,Marketplace,Electronics,Headphones,2280.42,3,0.0,Net Banking,Delivered,7.0,6841.26,0.0,6841.26,5139.79,1701.47
+ORD-00219,2025-06-09,CUST-0341,South,Hyderabad,Corporate,Retail Store,Electronics,Keyboard,17248.68,8,0.05,Credit Card,Delivered,6.0,137989.44,6899.47,131089.97,88855.05,42234.92
+ORD-00577,2025-12-05,CUST-0008,North,Chandigarh,Consumer,Online,Electronics,Monitor,12384.5,6,0.2,Cash,Delivered,2.0,74307.0,14861.4,59445.6,39769.77,19675.83
+ORD-00776,2025-08-10,CUST-0180,East,Ranchi,Corporate,Marketplace,Office Supplies,Pen Set,123.03,3,0.15,Cash,Processing,6.0,369.09,55.36,313.73,226.81,86.92
+ORD-01055,2025-11-24,CUST-0093,East,Bhubaneswar,Consumer,Marketplace,Furniture,Office Chair,20796.56,1,0.05,UPI,Shipped,3.0,20796.56,1039.83,19756.73,10214.64,9542.09
+ORD-00657,2025-02-13,CUST-0080,East,Bhubaneswar,Corporate,Online,Clothing,Sneakers,2677.31,3,0.05,Cash,Delivered,1.0,8031.93,401.6,7630.33,5307.13,2323.2
+ORD-00738,2025-04-08,CUST-0074,East,Patna,Corporate,Marketplace,Electronics,USB Hub,15319.91,3,0.0,Net Banking,Delivered,2.0,45959.73,0.0,45959.73,29982.75,15976.98
+ORD-00691,2025-06-13,CUST-0028,South,Kochi,Consumer,Phone Order,Office Supplies,Markers,460.35,1,0.05,UPI,Delivered,7.0,460.35,23.02,437.33,248.76,188.57
+ORD-00458,2025-07-11,CUST-0194,North,,Consumer,Marketplace,Electronics,USB Hub,5684.56,1,0.15,Debit Card,Delivered,3.0,5684.56,852.68,4831.88,4347.56,484.32
+ORD-00524,2025-02-04,CUST-0262,East,Ranchi,Consumer,Online,Office Supplies,Pen Set,372.08,2,0.15,Credit Card,Delivered,2.0,744.16,111.62,632.54,364.95,267.59
+ORD-00127,2025-05-11,CUST-0065,East,Ranchi,Consumer,Marketplace,Office supplies,Stapler,558.17,1,0.15,Net Banking,Delivered,6.0,558.17,83.73,474.44,412.62,61.82
+ORD-00812,2025-09-30,CUST-0136,SOUTH,Chennai,Consumer,Marketplace,Clothing,T-Shirt,3100.39,2,0.15,Debit Card,Delivered,8.0,6200.78,930.12,5270.66,4503.34,767.32
+ORD-01141,2025-11-12,CUST-0068,North,,Consumer,Marketplace,Office Supplies,Pen Set,442.47,2,0.0,UPI,Delivered,3.0,884.94,0.0,884.94,597.84,287.1
+ORD-01008,2025-01-13,CUST-0019,North,Chandigarh,Corporate,Retail Store,Office Supplies,Printer Paper,592.77,4,0.0,Debit Card,Shipped,,2371.08,0.0,2371.08,1771.42,599.66
+ORD-01130,2025-01-23,CUST-0289,north ,Delhi,Consumer,Retail Store,Electronics,Headphones,14977.72,4,0.15,Credit Card,Shipped,5.0,59910.88,8986.63,50924.25,46066.21,4858.04
+ORD-00808,2025-10-12,CUST-0362,West,Ahmedabad,Small Business,Online,Clothing,Sneakers,2557.22,1,0.2,UPI,Delivered,8.0,2557.22,511.44,2045.78,1761.53,284.25
+ORD-00273,2025-05-27,CUST-0108,North,Chandigarh,Consumer,Online,Clothing,Jeans,366.06,1,0.0,,Delivered,6.0,366.06,0.0,366.06,267.76,98.3
+ORD-00072,2025-06-11,CUST-0240,North,,Small Business,Marketplace,Office Supplies,Printer Paper,46.69,1,0.1,Credit Card,Shipped,75.0,46.69,4.67,42.02,27.5,14.52
+ORD-00692,2025-03-31,CUST-0252, east,Ranchi,Corporate,Marketplace,Clothing,Jacket,,4,0.15,Credit Card,Delivered,3.0,6422.32,963.35,5458.97,4220.32,1238.65
+ORD-00147,2025-08-25,CUST-0159,East,Kolkata,Consumer,Retail Store,Home & Kitchen,Water Bottle,3370.36,2,0.15,Debit Card,Delivered,3.0,6740.72,1011.11,5729.61,4051.78,1677.83
+ORD-00374,2025-06-19,CUST-0319,West,Pune,Corporate,Online,Furniture,Filing Cabinet,3187.31,3,0.2,Debit Card,Processing,,9561.93,1912.39,7649.54,7421.0,228.54
+ORD-01140,2025-04-14,CUST-0249,West,Surat,Small Business,Online,Home & Kitchen,Water Bottle,3601.82,1,0.0,Debit Card,Delivered,1.0,3601.82,0.0,3601.82,1900.71,1701.11
+ORD-00864,2025-08-02,CUST-0077,South,Hyderabad,Corporate,Retail Store,Electronics,USB Hub,1413.07,1,0.15,Cash,Processing,2.0,1413.07,211.96,1201.11,848.14,352.97
+ORD-00790,2025-08-14,CUST-0295,South,Chennai,Consumer,Retail Store,Office Supplies,Notebook,554.22,10,0.1,Cash,Delivered,6.0,5542.2,554.22,4987.98,3512.01,1475.97
+ORD-00750,2025-06-14,CUST-0300,East,Bhubaneswar,Consumer,Retail Store,Clothing,Jeans,2893.5,2,0.05,UPI,Delivered,6.0,5787.0,289.35,5497.65,3383.11,2114.54
+ORD-00377,2025-12-21,CUST-0073,North,Chandigarh,Consumer,Online,Clothing,Sneakers,405.77,3,0.2,UPI,Shipped,5.0,1217.31,243.46,973.85,849.35,124.5
+ORD-00407,2025-06-19,CUST-0367,North,Lucknow,Corporate,Retail Store,Office Supplies,Notebook,471.47,6,0.15,UPI,Delivered,5.0,2828.82,424.32,2404.5,1696.41,708.09
+ORD-00015,2025-06-01,CUST-0055,North,Jaipur,Consumer,Marketplace,Clothing,Jacket,3495.51,1,0.0,UPI,Delivered,3.0,3495.51,0.0,3495.51,2456.77,1038.74
+ORD-00319,2025-10-04,CUST-0213,West,Ahmedabad,Consumer,Marketplace,Furniture,Desk,10717.43,1,0.2,Credit Card,Returned,4.0,10717.43,2143.49,8573.94,6222.06,2351.88
+ORD-01052,2025-02-11,CUST-0202,South,Hyderabad,Corporate,Marketplace,Office Supplies,Notebook,54.45,6,0.2,Credit Card,Delivered,4.0,326.7,65.34,261.36,211.9,49.46
+ORD-00672,2025-01-20,CUST-0172,East,Kolkata,Consumer,Online,Clothing,Jeans,2600.78,6,0.0,Credit Card,Cancelled,4.0,15604.68,0.0,15604.68,10286.19,5318.49
+ORD-00183,2025-05-17,CUST-0006,West,Ahmedabad,Small Business,Marketplace,Clothing,Jeans,2565.16,3,0.1,Cash,Delivered,6.0,7695.48,769.55,6925.93,5552.8,1373.13
+ORD-01120,2025-10-10,CUST-0004,West,Surat,Consumer,Retail Store,Home & Kitchen,Desk Lamp,3794.59,2,0.25,credit card,Delivered,4.0,7589.18,1897.3,5691.88,5238.21,453.67
+ORD-00968,2025-03-16,CUST-0310,North,Lucknow,Corporate,Retail Store,Furniture,Bookshelf,17745.61,1,0.0,UPI,Delivered,5.0,17745.61,0.0,17745.61,8947.64,8797.97
+ORD-01001,2025-09-16,CUST-0146,South,Kochi,Corporate,Online,Furniture,Bookshelf,20967.14,5,0.0,Cash,Shipped,5.0,104835.7,0.0,104835.7,52639.36,52196.34
+ORD-00347,2025-07-10,CUST-0196,East,Bhubaneswar,Consumer,Phone Order,Electronics,Keyboard,1909.13,2,0.2,Debit Card,Delivered,6.0,3818.26,763.65,3054.61,1851.49,1203.12
+ORD-00489,2025-10-17,CUST-0191,East,Ranchi,Corporate,Online,Home & Kitchen,Coffee Maker,4866.34,10,0.0,Credit Card,Delivered,,48663.4,0.0,48663.4,33174.84,15488.56
+ORD-01007,2025-06-21,CUST-0158,North,Jaipur,Consumer,Phone Order,Office Supplies,Stapler,175.26,2,0.05,UPI,Delivered,,350.52,17.53,332.99,228.01,104.98
+ORD-00323,2025-11-13,CUST-0220,South,Chennai,Corporate,Online,Furniture,Filing Cabinet,18645.05,2,0.2,,Delivered,2.0,37290.1,7458.02,29832.08,23911.11,5920.97
+ORD-00879,2025-09-10,CUST-0062,West,,Consumer,Marketplace,Electronics,Wireless Mouse,1726.55,4,0.15,Credit Card,delivered,4.0,6906.2,1035.93,5870.27,3413.14,2457.13
+ORD-00503,2025-06-09,CUST-0255,West,Mumbai,Consumer,Online,Office supplies,Notebook,445.52,2,0.05,Debit Card,Shipped,2.0,891.04,44.55,846.49,628.62,217.87
+ORD-01010,2025-05-10,CUST-0215,East,Bhubaneswar,Consumer,Marketplace,Home & Kitchen,Water Bottle,1894.58,5,0.15,UPI,Delivered,4.0,9472.9,1420.94,8051.96,7290.14,761.82
+ORD-00825,2025-05-31,CUST-0232,West,,Consumer,Retail Store,Electronics,USB Hub,2150.53,6,0.0,UPI,Delivered,2.0,12903.18,0.0,12903.18,9006.0,3897.18
+ORD-00971,2025-05-14,CUST-0016,East,Ranchi,Consumer,Retail Store,Office Supplies,Stapler,606.02,1,0.15,Debit Card,Delivered,2.0,606.02,90.9,515.12,421.18,93.94
+ORD-00602,2025-01-09,CUST-0098,North,Delhi,Consumer,Online,Office Supplies,Markers,461.31,1,0.05,Cash,Delivered,,461.31,23.07,438.24,274.07,164.17
+ORD-00989,2025-04-23,CUST-0231,West,,Consumer,Online,Clothing,Jacket,1217.75,6,0.05,Debit Card,Delivered,7.0,7306.5,365.33,6941.17,4855.27,2085.9
+ORD-00807,2025-05-13,CUST-0138,North,Chandigarh,Consumer,Retail Store,Clothing,Jacket,832.2,3,0.1,,Delivered,2.0,2496.6,249.66,2246.94,1850.25,396.69
+ORD-00685,2025-09-29,CUST-0262,South,Hyderabad,Consumer,Marketplace,Clothing,Jeans,1632.04,1,0.05,Credit Card,Delivered,4.0,1632.04,81.6,1550.44,966.71,583.73
+ORD-00132,2025-12-25,CUST-0309,West,Surat,Small Business,Online,Furniture,Bookshelf,,4,0.05,Credit Card,Delivered,8.0,70240.44,3512.02,66728.42,36067.83,30660.59
+ORD-00700,2025-02-10,CUST-0180,South,Kochi,Consumer,Online,Clothing,Jacket,2079.37,4,0.05,UPI,Delivered,1.0,8317.48,415.87,7901.61,5363.66,2537.95
+ORD-00831,2025-07-03,CUST-0080,South,Kochi,Small Business,Retail Store,Electronics,USB Hub,9454.43,1,0.05,Debit Card,Delivered,10.0,9454.43,472.72,8981.71,5571.19,3410.52
+ORD-00537,2025-08-05,CUST-0396,South,Kochi,Corporate,Marketplace,Clothing,Sneakers,3223.74,1,0.0,Net Banking,Delivered,8.0,3223.74,0.0,3223.74,1926.75,1296.99
+ORD-00216,2025-02-22,CUST-0306,South,Kochi,Corporate,Retail Store,Office Supplies,Markers,407.33,2,0.0,Credit Card,Shipped,4.0,814.66,0.0,814.66,541.42,273.24
+ORD-00516,2025-02-12,CUST-0290,West,Surat,Consumer,Online,Clothing,T-Shirt,2370.94,3,0.1,UPI,Shipped,7.0,7112.82,711.28,6401.54,4796.27,1605.27
+ORD-00061,2025-03-22,CUST-0204,North,Jaipur,Consumer,Retail Store,Office Supplies,Printer Paper,144.06,4,0.1,UPI,Delivered,7.0,576.24,57.62,518.62,385.55,133.07
+ORD-00917,2025-01-13,CUST-0343,West,Pune,Small Business,Retail Store,Furniture,Desk,7454.33,3,0.0,Debit Card,Shipped,1.0,22362.99,0.0,22362.99,14932.46,7430.53
+ORD-00455,2025-08-25,CUST-0041,West,Mumbai,Small Business,Online,Electronics,Keyboard,11836.85,1,0.0,Cash,Delivered,2.0,11836.85,0.0,11836.85,5804.18,6032.67
+ORD-00200,2025-10-22,CUST-0290,South,Bengaluru,Consumer,Online,Furniture,Bookshelf,10924.91,2,0.25,Cash,Delivered,2.0,21849.82,5462.46,16387.36,10788.35,5599.01
+ORD-01119,2025-10-26,CUST-0156,East,Patna,Consumer,Marketplace,Office Supplies,Markers,77.09,1,0.1,Credit Card,Delivered,,77.09,7.71,69.38,53.76,15.62
+ORD-01160,2025-04-11,CUST-0262,South,Kochi,Consumer,Online,Office Supplies,Notebook,335.34,4,0.0,Debit Card,delivered,6.0,1341.36,0.0,1341.36,1032.71,308.65
+ORD-01109,2025-02-16,CUST-0182,South,Bengaluru,Corporate,Marketplace,Office Supplies,Printer Paper,849.48,1,0.15,Cash,Delivered,2.0,849.48,127.42,722.06,542.28,179.78
+ORD-00652,2025-07-10,CUST-0374,South,Bengaluru,Consumer,Phone Order,Home & kitchen,Storage Box,4014.19,2,0.15,UPI,Shipped,1.0,8028.38,1204.26,6824.12,5450.94,1373.18
+ORD-00039,2025-02-24,CUST-0260,North,Jaipur,Consumer,Marketplace,Electronics,Wireless Mouse,14413.32,2,0.25,Credit Card,Shipped,2.0,28826.64,7206.66,21619.98,15836.52,5783.46
+ORD-00679,2025-02-23,CUST-0119,North,Jaipur,Small Business,Online,Clothing,Sneakers,2380.8,1,0.05,Credit Card,Delivered,7.0,2380.8,119.04,2261.76,1472.93,788.83
+ORD-00507,2025-06-12,CUST-0101,South,Bengaluru,Consumer,Online,Home & Kitchen,Desk Lamp,2481.29,8,0.1,Debit Card,delivered,10.0,19850.32,1985.03,17865.29,11335.77,6529.52
+ORD-00110,2025-01-28,CUST-0098,East,Ranchi,Consumer,Retail Store,Clothing,Sneakers,1870.07,2,0.15,Debit Card,delivered,2.0,3740.14,561.02,3179.12,1905.98,1273.14
+ORD-00073,2025-07-21,CUST-0139,East,Bhubaneswar,Consumer,Retail Store,Furniture,Desk,16862.02,6,0.0,UPI,Processing,3.0,101172.12,0.0,101172.12,66171.78,35000.34
+ORD-00842,2025-10-04,CUST-0141,West,Ahmedabad,Corporate,Online,Office Supplies,Pen Set,721.99,2,0.0,Cash,Processing,3.0,1443.98,0.0,1443.98,908.91,535.07
+ORD-00406,2025-06-29,CUST-0224,East,Bhubaneswar,Corporate,Retail Store,Clothing,Jeans,370.9,1,0.0,UPI,Shipped,4.0,370.9,0.0,370.9,203.96,166.94
+ORD-00245,2025-05-28,CUST-0267,West,Pune,Corporate,Online,Electronics,USB Hub,7159.45,1,0.1,UPI,Shipped,6.0,7159.45,715.94,6443.51,5533.91,909.6
+ORD-00111,2025-05-15,CUST-0088,East,Ranchi,Corporate,Online,Furniture,Bookshelf,21294.88,1,0.05,Credit Card,Delivered,5.0,21294.88,1064.74,20230.14,16567.97,3662.17
+ORD-00434,2025-11-15,CUST-0112,North,Chandigarh,Consumer,Online,Furniture,Desk,17631.47,2,0.2,Debit Card,Delivered,5.0,35262.94,7052.59,28210.35,17897.7,10312.65
+ORD-00981,2025-05-13,CUST-0041,north ,Lucknow,Small Business,Online,Clothing,T-Shirt,2889.9,2,0.0,Net Banking,Delivered,2.0,5779.8,0.0,5779.8,3787.3,1992.5
+ORD-00729,2025-09-24,CUST-0356,East,Patna,Corporate,Retail Store,Electronics,USB Hub,6018.58,6,0.25,UPI,Shipped,5.0,36111.48,9027.87,27083.61,27421.58,-337.97
+ORD-00625,2025-10-28,CUST-0294,West,Mumbai,Small Business,Marketplace,Clothing,Jacket,965.95,2,0.05,Net Banking,Delivered,4.0,1931.9,96.6,1835.3,1495.56,339.74
+ORD-00154,2025-11-23,CUST-0340,East,Patna,Small Business,Online,Furniture,Desk,15966.02,1,0.2,Debit Card,Shipped,6.0,15966.02,3193.2,12772.82,8053.63,4719.19
+ORD-00716,2025-11-08,CUST-0228,North,Jaipur,Consumer,Marketplace,Electronics,Wireless Mouse,15185.81,1,0.3,Credit Card,Delivered,2.0,15185.81,4555.74,10630.07,7778.47,2851.6
+ORD-00642,2025-08-30,CUST-0142,North,Delhi,Corporate,Online,Electronics,Monitor,8757.82,3,0.1,Credit Card,Delivered,3.0,26273.46,2627.35,23646.11,13499.66,10146.45
+ORD-00046,2025-11-25,CUST-0200,North,Chandigarh,Corporate, MARKETPLACE,Electronics,USB Hub,14975.84,3,0.1,Credit Card,Delivered,3.0,44927.52,4492.75,40434.77,24680.45,15754.32
+ORD-00799,2025-09-06,CUST-0358,West,Mumbai,Consumer,Online,Home & Kitchen,Water Bottle,3358.19,1,0.0,UPI,Shipped,3.0,3358.19,0.0,3358.19,1869.95,1488.24
+ORD-00846,2025-11-13,CUST-0194,West,Pune,Consumer,Online,Office Supplies,Printer Paper,809.29,1,0.25,Credit Card,Cancelled,3.0,809.29,202.32,606.97,541.98,64.99
+ORD-01086,2025-10-16,CUST-0212,North,Lucknow,Small Business,Online,Home & Kitchen,Storage Box,4894.56,1,0.2,Credit Card,Delivered,5.0,4894.56,978.91,3915.65,3160.91,754.74
+ORD-00314,2025-02-20,CUST-0015,East,Patna,Consumer,Marketplace,Office Supplies,Pen Set,180.11,2,0.1,Cash,Delivered,3.0,360.22,36.02,324.2,267.65,56.55
+ORD-00321,2025-04-07,CUST-0061,West,Pune,Consumer,Marketplace,Electronics,Wireless Mouse,15267.02,1,0.05,UPI,Delivered,5.0,15267.02,763.35,14503.67,9813.12,4690.55
+ORD-00173,2025-08-19,CUST-0176,West,Mumbai,Consumer,Retail Store,Clothing,Jeans,790.94,2,0.1,Credit Card,Processing,8.0,1581.88,158.19,1423.69,916.04,507.65
+ORD-01079,2025-04-21,CUST-0327,South,Bengaluru,Consumer,Retail Store,Office Supplies,Pen Set,161.4,4,0.0,UPI,Shipped,1.0,645.6,0.0,645.6,428.27,217.33
+ORD-00292,2025-12-04,CUST-0167,South,Kochi,Corporate,Online,Clothing,Sneakers,2450.05,4,0.0,Credit Card,Cancelled,7.0,9800.2,0.0,9800.2,5807.4,3992.8
+ORD-00814,2025-03-10,CUST-0373,South,Bengaluru,Consumer,Phone Order,Furniture,Office Chair,,1,0.0,Cash,Processing,1.0,14324.19,0.0,14324.19,9882.12,4442.07
+ORD-00175,2025-08-13,CUST-0182,East,Ranchi,Consumer,Marketplace,Office Supplies,Notebook,98.91,3,0.3,Credit Card,Shipped,1.0,296.73,89.02,207.71,184.75,22.96
+ORD-00124,2025-02-04,CUST-0224,South,Chennai,Corporate,Retail store,Office supplies,Pen Set,58.0,5,0.05,UPI,Delivered,5.0,290.0,14.5,275.5,161.96,113.54
+ORD-00582,2025-02-22,CUST-0360,South,Hyderabad,Small Business,Retail Store,Electronics,Monitor,9091.75,1,0.15,Cash,Delivered,1.0,9091.75,1363.76,7727.99,6805.99,922.0
+ORD-00626,2025-05-12,CUST-0348,North,Chandigarh,Consumer,Online,Electronics,Monitor,6083.65,2,0.05,UPI,Delivered,5.0,12167.3,608.36,11558.94,7804.53,3754.41
+ORD-00040,2025-09-01,CUST-0143,North,,Small Business,Phone Order,Office Supplies,Printer Paper,803.3,2,0.05,Cash,Processing,8.0,1606.6,80.33,1526.27,1212.84,313.43
+ORD-01124,2025-09-11,CUST-0112,South,Bengaluru,Consumer,Retail Store,Furniture,Office Chair,17750.7,5,0.05,UPI,delivered,,88753.5,4437.68,84315.82,55033.97,29281.85
+ORD-00904,2025-01-15,CUST-0315,North,Jaipur,Corporate,Online,Furniture,Filing Cabinet,20758.49,1,0.25,Debit Card,Delivered,4.0,20758.49,5189.62,15568.87,14564.84,1004.03
+ORD-01117,2025-10-19,CUST-0083,East,Patna,Consumer,Online,Electronics,Keyboard,13053.43,3,0.0,Cash,Delivered,2.0,39160.29,0.0,39160.29,28768.58,10391.71
+ORD-00284,2025-04-14,CUST-0258,West,Mumbai,Consumer,Phone Order,Electronics,Keyboard,4279.65,2,0.2,Credit Card,Delivered,,8559.3,1711.86,6847.44,4707.44,2140.0
+ORD-01083,2025-06-06,CUST-0097,East,Kolkata,Corporate,Marketplace,Home & Kitchen,Water Bottle,4664.4,6,0.1,UPI,Delivered,2.0,27986.4,2798.64,25187.76,18644.91,6542.85
+ORD-00235,2025-07-20,CUST-0096,West,Mumbai,Consumer,Marketplace,Clothing,Jacket,1632.32,1,0.15,UPI,Delivered,3.0,1632.32,244.85,1387.47,1258.4,129.07
+ORD-00338,2025-02-06,CUST-0105,North,Jaipur,Consumer,Phone Order,Electronics,Wireless Mouse,16806.63,10,0.15,Debit Card,Delivered,3.0,168066.3,25209.94,142856.36,97900.42,44955.94
+ORD-00150,2025-01-29,CUST-0073,WEST ,Surat,Consumer,Marketplace,Home & Kitchen,Storage Box,5475.73,8,0.0,UPI,Processing,3.0,43805.84,0.0,43805.84,31408.54,12397.3
+ORD-00404,2025-12-08,CUST-0352,West,Surat,Consumer,Online,Office Supplies,Notebook,794.91,5,0.1,Debit Card,Delivered,1.0,3974.55,397.46,3577.09,2567.16,1009.93
+ORD-00267,2025-05-20,CUST-0327,South,Bengaluru,Consumer,Online,Home & Kitchen,Coffee Maker,3878.59,2,0.1,Debit Card,Shipped,2.0,7757.18,775.72,6981.46,4567.41,2414.05
+ORD-01080,2025-06-06,CUST-0114,South,Bengaluru,Small Business,Retail Store,Furniture,Desk,1732.04,1,0.1,Credit Card,Returned,6.0,1732.04,173.2,1558.84,1000.11,558.73
+ORD-00205,2025-07-06,CUST-0335,West,Ahmedabad,Consumer,Marketplace,Office Supplies,Stapler,647.48,3,0.0,UPI,Cancelled,2.0,1942.44,0.0,1942.44,1389.81,552.63
+ORD-00361,2025-10-07,CUST-0065,West,Pune,Small Business,Online,Clothing,Jacket,1168.35,2,0.05,UPI,Delivered,6.0,2336.7,116.84,2219.86,1176.83,1043.03
+ORD-01051,2025-08-25,CUST-0396,north ,Chandigarh,,Marketplace,Home & Kitchen,Storage Box,280.12,6,0.3,Credit Card,Delivered,7.0,1680.72,504.22,1176.5,882.39,294.11
+ORD-00580,2025-04-09,CUST-0093,West,Pune,Consumer,Retail Store,Clothing,Jacket,2166.99,5,0.3,Net Banking,Returned,6.0,10834.95,3250.48,7584.47,7587.95,-3.48
+ORD-00177,2025-05-01,CUST-0347,North,Jaipur,Corporate,Online,Office Supplies,Pen Set,431.31,6,0.1,,Delivered,3.0,2587.86,258.79,2329.07,1535.37,793.7
+ORD-01138,2025-07-29,CUST-0164,South,Bengaluru,Consumer,Phone Order,Office Supplies,Markers,221.69,6,0.0,Credit Card,Delivered,4.0,1330.14,0.0,1330.14,924.95,405.19
+ORD-00768,2025-09-07,CUST-0029,West,Mumbai,Corporate,Phone Order,Home & Kitchen,Desk Lamp,2941.81,5,0.0,Credit Card,Delivered,2.0,14709.05,0.0,14709.05,9064.73,5644.32
+ORD-00431,2025-05-27,CUST-0261,East,Kolkata,Consumer,Online,Clothing,T-Shirt,1607.97,1,0.0,Credit Card,delivered,2.0,1607.97,0.0,1607.97,1153.47,454.5
+ORD-00148,2025-05-23,CUST-0204,South,Kochi,Consumer,Online,Electronics,Keyboard,14302.87,1,0.05,UPI,Delivered,5.0,14302.87,715.14,13587.73,8224.68,5363.05
+ORD-00509,2025-06-28,CUST-0070,West,Pune,Consumer,Marketplace,Clothing,T-Shirt,1274.83,1,0.25,UPI,Processing,1.0,1274.83,318.71,956.12,774.86,181.26
+ORD-00737,2025-06-26,CUST-0076,North,Lucknow,Consumer,Online,Clothing,Jeans,3035.19,5,0.1,UPI,Returned,,15175.95,1517.6,13658.35,10723.91,2934.44
+ORD-00902,2025-10-21,CUST-0134, east,Bhubaneswar,Consumer,Online,Clothing,Sneakers,916.97,2,0.1,Credit Card,Delivered,1.0,1833.94,183.39,1650.55,1206.36,444.19
+ORD-00376,2025-01-26,CUST-0098,North,Delhi,Small Business,Online,Furniture,Office Chair,14659.91,1,0.15,Cash,Shipped,7.0,14659.91,2198.99,12460.92,8200.89,4260.03
+ORD-00687,2025-06-05,CUST-0031,South,Hyderabad,Small Business,Online,Clothing,Sneakers,1268.29,1,0.2,Cash,Cancelled,3.0,1268.29,253.66,1014.63,723.76,290.87
+ORD-01118,2025-10-09,CUST-0400,South,Chennai,Consumer,Marketplace,Furniture,Office Chair,19245.19,1,0.05,UPI,Cancelled,4.0,19245.19,962.26,18282.93,13731.05,4551.88
+ORD-00596,2025-08-09,CUST-0311,North,Delhi,Corporate,Online,Furniture,Filing Cabinet,20738.17,1,0.1,Debit Card,Delivered,4.0,20738.17,2073.82,18664.35,13088.81,5575.54
+ORD-00293,2025-07-13,CUST-0028,North,Lucknow,Consumer,Online,Electronics,USB Hub,16470.99,2,0.1,Debit Card,Shipped,3.0,32941.98,3294.2,29647.78,19706.48,9941.3
+ORD-00583,2025-05-31,CUST-0099,North,Chandigarh,Small Business,Online,Electronics,Headphones,16375.69,3,0.0,Net Banking,Delivered,2.0,49127.07,0.0,49127.07,30120.82,19006.25
+ORD-00091,2025-02-10,CUST-0268,North,Lucknow,Consumer,Marketplace,Clothing,Sneakers,3341.71,1,0.1,Net Banking,Delivered,6.0,3341.71,334.17,3007.54,2177.7,829.84
+ORD-01060,2025-06-28,CUST-0060,West,Surat,Small Business,Retail Store,Furniture,Desk,14161.47,6,0.0,UPI,Shipped,3.0,84968.82,0.0,84968.82,66170.25,18798.57
+ORD-00740,2025-04-09,CUST-0073,East,Bhubaneswar,Consumer,Online,Clothing,Sneakers,867.78,1,0.1,Credit Card,Delivered,4.0,867.78,86.78,781.0,522.06,258.94
+ORD-00595,2025-08-03,CUST-0158,North,Jaipur,Consumer,Retail Store,Office Supplies,Pen Set,312.68,2,0.0,Cash,Delivered,7.0,625.36,0.0,625.36,484.72,140.64
+ORD-00529,2025-04-03,CUST-0234,North,Jaipur,Small Business,Marketplace,Clothing,T-Shirt,2466.72,4,0.3,UPI,Delivered,1.0,9866.88,2960.06,6906.82,5594.67,1312.15
+ORD-00069,2025-07-10,CUST-0376,North,Jaipur,Consumer,Marketplace,Electronics,Keyboard,12615.68,3,0.0,UPI,Delivered,3.0,37847.04,0.0,37847.04,19879.11,17967.93
+ORD-00381,2025-11-09,CUST-0210,West,Pune,Consumer,Online,Furniture,Desk,13359.19,3,0.05,UPI,Shipped,3.0,40077.57,2003.88,38073.69,24930.9,13142.79
+ORD-00853,2025-12-12,CUST-0319,SOUTH,Bengaluru,Consumer,Marketplace,Home & Kitchen,Desk Lamp,6031.42,1,0.1,Credit Card,Shipped,3.0,6031.42,603.14,5428.28,3988.41,1439.87
+ORD-01045,2025-01-05,CUST-0334,North,Lucknow,Consumer,Retail Store,Clothing,Jeans,1162.43,1,0.1,UPI,Shipped,4.0,1162.43,116.24,1046.19,826.3,219.89
+ORD-00370,2025-10-26,CUST-0393,West,Mumbai,Consumer,Retail Store,Electronics,Keyboard,16373.61,4,0.2,Credit Card,Delivered,4.0,65494.44,13098.89,52395.55,41912.65,10482.9
+ORD-00129,2025-01-05,CUST-0067,East,,Corporate,Online,Office Supplies,Notebook,99.54,2,0.25,Debit Card,Delivered,4.0,199.08,49.77,149.31,114.6,34.71
+ORD-00460,2025-10-05,CUST-0348,East,Ranchi,Corporate,Marketplace,Office Supplies,Printer Paper,216.53,2,0.0,UPI,Delivered,4.0,433.06,0.0,433.06,234.04,199.02
+ORD-00538,2025-10-04,CUST-0071,SOUTH,Bengaluru,Consumer,Online,Home & Kitchen,Coffee Maker,3136.3,4,0.0,Debit Card,Cancelled,7.0,12545.2,0.0,12545.2,7032.71,5512.49
+ORD-00071,2025-02-13,CUST-0343,East,Ranchi,Corporate,Phone Order,Clothing,T-Shirt,812.63,2,0.0,Credit Card,Delivered,,1625.26,0.0,1625.26,833.75,791.51
+ORD-00982,2025-11-22,CUST-0022,North,Jaipur,Consumer,Online,Furniture,Office Chair,10987.19,2,0.15,Debit Card,Processing,3.0,21974.38,3296.16,18678.22,13099.79,5578.43
+ORD-01024,2025-08-24,CUST-0097,East,Patna,Consumer,Online,Electronics,Monitor,12117.42,1,0.1,Cash,Shipped,3.0,12117.42,1211.74,10905.68,7478.73,3426.95
+ORD-00958,2025-09-04,CUST-0003,North,Jaipur,Consumer,Online,Office Supplies,Markers,734.95,6,0.0,Net Banking,Delivered,5.0,4409.7,0.0,4409.7,3354.54,1055.16
+ORD-00918,2025-07-31,CUST-0162,South,Hyderabad,Consumer,Marketplace,Office Supplies,Pen Set,513.64,8,0.05,UPI,Cancelled,5.0,4109.12,205.46,3903.66,2276.89,1626.77
+ORD-01097,2025-10-21,CUST-0078,North,Jaipur,Small Business, MARKETPLACE,Clothing,T-Shirt,2346.6,1,0.1,UPI,Cancelled,5.0,2346.6,234.66,2111.94,1465.84,646.1
+ORD-00906,2025-04-29,CUST-0333,South,,Small Business,Marketplace,Electronics,Monitor,10296.2,0,0.0,Credit Card,Delivered,3.0,51481.0,0.0,51481.0,31315.29,20165.71
+ORD-00120,2025-04-09,CUST-0167,East,Bhubaneswar,Corporate,Retail store,Electronics,Monitor,17376.23,1,0.15,Net banking ,Delivered,3.0,17376.23,2606.43,14769.8,10665.13,4104.67
+ORD-01102,2025-08-04,CUST-0094,South,Bengaluru,Corporate,Phone Order,Clothing,Sneakers,2535.14,3,0.1,UPI,Delivered,2.0,7605.42,760.54,6844.88,5633.27,1211.61
+ORD-00965,2025-01-06,CUST-0368,South,Chennai,Consumer,Online,Electronics,Headphones,11650.89,1,0.0,UPI,Delivered,3.0,11650.89,0.0,11650.89,8898.44,2752.45
+ORD-00427,2025-09-26,CUST-0019,South,Bengaluru,Corporate,online ,Electronics,Monitor,6902.18,2,0.1,UPI,Delivered,3.0,13804.36,1380.44,12423.92,6806.32,5617.6
+ORD-00184,2025-11-14,CUST-0334,WEST ,Mumbai,,Marketplace,Furniture,Bookshelf,4388.56,1,0.0,Cash,Delivered,2.0,4388.56,0.0,4388.56,3166.33,1222.23
+ORD-00535,2025-04-24,CUST-0226,North,Delhi,Consumer,Marketplace,Electronics,Wireless Mouse,8094.16,1,0.15,Credit Card,Delivered,5.0,8094.16,1214.12,6880.04,5803.65,1076.39
+ORD-00576,2025-02-21,CUST-0207,West,Mumbai,Corporate,Phone Order,Electronics,Wireless Mouse,8990.44,2,0.2,UPI,Delivered,7.0,17980.88,3596.18,14384.7,9284.62,5100.08
+ORD-01150,2025-04-02,CUST-0083,East,Ranchi,Consumer,Online,Home & Kitchen,Storage Box,206.08,1,0.3,Credit Card,Delivered,5.0,206.08,61.82,144.26,158.53,-14.27
+ORD-00345,2025-07-07,CUST-0242,North,Lucknow,Consumer,Online,Office Supplies,Stapler,252.86,6,0.05,Debit Card,Delivered,5.0,1517.16,75.86,1441.3,876.42,564.88
+ORD-00940,2025-11-11,CUST-0312,West,Surat,Consumer,Online,Office Supplies,Notebook,213.08,4,0.2,UPI,Delivered,5.0,852.32,170.46,681.86,421.32,260.54
+ORD-01182,2025-07-29,CUST-0153,East,Kolkata,Consumer,Marketplace,Furniture,Desk,14504.04,4,0.0,UPI,Delivered,4.0,58016.16,0.0,58016.16,32498.06,25518.1
+ORD-00505,2025-06-01,CUST-0290,East,Ranchi,Corporate,Online,Furniture,Office Chair,6690.39,5,0.0,UPI,Delivered,2.0,33451.95,0.0,33451.95,20671.24,12780.71
+ORD-00038,2025-12-30,CUST-0391,East,Bhubaneswar,Corporate,Retail Store,Electronics,USB Hub,3310.85,10,0.25,UPI,Delivered,5.0,33108.5,8277.12,24831.38,22306.87,2524.51
+ORD-00423,2025-12-21,CUST-0188,South,Bengaluru,Consumer,Online,Office Supplies,Markers,828.12,1,0.0,Cash,Returned,3.0,828.12,0.0,828.12,535.6,292.52
+ORD-00044,2025-05-15,CUST-0252,North,Jaipur,Consumer,Online,Furniture,Filing Cabinet,2708.98,3,0.2,Credit Card,Returned,3.0,8126.94,1625.39,6501.55,5566.0,935.55
+ORD-01176,2025-03-04,CUST-0218,South,Hyderabad,Consumer,Online,Office Supplies,Markers,316.08,4,0.25,UPI,Processing,3.0,1264.32,316.08,948.24,848.35,99.89
+ORD-01006,2025-05-18,CUST-0071,North,Chandigarh,Consumer,Retail Store,Electronics,Keyboard,7322.32,1,0.3,Cash,Delivered,4.0,7322.32,2196.7,5125.62,4901.19,224.43
+ORD-00632,2025-07-01,CUST-0182,East,Kolkata,Small Business,Retail Store,Electronics,Wireless Mouse,5882.95,2,0.0,UPI,Delivered,4.0,11765.9,0.0,11765.9,8918.98,2846.92
+ORD-00023,2025-10-04,CUST-0113,South,Bengaluru,Consumer,Online,Electronics,Monitor,17991.29,3,0.2,Credit Card,Delivered,3.0,53973.87,10794.77,43179.1,30203.67,12975.43
+ORD-00413,2025-02-22,CUST-0297,North,Delhi,Corporate,Online,Furniture,Desk,21884.56,4,0.05,UPI,Delivered,5.0,87538.24,4376.91,83161.33,62879.59,20281.74
+ORD-00067,2025-09-17,CUST-0394,West,,Consumer,Retail Store,Electronics,Monitor,2046.62,3,0.05,Cash,Delivered,5.0,6139.86,306.99,5832.87,3778.17,2054.7
+ORD-00591,2025-08-11,CUST-0256,South,,Small Business,Marketplace,Office Supplies,Printer Paper,194.71,5,0.15,Debit Card,Delivered,2.0,973.55,146.03,827.52,733.39,94.13
+ORD-00363,2025-10-15,CUST-0027,North,Delhi,Corporate,Online,Furniture,Bookshelf,15371.31,6,0.2,UPI,Delivered,6.0,92227.86,18445.57,73782.29,48082.16,25700.13
+ORD-00926,2025-08-16,CUST-0050,South,Hyderabad,Consumer,Online,Clothing,Jacket,3494.49,3,0.15,UPI,Delivered,4.0,10483.47,1572.52,8910.95,5116.52,3794.43
+ORD-00264,2025-01-02,CUST-0307,West,Ahmedabad,,Online,Office Supplies,Stapler,405.5,4,0.25,UPI,Shipped,6.0,1622.0,405.5,1216.5,1075.69,140.81
+ORD-00217,2025-06-21,CUST-0268,West,Pune,Consumer,Online,Furniture,Filing Cabinet,6057.67,1,0.05,Credit Card,Delivered,3.0,6057.67,302.88,5754.79,4716.07,1038.72
+ORD-01039,2025-09-27,CUST-0076,South,Hyderabad,Corporate,Marketplace,Clothing,Jacket,303.27,1,0.1,Credit Card,Processing,5.0,303.27,30.33,272.94,168.84,104.1
+ORD-00141,2025-08-19,CUST-0269,South,Bengaluru,Corporate,Retail Store,Electronics,Monitor,6546.46,2,0.0,UPI,Processing,3.0,13092.92,0.0,13092.92,8241.16,4851.76
+ORD-00439,2025-08-17,CUST-0287,North,Lucknow,Corporate,Retail Store,Electronics,Keyboard,1451.79,4,0.2,UPI,Delivered,5.0,5807.16,1161.43,4645.73,4376.38,269.35
+ORD-01134,2025-12-29,CUST-0069,South,Chennai,Consumer,Online,Clothing,Jeans,1326.24,1,0.0,Debit Card,Delivered,4.0,1326.24,0.0,1326.24,726.77,599.47
+ORD-00350,2025-09-13,CUST-0170,East,Kolkata,Consumer,Phone Order,Home & Kitchen,Desk Lamp,162.27,2,0.1,UPI,Delivered,4.0,324.54,32.45,292.09,188.71,103.38
+ORD-00644,2025-05-06,CUST-0280,North,Lucknow,Small Business,Retail Store,Home & Kitchen,Coffee Maker,1019.43,6,0.1,Cash,Delivered,4.0,6116.58,611.66,5504.92,3292.62,2212.3
+ORD-00080,2025-07-09,CUST-0007,North,Delhi,Consumer,Retail Store,Electronics,Monitor,5821.9,1,0.05,Credit Card,Delivered,3.0,5821.9,291.09,5530.81,3450.5,2080.31
+ORD-01100,2025-08-16,CUST-0202,North,Jaipur,Consumer,Online,Office Supplies,Stapler,734.82,1,0.1,UPI,Delivered,4.0,734.82,73.48,661.34,562.38,98.96
+ORD-01031,2025-11-16,CUST-0393,West,Mumbai,Small Business,Marketplace,Furniture,Desk,14167.51,2,0.25,Net Banking,Processing,4.0,28335.02,7083.76,21251.26,14502.18,6749.08
+ORD-00341,2025-10-29,CUST-0176,West,Pune,Consumer,Online,Office Supplies,Stapler,333.7,3,0.25,UPI,Delivered,8.0,1001.1,250.28,750.82,672.4,78.42
+ORD-01126,2025-12-26,CUST-0144,East,Kolkata,Consumer,Retail Store,Furniture,Filing Cabinet,1266.03,5,0.15,Debit Card,Delivered,2.0,6330.15,949.52,5380.63,3758.25,1622.38
+ORD-00533,2025-07-15,CUST-0320,West,Mumbai,Corporate,Marketplace,Electronics,USB Hub,2065.0,1,0.2,Debit Card,Shipped,5.0,2065.0,413.0,1652.0,1029.2,622.8
+ORD-01108,2025-06-06,CUST-0322,North,Lucknow,Consumer,Online,Office Supplies,Notebook,232.56,4,0.25,Credit Card,Delivered,2.0,930.24,232.56,697.68,489.01,208.67
+ORD-00796,2025-12-01,CUST-0119,North,Jaipur,Consumer,Marketplace,Furniture,Bookshelf,14606.91,2,0.1,UPI,Delivered,,29213.82,2921.38,26292.44,16869.43,9423.01
+ORD-00166,2025-04-18,CUST-0226, east,Kolkata,Small Business,Retail Store,Home & Kitchen,Water Bottle,1151.42,5,0.0,Debit Card,delivered,,5757.1,0.0,5757.1,3506.47,2250.63
+ORD-00949,2025-01-04,CUST-0002,North,Jaipur,Consumer,Online,Electronics,Monitor,13528.25,2,0.05,Debit Card,Delivered,4.0,27056.5,1352.82,25703.68,18703.82,6999.86
+ORD-00311,2025-02-07,CUST-0138,East,Ranchi,Corporate,Online,Home & Kitchen,Coffee Maker,3443.36,3,0.2,Debit Card,Shipped,5.0,10330.08,2066.02,8264.06,5945.26,2318.8
+ORD-01196,2025-06-26,CUST-0152,South,Hyderabad,Consumer,Marketplace,Furniture,Bookshelf,21227.54,1,0.2,Net Banking,Delivered,3.0,21227.54,4245.51,16982.03,11895.88,5086.15
+ORD-00660,2025-06-22,CUST-0389,West,Surat,Consumer,Online,Clothing,Jeans,3469.2,4,0.0,UPI,Shipped,14.0,13876.8,0.0,13876.8,8331.77,5545.03
+ORD-00996,2025-02-07,CUST-0237,East,Kolkata,Corporate,Phone Order,Office Supplies,Printer Paper,528.34,8,0.25,Cash,Shipped,8.0,4226.72,1056.68,3170.04,2416.24,753.8
+ORD-00165,2025-01-28,CUST-0181,West,Surat,Consumer,Online,Office Supplies,Markers,653.19,3,0.1,Net Banking,Delivered,3.0,1959.57,195.96,1763.61,1228.68,534.93
+ORD-00325,2025-05-27,CUST-0307,North,Lucknow,Small Business,Retail Store,Home & Kitchen,Storage Box,4763.82,1,0.0,Debit Card,delivered,8.0,4763.82,0.0,4763.82,2699.63,2064.19
+ORD-00669,2025-06-13,CUST-0319,East,Bhubaneswar,Consumer,Marketplace,Furniture,Office Chair,20103.54,1,0.2,Net Banking,Processing,4.0,20103.54,4020.71,16082.83,11825.12,4257.71
+ORD-00513,2025-03-06,CUST-0004,South,Chennai,Consumer,Retail Store,Clothing,Jacket,2338.21,1,0.15,Net Banking,Cancelled,5.0,2338.21,350.73,1987.48,1535.75,451.73
+ORD-00418,2025-07-15,CUST-0110,South,Kochi,Consumer,Online,Electronics,Headphones,7003.88,4,0.2,Cash,Delivered,5.0,28015.52,5603.1,22412.42,14940.59,7471.83
+ORD-01073,2025-07-17,CUST-0245,West,,Consumer,Marketplace,Clothing,T-Shirt,563.49,1,0.3,Cash,Cancelled,5.0,563.49,169.05,394.44,433.68,-39.24
+ORD-00188,2025-08-22,CUST-0102,West,Surat,,Online,Electronics,Wireless Mouse,3941.16,4,0.0,UPI,Processing,,15764.64,0.0,15764.64,11198.01,4566.63
+ORD-00574,2025-07-25,CUST-0267,North,Delhi,Consumer,Marketplace,Clothing,T-Shirt,2246.28,2,0.1,Credit Card,Delivered,3.0,4492.56,449.26,4043.3,3408.28,635.02
+ORD-00969,2025-01-04,CUST-0061,North,Jaipur,Corporate,Online,Home & Kitchen,Desk Lamp,465.12,2,0.0,Cash,Delivered,2.0,930.24,0.0,930.24,720.11,210.13
+ORD-00313,2025-12-31,CUST-0089,East,Patna,Consumer,Marketplace,Clothing,T-Shirt,1134.03,2,0.05,UPI,Delivered,3.0,2268.06,113.4,2154.66,1757.92,396.74
+ORD-00250,2025-02-08,CUST-0275,North,Jaipur,Corporate,Retail Store,Home & Kitchen,Storage Box,2692.26,2,0.0,UPI,Shipped,3.0,5384.52,0.0,5384.52,4026.05,1358.47
+ORD-00634,2025-04-01,CUST-0128,South,Bengaluru,Consumer,Online,Office Supplies,Notebook,,1,0.0,,Delivered,2.0,443.59,0.0,443.59,324.98,118.61
+ORD-00358,2025-11-19,CUST-0399,West,Surat,Corporate,Retail Store,Furniture,Bookshelf,6755.1,4,0.05,UPI,Delivered,4.0,27020.4,1351.02,25669.38,20866.57,4802.81
+ORD-01152,2025-02-20,CUST-0078,North,Delhi,Small Business,Phone Order,Electronics,Headphones,16978.37,5,0.0,Debit Card,Shipped,5.0,84891.85,0.0,84891.85,49593.83,35298.02
+ORD-01032,2025-03-01,CUST-0143,North,Chandigarh,Consumer,Marketplace,Electronics,Headphones,6645.1,6,0.3,Cash,Delivered,6.0,39870.6,11961.18,27909.42,23966.57,3942.85
+ORD-00990,2025-05-20,CUST-0297,South,Kochi,Consumer,Retail Store,Office Supplies,Markers,873.55,1,0.1,UPI,Processing,4.0,873.55,87.36,786.19,641.86,144.33
+ORD-00946,2025-07-17,CUST-0069,West,Mumbai,Corporate,Online,Furniture,Desk,14777.4,2,0.15,Cash,Delivered,5.0,29554.8,4433.22,25121.58,22817.85,2303.73
+ORD-00934,2025-04-11,CUST-0309,West,Mumbai,Corporate,Marketplace,Home & Kitchen,Coffee Maker,6341.69,1,0.1,Cash,Delivered,5.0,6341.69,634.17,5707.52,4090.89,1616.63
+ORD-00650,2025-12-14,CUST-0214,South,Hyderabad,Consumer,Marketplace,Electronics,Wireless Mouse,13290.32,5,0.25,Debit Card,Delivered,2.0,66451.6,16612.9,49838.7,49825.89,12.81
+ORD-00643,2025-08-08,CUST-0145,East,Patna,Small Business,Retail Store,Home & Kitchen,Water Bottle,3401.4,1,0.2,,Cancelled,4.0,3401.4,680.28,2721.12,2129.54,591.58
+ORD-00255,2025-05-31,CUST-0344,North,Lucknow,Small Business,Retail Store,Electronics,Monitor,1673.56,1,0.15,UPI,Delivered,,1673.56,251.03,1422.53,1015.57,406.96
+ORD-00810,2025-07-03,CUST-0044,East,Bhubaneswar,Consumer,Retail Store,Electronics,Headphones,5594.99,4,0.15,Net Banking,Shipped,3.0,22379.96,3356.99,19022.97,15098.74,3924.23
+ORD-01082,2025-08-19,CUST-0143,North,Chandigarh,Consumer,Marketplace,Home & Kitchen,Water Bottle,3960.89,5,0.15,Credit Card,Delivered,3.0,19804.45,2970.67,16833.78,10010.68,6823.1
+ORD-00052,2025-08-30,CUST-0062,West,Mumbai,Corporate,Marketplace,Office Supplies,Stapler,424.08,2,0.1,Credit Card,Cancelled,5.0,848.16,84.82,763.34,583.58,179.76
+ORD-00871,2025-03-02,CUST-0200,north ,Lucknow,Corporate,Marketplace,Furniture,Office Chair,10682.02,1,0.1,UPI,Shipped,4.0,10682.02,1068.2,9613.82,6384.42,3229.4
+ORD-00997,2025-10-20,CUST-0176,North,Lucknow,Small Business,Marketplace,Home & Kitchen,Water Bottle,416.51,1,0.0,UPI,Cancelled,5.0,416.51,0.0,416.51,227.51,189.0
+ORD-00094,2025-10-28,CUST-0161,South,Hyderabad,Consumer,Phone Order,Home & Kitchen,Storage Box,6182.94,2,0.25,UPI,delivered,4.0,12365.88,3091.47,9274.41,9376.92,-102.51
+ORD-00656,2025-02-27,CUST-0013,East,Bhubaneswar,Consumer,Online,Electronics,USB Hub,15878.58,2,0.05,Debit Card,Delivered,3.0,31757.16,1587.86,30169.3,20743.52,9425.78
+ORD-00383,2025-06-22,CUST-0213,South,Kochi,Consumer,Online,Clothing,T-Shirt,1861.91,3,0.3,Credit Card,Delivered,8.0,5585.73,1675.72,3910.01,3150.54,759.47
+ORD-00103,2025-05-19,CUST-0297,East,Bhubaneswar,Small Business,Online,Electronics,Headphones,14929.56,6,0.15,UPI,Cancelled,4.0,89577.36,13436.6,76140.76,60607.85,15532.91
+ORD-00466,2025-03-27,CUST-0150,West,Ahmedabad,Consumer,Retail Store,Office supplies,Stapler,399.8,3,0.2,UPI,Delivered,7.0,1199.4,239.88,959.52,658.93,300.59
+ORD-00320,2025-10-13,CUST-0343,North,Chandigarh,Corporate,Online,Clothing,Sneakers,1158.5,1,0.15,Credit Card,Delivered,,1158.5,173.78,984.72,672.84,311.88
+ORD-01023,2025-11-14,CUST-0120,North,Chandigarh,Consumer,Phone Order,Electronics,Wireless Mouse,17826.66,4,0.1,Cash,Delivered,3.0,71306.64,7130.66,64175.98,40466.67,23709.31
+ORD-00638,2025-02-08,CUST-0242,West,Pune,Small Business,Online,Office Supplies,Notebook,,2,0.1,Debit Card,Delivered,5.0,1185.52,118.55,1066.97,791.27,275.7
+ORD-00233,2025-05-24,CUST-0124,North,Lucknow,Corporate,Online,Home & Kitchen,Coffee Maker,3374.85,3,0.0,Debit Card,Delivered,3.0,10124.55,0.0,10124.55,7810.65,2313.9
+ORD-00548,2025-06-01,CUST-0127,North,Jaipur,Consumer,Online,Furniture,Filing Cabinet,17667.7,8,0.1,Credit Card,Delivered,1.0,141341.6,14134.16,127207.44,106852.83,20354.61
+ORD-01049,2025-05-12,CUST-0339,East,Kolkata,Consumer,Online,Electronics,USB Hub,8046.12,2,0.2,Cash,Delivered,6.0,16092.24,3218.45,12873.79,9219.19,3654.6
+ORD-01142,2025-06-20,CUST-0343,West,Surat,Consumer,Online,Furniture,Filing Cabinet,3847.68,4,0.05,Cash,Processing,2.0,15390.72,769.54,14621.18,8729.21,5891.97
+ORD-00938,2025-11-16,CUST-0340,South,Bengaluru,Consumer,Phone Order,Office Supplies,Markers,463.19,5,0.0,Debit Card,Processing,2.0,2315.95,0.0,2315.95,1140.74,1175.21
+ORD-00519,2025-01-12,CUST-0063,North,Jaipur,Consumer,Online,Home & Kitchen,Desk Lamp,2127.0,2,0.0,UPI,Delivered,14.0,4254.0,0.0,4254.0,3046.02,1207.98
+ORD-00928,2025-02-03,CUST-0156,South,,Corporate,Retail Store,Clothing,Jeans,1217.8,4,0.0,Cash,Delivered,7.0,4871.2,0.0,4871.2,2492.94,2378.26
+ORD-00202,2025-04-11,CUST-0239,West,Pune,Consumer,Phone Order,Clothing,Jacket,1738.34,1,0.0,,Shipped,5.0,1738.34,0.0,1738.34,1126.68,611.66
+ORD-00212,2025-08-12,CUST-0339,South,Kochi,Small Business,Phone Order,Furniture,Office Chair,20291.23,1,0.2,Credit Card,Cancelled,7.0,20291.23,4058.25,16232.98,9843.84,6389.14
+ORD-00824,2025-09-06,CUST-0081,South,Hyderabad,Small Business,Online,Office Supplies,Pen Set,873.07,3,0.0,Debit Card,Delivered,3.0,2619.21,0.0,2619.21,1963.84,655.37
+ORD-00986,2025-07-31,CUST-0145,East,Patna,Corporate,Phone Order,Furniture,Bookshelf,9519.21,1,0.05,UPI,delivered,4.0,9519.21,475.96,9043.25,5406.28,3636.97
+ORD-00901,2025-10-01,CUST-0069,West,,Consumer,Retail Store,Electronics,Wireless Mouse,16489.73,8,0.15,Debit Card,Processing,2.0,131917.84,19787.68,112130.16,85564.45,26565.71
+ORD-00504,2025-12-06,CUST-0134, east,Ranchi,Corporate,Online,Office Supplies,Pen Set,168.86,1,0.1,Credit Card,Processing,4.0,168.86,16.89,151.97,112.48,39.49
+ORD-00048,2025-10-01,CUST-0196,North,Chandigarh,Consumer,Retail Store,Office Supplies,Markers,891.55,4,0.05,Credit Card,Delivered,4.0,3566.2,178.31,3387.89,1771.12,1616.77
+ORD-00540,2025-06-13,CUST-0089,East,Bhubaneswar,Corporate,Online,Clothing,Jacket,3269.94,1,0.25,Credit Card,Shipped,2.0,3269.94,817.48,2452.46,2407.52,44.94
+ORD-00027,2025-09-10,CUST-0155,North,Jaipur,Consumer,Marketplace,Electronics,Headphones,3548.05,4,0.2,UPI,Delivered,5.0,14192.2,2838.44,11353.76,10347.1,1006.66
+ORD-00555,2025-01-13,CUST-0139,South,Bengaluru,Corporate,Marketplace,Furniture,Bookshelf,16542.14,3,0.0,UPI,Delivered,8.0,49626.42,0.0,49626.42,29349.51,20276.91
+ORD-00095,2025-03-06,CUST-0244,North,Lucknow,Consumer,Retail store,Home & Kitchen,Coffee Maker,1289.48,5,0.3,Credit Card,Shipped,6.0,6447.4,1934.22,4513.18,3503.82,1009.36
+ORD-00804,2025-04-16,CUST-0237,East,Kolkata,Corporate,Retail Store,Home & kitchen,Desk Lamp,6350.71,1,0.3,Credit Card,Delivered,3.0,6350.71,1905.21,4445.5,4364.56,80.94
+ORD-00876,2025-01-08,CUST-0342,West,,Consumer,Online,Home & Kitchen,Desk Lamp,1191.6,1,0.15,Credit Card,Processing,4.0,1191.6,178.74,1012.86,920.1,92.76
+ORD-00698,2025-08-08,CUST-0175,East,Ranchi,Small Business,Online,Clothing,Jacket,2326.6,2,0.0,UPI,Delivered,4.0,4653.2,0.0,4653.2,2637.5,2015.7
+ORD-01128,2025-05-14,CUST-0020,South,Bengaluru,Consumer,Marketplace,Office Supplies,Notebook,549.23,6,0.1,Credit Card,Shipped,2.0,3295.38,329.54,2965.84,1828.39,1137.45
+ORD-00831,2025-07-03,CUST-0080,South,Kochi,Small Business,Retail Store,Electronics,USB Hub,9454.43,1,0.05,Debit Card,Delivered,10.0,9454.43,472.72,8981.71,5571.19,3410.52
+ORD-00339,2025-10-07,CUST-0242,West,Ahmedabad,,Online,Clothing,T-Shirt,2992.53,2,0.15,Credit Card,Returned,5.0,5985.06,897.76,5087.3,3370.17,1717.13
+ORD-01164,2025-11-09,CUST-0161,North,Chandigarh,Corporate,Online,Home & Kitchen,Water Bottle,1874.31,5,0.15,Cash,Delivered,2.0,9371.55,1405.73,7965.82,6482.36,1483.46
+ORD-00297,2025-06-18,CUST-0255,West,Ahmedabad,Corporate,Online,Clothing,Jeans,3068.2,6,0.1,Credit Card,Delivered,4.0,18409.2,1840.92,16568.28,11054.96,5513.32
+ORD-00136,2025-12-12,CUST-0057,North,Chandigarh,Consumer,Online,Office Supplies,Printer Paper,398.1,5,0.0,Cash,Shipped,2.0,1990.5,0.0,1990.5,1338.92,651.58
+ORD-00794,2025-12-04,CUST-0136,West,Surat,Corporate,Retail Store,Office Supplies,Pen Set,867.3,5,0.05,Credit Card,Delivered,3.0,4336.5,216.82,4119.68,2593.16,1526.52
+ORD-00399,2025-07-09,CUST-0306,West,Mumbai,Corporate,Marketplace,Electronics,Keyboard,5190.25,1,0.15,UPI,Delivered,8.0,5190.25,778.54,4411.71,3072.92,1338.79
+ORD-00224,2025-07-03,CUST-0112,South,,Consumer,Online,Office Supplies,Stapler,276.98,4,0.0,Credit Card,Delivered,3.0,1107.92,0.0,1107.92,625.89,482.03
+ORD-00675,2025-11-01,CUST-0321,North,Jaipur,Consumer,Online,Electronics,Wireless Mouse,992.54,1,0.1,UPI,Delivered,3.0,992.54,99.25,893.29,736.54,156.75
+ORD-01147,2025-11-24,CUST-0024,East,,Consumer,Online,Office supplies,Stapler,57.22,1,0.1,UPI,Delivered,5.0,57.22,5.72,51.5,32.72,18.78
+ORD-01030,2025-10-23,CUST-0004,East,Kolkata,Consumer,Retail Store,Office Supplies,Notebook,840.71,5,0.0,Credit Card,Delivered,3.0,4203.55,0.0,4203.55,3051.67,1151.88
+ORD-01139,2025-04-21,CUST-0094,West,Ahmedabad,Consumer,Marketplace,Clothing,Sneakers,1522.35,4,0.15,UPI,delivered,8.0,6089.4,913.41,5175.99,3301.4,1874.59
+ORD-00149,2025-06-20,CUST-0137,North,Lucknow,Corporate,Online,Home & Kitchen,Storage Box,5748.94,1,0.0,Debit Card,Returned,5.0,5748.94,0.0,5748.94,4369.9,1379.04
+ORD-00702,2025-07-11,CUST-0295,north ,Jaipur,Consumer,Online,Office Supplies,Notebook,60.85,1,0.05,UPI,Processing,3.0,60.85,3.04,57.81,34.12,23.69
+ORD-00286,2025-09-11,CUST-0122,East,Kolkata,Consumer,Retail Store,Home & Kitchen,Desk Lamp,3470.93,2,0.05,Debit Card,Delivered,3.0,6941.86,347.09,6594.77,4628.9,1965.87
+ORD-00727,2025-08-27,CUST-0078,East,Kolkata,Consumer,Online,Furniture,Desk,15315.91,3,0.2,Debit Card,Shipped,3.0,45947.73,9189.55,36758.18,31059.26,5698.92
+ORD-01195,2025-06-10,CUST-0229,East,Ranchi,Consumer,Online,Office supplies,Stapler,398.92,2,0.2,Credit Card,Delivered,,797.84,159.57,638.27,547.17,91.1
+ORD-00117,2025-03-03,CUST-0099,South,Hyderabad,Consumer,Online,Office Supplies,Printer Paper,188.26,2,0.2,Credit Card,Delivered,3.0,376.52,75.3,301.22,195.19,106.03
+ORD-00140,2025-12-18,CUST-0130,East,Patna,Corporate,Phone Order,Electronics,Wireless Mouse,12878.2,4,0.15,Debit Card,Returned,6.0,51512.8,7726.92,43785.88,36198.78,7587.1
+ORD-00886,2025-01-14,CUST-0188,North,Jaipur,Corporate,Online,Electronics,Wireless Mouse,10114.35,2,0.0,Net Banking,Cancelled,3.0,20228.7,0.0,20228.7,12252.88,7975.82
+ORD-00287,2025-08-15,CUST-0331,North,Delhi,Consumer,Marketplace,Clothing,Jacket,666.42,1,0.25,UPI,Delivered,6.0,666.42,166.6,499.82,350.71,149.11
+ORD-00668,2025-08-17,CUST-0043,East,Ranchi,Corporate,Marketplace,Electronics,Keyboard,5184.85,4,0.1,UPI,Delivered,7.0,20739.4,2073.94,18665.46,14977.08,3688.38
+ORD-00007,2025-01-21,CUST-0238,North,Delhi,Consumer,Marketplace,Home & Kitchen,Desk Lamp,1048.86,6,0.2,UPI,Returned,3.0,6293.16,1258.63,5034.53,3104.55,1929.98
+ORD-00078,2025-08-03,CUST-0343,West,Surat,Consumer,Marketplace,Home & Kitchen,Water Bottle,3345.73,1,0.15,UPI,Cancelled,4.0,3345.73,501.86,2843.87,2095.23,748.64
+ORD-01056,2025-10-22,CUST-0280,East,Bhubaneswar,Corporate,Online,Electronics,Wireless Mouse,3798.76,4,0.15,UPI,Delivered,2.0,15195.04,2279.26,12915.78,8476.5,4439.28
+ORD-01057,2025-04-14,CUST-0358,East,Ranchi,Corporate,online ,Home & Kitchen,Desk Lamp,805.69,8,0.1,Cash,Returned,4.0,6445.52,644.55,5800.97,4438.62,1362.35
+ORD-00932,2025-03-24,CUST-0140,West,Surat,Consumer,Retail Store,Office Supplies,Printer Paper,431.71,1,0.2,UPI,Delivered,3.0,431.71,86.34,345.37,244.87,100.5
+ORD-00053,2025-09-22,CUST-0327,West,Surat,Small Business,Marketplace,Electronics,USB Hub,8617.27,4,0.1,Debit Card,Delivered,10.0,34469.08,3446.91,31022.17,16637.32,14384.85
+ORD-01013,2025-11-15,CUST-0282,West,Pune,Corporate,Marketplace,Home & Kitchen,Water Bottle,1453.48,3,0.2,Credit Card,Processing,4.0,4360.44,872.09,3488.35,3041.87,446.48
+ORD-00891,2025-06-03,CUST-0171,South,Kochi,Consumer,Online,Furniture,Desk,7008.72,2,0.15,Debit Card,Delivered,4.0,14017.44,2102.62,11914.82,10081.51,1833.31
+ORD-00279,2025-04-30,CUST-0189,North,Delhi,Corporate,Online,Office Supplies,Stapler,276.32,1,0.15,UPI,Delivered,4.0,276.32,41.45,234.87,198.55,36.32
+ORD-00395,2025-02-20,CUST-0058,East,Bhubaneswar,Consumer,Phone Order,Furniture,Bookshelf,7540.11,1,0.2,Credit Card,Delivered,5.0,7540.11,1508.02,6032.09,5660.79,371.3
+ORD-00419,2025-09-19,CUST-0037,North,Delhi,Corporate,Retail Store,Electronics,Keyboard,909.76,2,0.05,Debit Card,Delivered,4.0,1819.52,90.98,1728.54,1163.81,564.73
+ORD-00780,2025-09-12,CUST-0023,East,Patna,Small Business,Online,Electronics,Keyboard,1074.51,3,0.1,UPI,Delivered,6.0,3223.53,322.35,2901.18,1628.0,1273.18
+ORD-00020,2025-12-10,CUST-0083,North,,,Online,Clothing,Jacket,3258.92,3,0.2,Cash,Delivered,3.0,9776.76,1955.35,7821.41,6950.21,871.2
+ORD-00190,2025-06-01,CUST-0218,West,,Consumer,Retail Store,Electronics,Headphones,9695.97,2,0.25,Debit Card,Delivered,4.0,19391.94,4847.98,14543.96,12563.74,1980.22
+ORD-00724,2025-03-06,CUST-0367,North,Chandigarh,Corporate,Phone Order,Furniture,Filing Cabinet,11318.09,2,0.05,Cash,Delivered,2.0,22636.18,1131.81,21504.37,14911.93,6592.44
+ORD-00309,2025-08-26,CUST-0150,West,Ahmedabad,Consumer,Retail Store,Furniture,Office Chair,17694.61,2,0.2,Cash,Delivered,5.0,35389.22,7077.84,28311.38,20691.97,7619.41
+ORD-00612,2025-05-02,CUST-0060,East,Kolkata,Corporate,Online,Electronics,USB Hub,10934.67,2,0.15,Debit Card,Returned,4.0,21869.34,3280.4,18588.94,11234.98,7353.96
+ORD-00316,2025-10-10,CUST-0362,West,Mumbai,Consumer,Marketplace,Clothing,Sneakers,2075.04,6,0.1,Debit Card,Delivered,3.0,12450.24,1245.02,11205.22,8021.02,3184.2
+ORD-00417,2025-04-13,CUST-0281,North,Chandigarh,Corporate,Online,Office supplies,Stapler,382.29,1,-0.1,UPI,delivered,2.0,382.29,19.11,363.18,281.58,81.6
+ORD-00261,2025-12-12,CUST-0003,North,Lucknow,Consumer,Marketplace,Electronics,Headphones,12562.74,10,0.1,UPI,Delivered,10.0,125627.4,12562.74,113064.66,72606.5,40458.16
+ORD-00933,2025-02-11,CUST-0016,West,Surat,Corporate,Marketplace,Home & Kitchen,Coffee Maker,5417.47,2,0.05,UPI,Delivered,5.0,10834.94,541.75,10293.19,6545.45,3747.74
+ORD-00128,2025-09-14,CUST-0069,South,Chennai,Corporate,Retail Store,Furniture,Filing Cabinet,2683.52,2,0.25,Debit Card,Delivered,3.0,5367.04,1341.76,4025.28,2752.75,1272.53
+ORD-01077,2025-02-11,CUST-0335,West,,Consumer,Marketplace,Furniture,Desk,18142.72,1,0.15,Cash,Delivered,2.0,18142.72,2721.41,15421.31,13796.64,1624.67
+ORD-00978,2025-01-26,CUST-0121,West,Ahmedabad,,Retail Store,Home & Kitchen,Storage Box,3763.83,2,0.15,Debit Card,Returned,5.0,7527.66,1129.15,6398.51,4315.14,2083.37
+ORD-00967,2025-08-08,CUST-0225,East,Ranchi,Corporate,Online,Home & Kitchen,Storage Box,1693.06,3,0.15,UPI,Cancelled,1.0,5079.18,761.88,4317.3,2760.54,1556.76
+ORD-00329,2025-02-18,CUST-0077,North,Lucknow,,Retail Store,Home & Kitchen,Desk Lamp,5028.11,1,0.0,UPI,Shipped,3.0,5028.11,0.0,5028.11,3028.23,1999.88
+ORD-01072,2025-02-08,CUST-0158,West,Pune,Consumer,Retail Store,Clothing,T-Shirt,1627.03,4,0.2,Debit Card,Processing,10.0,6508.12,1301.62,5206.5,4764.0,442.5
+ORD-00256,2025-10-25,CUST-0176,North,Delhi,Corporate,Retail Store,Home & Kitchen,Storage Box,2766.16,1,0.1,UPI,Delivered,2.0,2766.16,276.62,2489.54,1382.35,1107.19
+ORD-00530,2025-03-31,CUST-0351,North,Delhi,Consumer,Online,Office Supplies,Stapler,211.07,1,0.05,Cash,Delivered,3.0,211.07,10.55,200.52,164.09,36.43
+ORD-00196,2025-04-23,CUST-0228,East,Bhubaneswar,Consumer,Marketplace,Home & Kitchen,Coffee Maker,293.54,1,0.25,Credit Card,Delivered,2.0,293.54,73.39,220.15,148.63,71.52
+ORD-00302,2025-10-31,CUST-0080,South,Hyderabad,Small Business,Online,Office Supplies,Pen Set,402.71,1,0.15,UPI,Processing,2.0,402.71,60.41,342.3,240.72,101.58
+ORD-00109,2025-02-10,CUST-0088,West,Surat,Consumer,Marketplace,Clothing,Sneakers,1113.37,8,0.15,UPI,Delivered,8.0,8906.96,1336.04,7570.92,6530.23,1040.69
+ORD-00135,2025-01-15,CUST-0374,North,,Corporate,Online,Office Supplies,Pen Set,378.83,1,0.0,Debit Card,Delivered,4.0,378.83,0.0,378.83,207.22,171.61
+ORD-00014,2025-12-26,CUST-0123,West,Ahmedabad,Small Business,Online,Electronics,USB Hub,1224.87,2,0.2,Credit Card,Delivered,3.0,2449.74,489.95,1959.79,1500.56,459.23
+ORD-00896,2025-01-03,CUST-0272,West,Pune,Corporate,Online,Electronics,Wireless Mouse,1505.17,8,0.1,UPI,Shipped,4.0,12041.36,1204.14,10837.22,7562.64,3274.58
+ORD-00860,2025-10-09,CUST-0383,East,Patna,Consumer,Retail Store,Clothing,T-Shirt,2257.04,5,0.15,Debit Card,Delivered,4.0,11285.2,1692.78,9592.42,7300.53,2291.89
+ORD-00641,2025-05-21,CUST-0348,West,Mumbai,Corporate,online ,Office Supplies,Printer Paper,641.61,10,0.1,Cash,Delivered,7.0,6416.1,641.61,5774.49,4776.57,997.92
+ORD-00042,2025-05-11,CUST-0176,East,Bhubaneswar,Consumer,Marketplace,Home & Kitchen,Water Bottle,2931.07,6,0.25,Credit Card,Delivered,3.0,17586.42,4396.6,13189.82,12015.26,1174.56
+ORD-01071,2025-04-14,CUST-0196,South,Bengaluru,Consumer,Online,Electronics,Headphones,5065.38,1,0.2,Debit Card,Processing,2.0,5065.38,1013.08,4052.3,3002.89,1049.41
+ORD-00756,2025-01-01,CUST-0267,East,Patna,Consumer,Online,Home & Kitchen,Coffee Maker,2719.25,3,0.05,Debit Card,Delivered,4.0,8157.75,407.89,7749.86,4273.6,3476.26
+ORD-00464,2025-06-03,CUST-0261,East,Ranchi,Consumer,Phone Order,Office Supplies,Printer Paper,265.0,4,0.0,Debit Card,Delivered,4.0,1060.0,0.0,1060.0,561.72,498.28
+ORD-00943,2025-10-16,CUST-0150,South,,Small Business,Online,Furniture,Bookshelf,10983.22,4,0.15,Debit Card,Delivered,5.0,43932.88,6589.93,37342.95,22976.44,14366.51
+ORD-00063,2025-12-26,CUST-0367,North,Jaipur,Corporate,Retail Store,Electronics,Wireless Mouse,6163.26,1,0.0,UPI,Cancelled,2.0,6163.26,0.0,6163.26,3055.08,3108.18
+ORD-00422,2025-02-16,CUST-0302,West,Mumbai,Consumer,Retail Store,Electronics,Keyboard,11142.84,2,0.05,Credit Card,delivered,3.0,22285.68,1114.28,21171.4,11030.77,10140.63
+ORD-00077,2025-09-28,CUST-0115,South,Chennai,Small Business,Marketplace,Clothing,T-Shirt,1684.32,5,0.1,UPI,Shipped,5.0,8421.6,842.16,7579.44,5800.45,1778.99
+ORD-00769,2025-06-11,CUST-0048,North,Jaipur,Consumer,Retail Store,Furniture,Bookshelf,10482.76,2,0.0,Net Banking,delivered,8.0,20965.52,0.0,20965.52,15649.89,5315.63
+ORD-00491,2025-08-11,CUST-0331,East,Ranchi,Consumer,Online,Clothing,T-Shirt,1815.42,1,0.05,Net Banking,Delivered,4.0,1815.42,90.77,1724.65,920.03,804.62
+ORD-00056,2025-12-06,CUST-0250,North,Delhi,Consumer,Online,Office Supplies,Markers,660.56,1,0.2,Credit Card,Delivered,2.0,660.56,132.11,528.45,330.13,198.32
+ORD-00153,2025-06-09,CUST-0267,North,Lucknow,Corporate,Online,Office supplies,Pen Set,608.66,1,0.25,Credit Card,Delivered,4.0,608.66,152.16,456.5,460.61,-4.11
+ORD-01034,2025-12-15,CUST-0335,West,Pune,Small Business,Online,Electronics,USB Hub,5287.2,1,0.1,Debit Card,Delivered,2.0,5287.2,528.72,4758.48,2549.99,2208.49
+ORD-00411,2025-04-11,CUST-0037,West,Ahmedabad,Consumer,Online,Electronics,Monitor,15627.52,3,0.1,UPI,Delivered,5.0,46882.56,4688.26,42194.3,24147.84,18046.46
+ORD-00784,2025-12-07,CUST-0290,West,Mumbai,Corporate,Online,Electronics,Keyboard,8673.93,3,0.1,UPI,Delivered,4.0,26021.79,2602.18,23419.61,19601.24,3818.37
+ORD-00792,2025-11-02,CUST-0110,South,Bengaluru,Consumer,Online,Home & Kitchen,Water Bottle,5554.55,5,0.05,Debit Card,Shipped,1.0,27772.75,1388.64,26384.11,18561.5,7822.61
+ORD-00348,2025-09-10,CUST-0269,North,Jaipur,Corporate,Marketplace,Office Supplies,Pen Set,590.43,5,0.2,Debit Card,Delivered,4.0,2952.15,590.43,2361.72,1799.5,562.22
+ORD-00866,2025-02-25,CUST-0371,North,Jaipur,Consumer,Retail Store,Office Supplies,Notebook,81.77,10,0.0,credit card,Delivered,7.0,817.7,0.0,817.7,420.77,396.93
+ORD-00575,2025-08-11,CUST-0099,East,Ranchi,Consumer,Retail Store,Furniture,Filing Cabinet,5775.99,1,0.0,Credit Card,Delivered,3.0,5775.99,0.0,5775.99,3797.14,1978.85
+ORD-00353,2025-01-18,CUST-0336,South,Hyderabad,Consumer,Marketplace,Office Supplies,Printer Paper,669.78,6,0.2,UPI,Shipped,1.0,4018.68,803.74,3214.94,2112.36,1102.58
+ORD-00372,2025-06-25,CUST-0082,South,Kochi,Consumer,Online,Furniture,Desk,10178.34,1,0.15,Cash,Delivered,1.0,10178.34,1526.75,8651.59,6942.87,1708.72
+ORD-01012,2025-11-17,CUST-0021,West,Pune,Consumer,Marketplace,Office Supplies,Markers,681.33,4,0.05,Credit Card,Delivered,4.0,2725.32,136.27,2589.05,1492.67,1096.38
+ORD-00228,2025-10-07,CUST-0310,North,Jaipur,Small Business,Online,Clothing,Sneakers,2869.78,4,0.0,Debit Card,Shipped,5.0,11479.12,0.0,11479.12,6172.81,5306.31
+ORD-00285,2025-12-06,CUST-0134,East,Bhubaneswar,Consumer,Retail Store,Furniture,Office Chair,19924.89,1,0.05,Cash,Delivered,7.0,19924.89,996.24,18928.65,14231.2,4697.45
+ORD-01094,2025-11-26,CUST-0293,East,Ranchi,Consumer,Marketplace,Office Supplies,Stapler,699.24,2,0.05,Net Banking,Delivered,5.0,1398.48,69.92,1328.56,1085.78,242.78
+ORD-01103,2025-07-03,CUST-0075,West,Surat,Consumer,Retail Store,Clothing,T-Shirt,2796.83,2,0.2,Credit Card,Cancelled,8.0,5593.66,1118.73,4474.93,3593.93,881.0
+ORD-00600,2025-08-27,CUST-0232,East,Ranchi,Consumer,Online,Office Supplies,Stapler,645.02,1,0.1,UPI,Delivered,3.0,645.02,64.5,580.52,427.42,153.1
+ORD-00681,2025-05-24,CUST-0368,North,Chandigarh,Corporate,Marketplace,Office Supplies,Stapler,339.31,2,0.15,UPI,Delivered,3.0,678.62,101.79,576.83,405.52,171.31
+ORD-00274,2025-10-31,CUST-0040,East,Ranchi,Consumer,Retail Store,Home & Kitchen,Storage Box,6260.92,3,0.2,Cash,Delivered,6.0,18782.76,3756.55,15026.21,14292.61,733.6
+ORD-00152,2025-01-13,CUST-0018,East,Kolkata,Consumer,Retail Store,Home & Kitchen,Storage Box,1729.98,4,0.1,credit card,Delivered,2.0,6919.92,691.99,6227.93,3570.44,2657.49
+ORD-00172,2025-12-14,CUST-0145,West,Pune,Consumer,Retail Store,Clothing,Sneakers,345.45,2,0.1,,Delivered,7.0,690.9,69.09,621.81,483.74,138.07
+ORD-00730,2025-12-07,CUST-0071,South,Kochi,Small Business,Phone Order,Clothing,Jacket,1221.53,5,0.15,Debit Card,RETURNED,6.0,6107.65,916.15,5191.5,4188.13,1003.37
+ORD-00089,2025-09-09,CUST-0397,East,Kolkata,Consumer,Phone Order,Furniture,Desk,14004.73,1,0.15,Net Banking,Delivered,3.0,14004.73,2100.71,11904.02,7432.47,4471.55
+ORD-00733,2025-08-05,CUST-0046,East,Patna,Corporate,Retail Store,Furniture,Bookshelf,8899.08,5,0.05,Net Banking,Processing,8.0,44495.4,2224.77,42270.63,33114.64,9155.99
+ORD-00185,2025-06-14,CUST-0183,West,Mumbai,Corporate,Online,Furniture,Office Chair,20226.84,3,0.3,UPI,Delivered,3.0,60680.52,18204.16,42476.36,45990.42,-3514.06
+ORD-00276,2025-05-11,CUST-0112,East,Bhubaneswar,Consumer,Marketplace,Clothing,Jacket,1620.54,3,0.0,Net Banking,Shipped,1.0,4861.62,0.0,4861.62,2560.39,2301.23
+ORD-00849,2025-01-01,CUST-0103,East,Patna,Consumer,Retail Store,Electronics,USB Hub,5389.39,1,0.1,Credit Card,Delivered,6.0,5389.39,538.94,4850.45,3803.19,1047.26
+ORD-00739,2025-04-15,CUST-0142,East,Kolkata,Corporate,Marketplace,Electronics,Monitor,9008.39,4,0.15,UPI,Delivered,3.0,36033.56,5405.03,30628.53,17819.52,12809.01
+ORD-00105,2025-06-12,CUST-0295,North,Lucknow,Corporate,Online,Office Supplies,Pen Set,248.95,2,0.0,UPI,Delivered,4.0,497.9,0.0,497.9,259.44,238.46
+ORD-00728,2025-06-26,CUST-0189,North,Delhi,Corporate,Marketplace,Furniture,Desk,2556.16,4,0.0,Credit Card,Delivered,2.0,10224.64,0.0,10224.64,5434.26,4790.38
+ORD-00843,2025-01-05,CUST-0334,East,Ranchi,Corporate,Retail Store,Furniture,Filing Cabinet,20386.66,2,0.25,Credit Card,Returned,4.0,40773.32,10193.33,30579.99,22579.5,8000.49
+ORD-00384,2025-01-20,CUST-0133,West,Ahmedabad,Consumer,Retail Store,Furniture,Filing Cabinet,16010.21,5,0.2,Debit Card,Delivered,5.0,80051.05,16010.21,64040.84,58528.18,5512.66
+ORD-00948,2025-04-22,CUST-0354,East,Bhubaneswar,Small Business,Retail Store,Clothing,Jacket,801.47,2,0.1,UPI,Delivered,3.0,1602.94,160.29,1442.65,1041.59,401.06
+ORD-00861,2025-09-06,CUST-0017,West,Ahmedabad,Consumer,Marketplace,Furniture,Desk,17405.15,1,0.1,Debit Card,Delivered,4.0,17405.15,1740.52,15664.63,10934.06,4730.57
+ORD-01084,2025-02-07,CUST-0309,South,Hyderabad,Consumer,Retail Store,Electronics,USB Hub,5955.86,1,0.1,UPI,Shipped,4.0,5955.86,595.59,5360.27,4434.89,925.38
+ORD-01014,2025-04-11,CUST-0249,West,Pune,Consumer,Online,Electronics,USB Hub,5767.27,3,0.3,Debit Card,Delivered,4.0,17301.81,5190.54,12111.27,11058.57,1052.7
+ORD-01189,2025-07-01,CUST-0319,North,Delhi,Corporate,Online,Home & Kitchen,Coffee Maker,3730.15,4,0.1,Debit Card,Delivered,2.0,14920.6,1492.06,13428.54,8278.62,5149.92
+ORD-00238,2025-11-22,CUST-0101,East,Patna,Corporate,online ,Electronics,USB Hub,6200.71,10,0.0,UPI,Delivered,3.0,62007.1,0.0,62007.1,30020.53,31986.57
+ORD-01199,2025-05-30,CUST-0225,North,Chandigarh,Corporate,Online,Home & Kitchen,Water Bottle,4380.33,8,0.15,Cash,Delivered,1.0,35042.64,5256.4,29786.24,25581.15,4205.09
+ORD-01017,2025-09-22,CUST-0211,West,Pune,Consumer,Online,Furniture,Office Chair,18815.99,2,0.2,Debit Card,Delivered,4.0,37631.98,7526.4,30105.58,18978.76,11126.82
+ORD-00445,2025-02-27,CUST-0193,South,Chennai,Small Business,Online,Clothing,Sneakers,3081.93,2,0.05,UPI,Delivered,5.0,6163.86,308.19,5855.67,3683.19,2172.48
+ORD-00662,2025-10-30,CUST-0201,South,Chennai,Corporate,Marketplace,Home & Kitchen,Storage Box,700.85,3,0.2,Net Banking,Delivered,8.0,2102.55,420.51,1682.04,1494.13,187.91
+ORD-00271,2025-08-21,CUST-0109,West,Surat,Consumer,Online,Furniture,Bookshelf,2752.96,3,0.1,UPI,Delivered,3.0,8258.88,825.89,7432.99,5200.57,2232.42
+ORD-00463,2025-03-17,CUST-0323,North,Jaipur,Corporate,Marketplace,Home & Kitchen,Water Bottle,1241.29,2,0.0,Credit Card,Delivered,3.0,2482.58,0.0,2482.58,1618.29,864.29
+ORD-00690,2025-12-14,CUST-0234,East,Bhubaneswar,Consumer,Retail Store,Clothing,T-Shirt,2241.95,1,0.05,UPI,Delivered,1.0,2241.95,112.1,2129.85,1078.4,1051.45
+ORD-01186,2025-12-30,CUST-0086,North,Chandigarh,Small Business,Retail Store,Electronics,Monitor,3881.01,1,0.0,Credit Card,Delivered,4.0,3881.01,0.0,3881.01,2688.56,1192.45
+ORD-00510,2025-04-11,CUST-0136,North,Delhi,Consumer,Marketplace,Office Supplies,Notebook,507.17,8,0.3,Debit Card,Shipped,8.0,4057.36,1217.21,2840.15,3030.1,-189.95
+ORD-00735,2025-11-11,CUST-0328,North,Lucknow,Corporate,Marketplace,Clothing,Jeans,3161.14,1,0.2,Credit Card,Delivered,3.0,3161.14,632.23,2528.91,2330.16,198.75
+ORD-01175,2025-10-18,CUST-0126,East,Patna,Small Business,Marketplace,Furniture,Filing Cabinet,4549.76,4,0.05,Credit Card,Processing,6.0,18199.04,909.95,17289.09,13219.67,4069.42
+ORD-00541,2025-12-23,CUST-0262,North,Chandigarh,Consumer,Online,Electronics,Monitor,9873.55,4,0.0,Credit Card,Delivered,5.0,39494.2,0.0,39494.2,29978.77,9515.43
+ORD-00501,2025-09-04,CUST-0254,North,Chandigarh,Consumer,Retail Store,Furniture,Desk,3854.56,5,0.2,Credit Card,Shipped,2.0,19272.8,3854.56,15418.24,13330.63,2087.61
+ORD-00964,2025-08-11,CUST-0263,South,Kochi,Consumer,Marketplace,Furniture,Desk,13503.4,6,0.0,Net Banking,Delivered,5.0,81020.4,0.0,81020.4,43849.91,37170.49
+ORD-00992,2025-01-01,CUST-0209,East,Kolkata,Corporate,Online,Electronics,Keyboard,7609.65,1,0.15,Net Banking,Processing,4.0,7609.65,1141.45,6468.2,4201.09,2267.11
+ORD-00816,2025-09-19,CUST-0275,West,Pune,Corporate,Online,Electronics,USB Hub,12327.58,3,0.1,UPI,Processing,2.0,36982.74,3698.27,33284.47,25475.66,7808.81
+ORD-00517,2025-02-13,CUST-0109,West,Surat,Consumer,Marketplace,Home & Kitchen,Storage Box,4511.73,6,0.15,Cash,Delivered,1.0,27070.38,4060.56,23009.82,14873.11,8136.71
+ORD-01149,2025-04-16,CUST-0351,South,Bengaluru,Corporate,Retail Store,Electronics,USB Hub,6487.21,2,0.1,Credit Card,Delivered,5.0,12974.42,1297.44,11676.98,7873.49,3803.49
+ORD-00195,2025-06-29,CUST-0304,North,Delhi,Consumer,Retail Store,Office Supplies,Stapler,751.93,1,0.0,Credit Card,Processing,4.0,751.93,0.0,751.93,408.36,343.57
+ORD-00945,2025-10-04,CUST-0073,East,Bhubaneswar,Consumer,Online,Office Supplies,Printer Paper,575.46,1,0.15,Net Banking,Delivered,7.0,575.46,86.32,489.14,320.47,168.67
+ORD-00005,2025-03-13,CUST-0363,North,Delhi,Corporate,Retail Store,Electronics,USB Hub,11796.1,2,0.0,UPI,Delivered,5.0,23592.2,0.0,23592.2,18381.91,5210.29
+ORD-00179,2025-08-21,CUST-0364,West,Ahmedabad,Consumer,Online,Electronics,Headphones,12114.59,2,0.0,Net Banking,Returned,3.0,24229.18,0.0,24229.18,14442.67,9786.51
+ORD-00408,2025-11-22,CUST-0180,North,Jaipur,Corporate,Online,Furniture,Desk,6913.5,1,0.1,UPI,Delivered,4.0,6913.5,691.35,6222.15,4947.63,1274.52
+ORD-00062,2025-02-19,CUST-0243,North,Lucknow,Consumer,Online,Home & Kitchen,Coffee Maker,1221.26,1,0.1,Net Banking,Delivered,8.0,1221.26,122.13,1099.13,783.89,315.24
+ORD-00167,2025-02-13,CUST-0157,East,Bhubaneswar,Small Business,Online,Clothing,Jeans,1107.26,1,0.15,Credit Card,Delivered,4.0,1107.26,166.09,941.17,666.68,274.49
+ORD-00240,2025-09-16,CUST-0166,West,Ahmedabad,Corporate,Online,Electronics,USB Hub,9545.46,2,0.15,Credit Card,Cancelled,,19090.92,2863.64,16227.28,11586.58,4640.7
+ORD-00995,2025-11-16,CUST-0278,West,Mumbai,Consumer,Marketplace,Electronics,Wireless Mouse,14847.87,3,0.1,UPI,Delivered,1.0,44543.61,4454.36,40089.25,28959.99,11129.26
+ORD-00380,2025-11-12,CUST-0125,North,Jaipur,Consumer,Online,Clothing,Sneakers,2741.6,1,0.0,UPI,Delivered,3.0,2741.6,0.0,2741.6,1437.33,1304.27
+ORD-00993,2025-03-31,CUST-0163,East,Kolkata,Consumer,Retail Store,Office Supplies,Notebook,594.71,4,0.2,UPI,Delivered,2.0,2378.84,475.77,1903.07,1824.53,78.54
+ORD-00623,2025-11-23,CUST-0177,North,Jaipur,Corporate,Online,Office Supplies,Notebook,845.09,3,0.0,Cash,Shipped,7.0,2535.27,0.0,2535.27,1650.8,884.47
+ORD-00551,2025-08-12,CUST-0397,North,Delhi,Small Business,Marketplace,Furniture,Bookshelf,17214.62,6,0.05,,Processing,5.0,103287.72,5164.39,98123.33,71185.31,26938.02
+ORD-00839,2025-03-02,CUST-0219,North,Chandigarh,Consumer,Retail Store,Office Supplies,Markers,841.02,5,0.1,,Cancelled,8.0,4205.1,420.51,3784.59,2247.9,1536.69
+ORD-00098,2025-01-09,CUST-0251,West,Ahmedabad,Small Business,Online,Office Supplies,Notebook,545.26,1,0.0,Net Banking,Shipped,8.0,545.26,0.0,545.26,334.88,210.38
+ORD-00158,2025-10-11,CUST-0346,North,Chandigarh,Consumer,Online,Office Supplies,Stapler,461.05,1,0.1,UPI,Delivered,4.0,461.05,46.1,414.95,229.55,185.4
+ORD-01104,2025-01-15,CUST-0157,East,Bhubaneswar,Consumer,Online,Electronics,USB Hub,6410.93,1,0.05,UPI,Delivered,1.0,6410.93,320.55,6090.38,3706.69,2383.69
+ORD-00851,2025-08-21,CUST-0142,North,Delhi,Consumer,Marketplace,Electronics,Headphones,9600.5,2,0.2,UPI,Processing,7.0,19201.0,3840.2,15360.8,10467.41,4893.39
+ORD-00485,2025-01-10,CUST-0391,West,Surat,Small Business,Online,Clothing,Jeans,3400.55,8,0.15,Debit Card,delivered,3.0,27204.4,4080.66,23123.74,14561.27,8562.47
+ORD-01191,2025-01-25,CUST-0367,North,Delhi,Consumer,Online,Furniture,Bookshelf,20935.99,1,0.2,Net Banking,Processing,4.0,20935.99,4187.2,16748.79,12950.99,3797.8
+ORD-00401,2025-05-30,CUST-0271,West,Mumbai,Corporate,Marketplace,Electronics,Wireless Mouse,1254.68,5,0.15,UPI,Delivered,6.0,6273.4,941.01,5332.39,3994.12,1338.27
+ORD-00852,2025-01-12,CUST-0201,South,,Corporate,Online,Office Supplies,Notebook,653.57,2,0.1,Credit Card,Shipped,6.0,1307.14,130.71,1176.43,808.83,367.6
+ORD-00774,2025-02-23,CUST-0328,South,Bengaluru,Consumer,Retail Store,Furniture,Bookshelf,8128.18,2,0.0,UPI,Delivered,3.0,16256.36,0.0,16256.36,11211.22,5045.14
+ORD-00248,2025-11-04,CUST-0358,North,Lucknow,Corporate,Online,Office Supplies,Stapler,840.37,3,0.0,Net Banking,Delivered,2.0,2521.11,0.0,2521.11,1809.91,711.2
+ORD-00941,2025-12-31,CUST-0376,North,Chandigarh,Consumer,Retail store,Office Supplies,Notebook,284.82,5,0.2,UPI,Delivered,2.0,1424.1,284.82,1139.28,806.76,332.52
+ORD-00988,2025-01-20,CUST-0078,West,Ahmedabad,Corporate,Online,Home & Kitchen,Coffee Maker,4126.24,1,0.05,Debit Card,Delivered,3.0,4126.24,206.31,3919.93,2062.22,1857.71
+ORD-00586,2025-02-08,CUST-0208,West,Surat,Consumer,Marketplace,Home & Kitchen,Coffee Maker,4646.88,4,0.15,,Delivered,4.0,18587.52,2788.13,15799.39,9479.7,6319.69
+ORD-00680,2025-09-16,CUST-0234,West,Surat,Corporate,online ,Clothing,Jeans,1299.96,6,0.1,Debit Card,Delivered,4.0,7799.76,779.98,7019.78,5933.29,1086.49
+ORD-00447,2025-01-01,CUST-0391,North,Delhi,Corporate,Marketplace,Office Supplies,Markers,328.93,1,0.25,Net banking ,Delivered,4.0,328.93,82.23,246.7,211.45,35.25
+ORD-00571,2025-03-17,CUST-0232,North,Chandigarh,Consumer,Marketplace,Electronics,Headphones,12206.8,3,0.0,Debit Card,Delivered,3.0,36620.4,0.0,36620.4,20930.42,15689.98
+ORD-01111,2025-11-28,CUST-0158,North,Chandigarh,Consumer,Online,Home & Kitchen,Desk Lamp,6450.0,4,0.15,Debit Card,Delivered,4.0,25800.0,3870.0,21930.0,16786.4,5143.6
+ORD-00905,2025-07-11,CUST-0146,South,Kochi,Consumer,Online,Home & Kitchen,Water Bottle,2862.13,2,0.2,Debit Card,Delivered,5.0,5724.26,1144.85,4579.41,4013.71,565.7
+ORD-00777,2025-09-08,CUST-0302,West,Mumbai,Consumer,Online,Furniture,Filing Cabinet,1479.2,2,0.1,Credit Card,Shipped,8.0,2958.4,295.84,2662.56,2003.05,659.51
+ORD-00850,2025-05-13,CUST-0101,West,Ahmedabad,Consumer,Online,Office Supplies,Markers,301.65,3,0.15,UPI,Cancelled,5.0,904.95,135.74,769.21,452.7,316.51
+ORD-00157,2025-03-27,CUST-0116,West,Pune,,Online,Electronics,Headphones,15288.43,8,0.15,Debit Card,Processing,1.0,122307.44,18346.12,103961.32,59998.6,43962.72
+ORD-00469,2025-08-08,CUST-0252,South,Chennai,Corporate,Retail Store,Office Supplies,Markers,534.13,1,0.15,UPI,Cancelled,6.0,534.13,80.12,454.01,403.74,50.27
+ORD-01047,2025-03-19,CUST-0380,North,Jaipur,Corporate,Phone Order,Home & Kitchen,Desk Lamp,3842.72,2,0.0,Debit Card,Returned,5.0,7685.44,0.0,7685.44,5930.76,1754.68
+ORD-00817,2025-02-22,CUST-0064,East,Kolkata,Consumer,Online,Office Supplies,Markers,562.22,3,0.1,Credit Card,Delivered,2.0,1686.66,168.67,1517.99,1295.58,222.41
+ORD-00721,2025-01-05,CUST-0062,South,Hyderabad,Consumer,Online,Clothing,Jacket,644.2,3,0.05,Net Banking,Shipped,4.0,1932.6,96.63,1835.97,1062.57,773.4
+ORD-00500,2025-12-02,CUST-0142,North,Jaipur,Consumer, MARKETPLACE,Electronics,USB Hub,1017.25,2,0.2,UPI,Delivered,6.0,2034.5,406.9,1627.6,1306.35,321.25
+ORD-00029,2025-12-11,CUST-0182,West,Surat,Small Business,Phone Order,Clothing,Sneakers,1760.19,1,0.0,UPI,Delivered,4.0,1760.19,0.0,1760.19,1322.8,437.39
+ORD-00715,2025-01-10,CUST-0316,north ,Delhi,Consumer,Marketplace,Electronics,Keyboard,3217.0,3,0.2,UPI,Delivered,3.0,9651.0,1930.2,7720.8,7349.48,371.32
+ORD-00139,2025-03-04,CUST-0272,South,Kochi,Consumer,Online,Office Supplies,Stapler,124.28,1,0.0,UPI,Delivered,8.0,124.28,0.0,124.28,86.19,38.09
+ORD-00617,2025-12-05,CUST-0317,East,Bhubaneswar,Corporate,Marketplace,Clothing,Jeans,2154.02,1,0.1,Credit Card,Delivered,1.0,2154.02,215.4,1938.62,1118.27,820.35
+ORD-01021,2025-11-01,CUST-0330,West,Ahmedabad,Corporate,Online,Office Supplies,Markers,899.45,1,0.0,Credit Card,Shipped,1.0,899.45,0.0,899.45,595.88,303.57
+ORD-00805,2025-02-20,CUST-0272,North,Jaipur,Consumer, MARKETPLACE,Home & Kitchen,Coffee Maker,4596.36,3,0.1,Credit Card,Shipped,6.0,13789.08,1378.91,12410.17,7531.74,4878.43
+ORD-00482,2025-12-23,CUST-0341,North,Jaipur,Consumer,Marketplace,Furniture,Bookshelf,17876.35,2,0.25,UPI,Delivered,5.0,35752.7,8938.17,26814.53,17978.75,8835.78
+ORD-00803,2025-09-04,CUST-0361,South,Chennai,Consumer,Marketplace,Electronics,Headphones,16111.3,3,0.15,Credit Card,Cancelled,6.0,48333.9,7250.08,41083.82,36759.19,4324.63
+ORD-00875,2025-09-14,CUST-0332,North,Chandigarh,Consumer,Online,Home & Kitchen,Water Bottle,4678.94,3,0.2,Debit Card,Delivered,2.0,14036.82,2807.36,11229.46,7505.4,3724.06
+ORD-00914,2025-10-27,CUST-0118,North,Delhi,Consumer,Retail store,Office Supplies,Markers,877.53,2,0.1,UPI,Cancelled,3.0,1755.06,175.51,1579.55,1100.49,479.06
+ORD-00101,2025-05-16,CUST-0299,North,Chandigarh,Consumer,Phone Order,Furniture,Filing Cabinet,4152.21,4,0.15,UPI,Delivered,3.0,16608.84,2491.33,14117.51,9793.55,4323.96
+ORD-00604,2025-09-10,CUST-0060,South,Kochi,Consumer,Online,Clothing,T-Shirt,2298.71,1,0.0,UPI,Delivered,4.0,2298.71,0.0,2298.71,1527.65,771.06
+ORD-00102,2025-03-04,CUST-0248,East,Kolkata,Consumer,Phone Order,Furniture,Desk,7538.23,1,0.25,Debit Card,Processing,,7538.23,1884.56,5653.67,3790.98,1862.69
+ORD-00950,2025-12-16,CUST-0309,South,Bengaluru,Consumer,Retail Store,Electronics,Monitor,11070.11,2,0.15,Credit Card,Delivered,3.0,22140.22,3321.03,18819.19,15557.19,3262.0
+ORD-00669,2025-06-13,CUST-0319,East,Bhubaneswar,Consumer,Marketplace,Furniture,Office Chair,20103.54,1,0.2,Net Banking,Processing,4.0,20103.54,4020.71,16082.83,11825.12,4257.71
+ORD-01133,2025-10-29,CUST-0382,North,Jaipur,Consumer,online ,Furniture,Office Chair,7671.31,10,0.0,Credit Card,Delivered,4.0,76713.1,0.0,76713.1,57675.38,19037.72
+ORD-00959,2025-08-31,CUST-0184,North,Chandigarh,Consumer,Online,Furniture,Desk,3789.71,5,0.2,UPI,Delivered,1.0,18948.55,3789.71,15158.84,14330.98,827.86
+ORD-00654,2025-04-27,CUST-0007,north ,Jaipur,Consumer,Marketplace,Office Supplies,Printer Paper,429.38,3,0.1,Debit Card,Shipped,4.0,1288.14,128.81,1159.33,778.97,380.36
+ORD-00387,2025-05-22,CUST-0357,South,Kochi,Corporate,Online,Home & Kitchen,Storage Box,2229.25,2,0.1,UPI,Delivered,3.0,4458.5,445.85,4012.65,2706.42,1306.23
+ORD-00011,2025-11-27,CUST-0331,North,Jaipur,Consumer,Online,Electronics,Monitor,11358.4,1,0.1,UPI,Delivered,5.0,11358.4,1135.84,10222.56,8391.09,1831.47
+ORD-00960,2025-01-31,CUST-0335,North,Chandigarh,Consumer,Retail Store,Clothing,T-Shirt,3405.92,2,0.1,UPI,Delivered,7.0,6811.84,681.18,6130.66,3372.71,2757.95
+ORD-00658,2025-06-22,CUST-0286,South,Bengaluru,Corporate,Phone Order,Electronics,Monitor,,6,0.15,Credit Card,Shipped,5.0,97605.18,14640.78,82964.4,65594.53,17369.87
+ORD-00931,2025-08-24,CUST-0121,South,Bengaluru,Consumer,Marketplace,Furniture,Bookshelf,21345.08,1,0.1,Debit Card,Delivered,8.0,21345.08,2134.51,19210.57,10487.43,8723.14
+ORD-00405,2025-11-01,CUST-0341,West,Ahmedabad,Consumer,Online,Clothing,Sneakers,2747.64,2,0.0,Cash,RETURNED,5.0,5495.28,0.0,5495.28,3109.09,2386.19
+ORD-01174,2025-06-03,CUST-0064,North,Delhi,Corporate,Retail Store,Office Supplies,Stapler,450.36,1,0.0,Net Banking,Delivered,5.0,450.36,0.0,450.36,217.94,232.42
+ORD-00636,2025-12-12,CUST-0039,East,Bhubaneswar,Corporate,Retail store,Home & Kitchen,Water Bottle,2485.45,8,0.2,UPI,Delivered,3.0,19883.6,3976.72,15906.88,13828.79,2078.09
+ORD-00565,2025-12-08,CUST-0349, east,Ranchi,Consumer,Marketplace,Clothing,Jacket,1804.31,2,0.2,UPI,Delivered,4.0,3608.62,721.72,2886.9,2570.23,316.67
+ORD-01129,2025-07-19,CUST-0064,South,Hyderabad,Consumer,Online,Electronics,USB Hub,14877.66,2,0.25,Cash,Delivered,,29755.32,7438.83,22316.49,17108.66,5207.83
+ORD-00709,2025-02-04,CUST-0344,North,Lucknow,Consumer,Marketplace,Furniture,Bookshelf,1418.94,4,0.25,UPI,Delivered,2.0,5675.76,1418.94,4256.82,2744.69,1512.13
+ORD-00113,2025-11-24,CUST-0335,North,Lucknow,,Phone Order,Furniture,Office Chair,7119.89,1,0.0,Credit Card,Shipped,4.0,7119.89,0.0,7119.89,3765.97,3353.92
+ORD-00772,2025-11-02,CUST-0272,East,Patna,Consumer,Marketplace,Electronics,Keyboard,5032.67,1,0.2,Debit Card,Delivered,3.0,5032.67,1006.53,4026.14,3750.48,275.66
+ORD-00174,2025-07-09,CUST-0152,North,Jaipur,Consumer,online ,Electronics,Monitor,7985.65,3,0.1,Credit Card,Delivered,3.0,23956.95,2395.7,21561.25,12402.86,9158.39
+ORD-00201,2025-04-23,CUST-0164,East,Ranchi,Consumer,Retail Store,Office Supplies,Printer Paper,387.63,2,0.2,Cash,Returned,6.0,775.26,155.05,620.21,419.4,200.81
+ORD-00013,2025-04-10,CUST-0061,North,Delhi,Consumer,Phone Order,Furniture,Office Chair,21671.22,1,0.0,Debit Card,Delivered,5.0,21671.22,0.0,21671.22,16388.43,5282.79
+ORD-00171,2025-05-08,CUST-0126,North,Delhi,Consumer,Phone Order,Furniture,Desk,8214.17,2,0.0,UPI,Delivered,4.0,16428.34,0.0,16428.34,9439.12,6989.22
+ORD-00711,2025-03-23,CUST-0142,West,Mumbai,Corporate,Retail Store,Electronics,Headphones,12516.22,1,0.1,UPI,Processing,7.0,12516.22,1251.62,11264.6,8626.89,2637.71
+ORD-00119,2025-10-20,CUST-0175,North,Chandigarh,Corporate,Online,Clothing,T-Shirt,2634.16,3,0.1,Debit Card,Delivered,6.0,7902.48,790.25,7112.23,5116.4,1995.83
+ORD-01169,2025-11-05,CUST-0231,North,Lucknow,Small Business,Marketplace,Electronics,Headphones,3878.5,1,0.25,Cash,delivered,14.0,3878.5,969.62,2908.88,2766.81,142.07
+ORD-00097,2025-11-23,CUST-0398,North,Delhi,Small Business,Online,Home & kitchen,Storage Box,400.25,4,0.0,Credit Card,Shipped,6.0,1601.0,0.0,1601.0,828.92,772.08
+ORD-00821,2025-02-12,CUST-0137,East,Ranchi,Consumer,Retail Store,Furniture,Bookshelf,13453.97,5,0.1,Cash,Delivered,4.0,67269.85,6726.98,60542.87,47069.96,13472.91
+ORD-00712,2025-09-13,CUST-0206,East,Bhubaneswar,Corporate,Phone Order,Office Supplies,Stapler,593.43,3,0.25,UPI,Delivered,3.0,1780.29,445.07,1335.22,893.44,441.78
+ORD-00521,2025-10-29,CUST-0138,West,Mumbai,Corporate,online ,Office Supplies,Stapler,884.16,4,0.0,Cash,Processing,2.0,3536.64,0.0,3536.64,1809.12,1727.52
+ORD-00003,2025-09-28,CUST-0147,North,Chandigarh,Corporate,Online,Clothing,Jeans,1277.04,3,0.1,Debit Card,Shipped,1.0,3831.12,383.11,3448.01,2066.6,1381.41
+ORD-00526,2025-12-03,CUST-0121,North,Jaipur,Corporate,Online,Office Supplies,Notebook,573.11,1,0.1,UPI,Delivered,3.0,573.11,57.31,515.8,365.88,149.92
+ORD-00391,2025-11-18,CUST-0083,West,Pune,Consumer,Marketplace,Electronics,USB Hub,17506.68,3,0.0,UPI,Shipped,4.0,52520.04,0.0,52520.04,36353.76,16166.28
+ORD-00318,2025-08-14,CUST-0090,West,Pune,Consumer,Retail Store,Home & Kitchen,Storage Box,981.06,1,0.0,UPI,Delivered,6.0,981.06,0.0,981.06,598.74,382.32
+ORD-00382,2025-02-05,CUST-0272,North,Delhi,Small Business,Phone Order,Office Supplies,Notebook,72.78,1,0.0,Credit Card,Delivered,4.0,72.78,0.0,72.78,52.2,20.58
+ORD-00424,2025-11-07,CUST-0240,SOUTH,Bengaluru,Corporate,Phone Order,Office Supplies,Stapler,83.02,1,0.0,Cash,Processing,2.0,83.02,0.0,83.02,40.37,42.65
+ORD-00525,2025-08-03,CUST-0216,East,Patna,Small Business,Online,Electronics,USB Hub,14313.86,2,0.2,UPI,Delivered,7.0,28627.72,5725.54,22902.18,19672.53,3229.65
+ORD-00242,2025-09-09,CUST-0032,North,Chandigarh,Consumer,Retail Store,Home & Kitchen,Water Bottle,3189.01,1,0.25,Net Banking,Shipped,3.0,3189.01,797.25,2391.76,2060.21,331.55
+ORD-00787,2025-04-13,CUST-0285,North,Delhi,Consumer,Marketplace,Office Supplies,Printer Paper,613.78,1,0.2,Debit Card,Delivered,5.0,613.78,122.76,491.02,337.49,153.53
+ORD-01161,2025-12-12,CUST-0215,North,Lucknow,Consumer,Retail Store,Furniture,Office Chair,10764.9,8,0.2,UPI,Processing,7.0,86119.2,17223.84,68895.36,45382.61,23512.75
+ORD-01087,2025-09-11,CUST-0317,East,Patna,Consumer,Marketplace,Electronics,Wireless Mouse,8702.35,1,0.05,Debit Card,Delivered,10.0,8702.35,435.12,8267.23,5853.55,2413.68
+ORD-00398,2025-03-04,CUST-0301,South,Kochi,Consumer,Marketplace,Home & Kitchen,Desk Lamp,249.92,10,0.2,UPI,Delivered,3.0,2499.2,499.84,1999.36,1224.04,775.32
+ORD-00397,2025-07-05,CUST-0162,West,Ahmedabad,Corporate,Online,Office Supplies,Notebook,550.63,3,0.25,UPI,Delivered,7.0,1651.89,412.97,1238.92,1148.12,90.8
+ORD-00477,2025-02-08,CUST-0013,South,Hyderabad,Small Business,Retail Store,Clothing,Jeans,877.24,1,0.05,Net Banking,Delivered,3.0,877.24,43.86,833.38,517.45,315.93
+ORD-00163,2025-05-14,CUST-0116,WEST ,Pune,Consumer,Online,Home & Kitchen,Coffee Maker,4514.81,6,0.2,UPI,Delivered,6.0,27088.86,5417.77,21671.09,16037.7,5633.39
+ORD-00559,2025-12-27,CUST-0214,East,Ranchi,Small Business,Phone Order,Electronics,Wireless Mouse,6526.51,2,0.25,UPI,Cancelled,3.0,13053.02,3263.26,9789.76,7214.75,2575.01
+ORD-00288,2025-04-22,CUST-0171,SOUTH,Bengaluru,Consumer,Marketplace,Home & Kitchen,Storage Box,2695.37,8,0.0,Net Banking,Delivered,,21562.96,0.0,21562.96,12658.13,8904.83
+ORD-00435,2025-10-02,CUST-0144,South,Hyderabad,Consumer,Online,Office supplies,Markers,741.08,2,0.1,,Delivered,4.0,1482.16,148.22,1333.94,986.74,347.2
+ORD-00129,2025-01-05,CUST-0067,East,,Corporate,Online,Office Supplies,Notebook,99.54,2,0.25,Debit Card,Delivered,4.0,199.08,49.77,149.31,114.6,34.71
+ORD-00903,2025-08-15,CUST-0371,West,,Consumer,Online,Electronics,Monitor,7436.07,2,0.0,Debit Card,Delivered,2.0,14872.14,0.0,14872.14,9307.91,5564.23
+ORD-00633,2025-06-16,CUST-0332,West,Pune,Consumer,Online,Clothing,Jeans,2294.12,3,0.15,UPI,Delivered,3.0,6882.36,1032.35,5850.01,4315.71,1534.3
+ORD-00550,2025-07-09,CUST-0319,South,Hyderabad,Small Business,Marketplace,Clothing,Jeans,2817.33,3,0.1,UPI,Delivered,4.0,8451.99,845.2,7606.79,4785.43,2821.36
+ORD-00961,2025-02-09,CUST-0273,West,Pune,Consumer,Marketplace,Electronics,USB Hub,10300.32,4,0.15,UPI,Delivered,3.0,41201.28,6180.19,35021.09,21916.01,13105.08
+ORD-00493,2025-05-27,CUST-0137,North,Delhi,Consumer,Online,Home & Kitchen,Coffee Maker,6055.13,8,0.1,Cash,Delivered,5.0,48441.04,4844.1,43596.94,24624.51,18972.43
+ORD-00628,2025-03-11,CUST-0215,South,Hyderabad,Consumer,Marketplace,Office Supplies,Markers,785.42,3,0.05,Credit Card,Shipped,2.0,2356.26,117.81,2238.45,1457.66,780.79
+ORD-00552,2025-02-06,CUST-0274,North,Chandigarh,Consumer,Retail store,Home & Kitchen,Storage Box,5595.03,1,0.05,UPI,Delivered,3.0,5595.03,279.75,5315.28,3687.85,1627.43
+ORD-00865,2025-08-27,CUST-0387,South,Bengaluru,Consumer,Retail Store,Home & Kitchen,Desk Lamp,3860.1,2,0.15,UPI,Shipped,2.0,7720.2,1158.03,6562.17,4027.07,2535.1
+ORD-00568,2025-06-26,CUST-0132,West,Mumbai,Consumer,Online,Clothing,Sneakers,2271.32,1,0.15,Debit Card,Shipped,3.0,2271.32,340.7,1930.62,1593.97,336.65
+ORD-00277,2025-06-01,CUST-0295,North,Lucknow,Consumer,Online,Clothing,Jacket,1120.62,1,0.1,Net Banking,Delivered,4.0,1120.62,112.06,1008.56,562.72,445.84
+ORD-00084,2025-08-25,CUST-0145,West,Surat,Consumer,Online,Office Supplies,Markers,531.79,5,0.05,UPI,Processing,2.0,2658.95,132.95,2526.0,1556.69,969.31
+ORD-00133,2025-10-10,CUST-0091,East,Bhubaneswar,Consumer,Online,Clothing,T-Shirt,810.05,1,0.15,UPI,Delivered,5.0,810.05,121.51,688.54,496.0,192.54
+ORD-00209,2025-08-08,CUST-0342,West,Ahmedabad,Corporate,Online,Office Supplies,Printer Paper,403.84,3,0.05,Credit Card,Delivered,5.0,1211.52,60.58,1150.94,801.81,349.13
+ORD-01004,2025-01-10,CUST-0242,East,Kolkata,Consumer,Retail Store,Office Supplies,Pen Set,206.45,1,0.3,Credit Card,Delivered,2.0,206.45,61.93,144.52,157.74,-13.22
+ORD-00883,2025-05-07,CUST-0059,South,Chennai,Consumer,Online,Furniture,Desk,8563.61,1,0.15,Debit Card,Processing,7.0,8563.61,1284.54,7279.07,4529.86,2749.21
+ORD-00342,2025-06-30,CUST-0211,South,Hyderabad,Consumer,Marketplace,Furniture,Filing Cabinet,17415.19,1,0.0,UPI,Delivered,6.0,17415.19,0.0,17415.19,9355.7,8059.49
+ORD-00169,2025-10-13,CUST-0071,North,Chandigarh,Consumer,Online,Office Supplies,Notebook,859.5,2,0.15,UPI,Delivered,2.0,1719.0,257.85,1461.15,1324.26,136.89
+ORD-00892,2025-01-14,CUST-0021,East,Ranchi,Consumer,Online,Clothing,Sneakers,1477.55,2,0.0,Debit Card,Delivered,5.0,2955.1,0.0,2955.1,1756.76,1198.34
+ORD-00192,2025-06-09,CUST-0078,East,Patna,Corporate,Online,Clothing,Sneakers,1029.1,8,0.15,UPI,Processing,3.0,8232.8,1234.92,6997.88,4646.15,2351.73
+ORD-01046,2025-12-05,CUST-0013,South,Chennai,Corporate,Marketplace,Office Supplies,Notebook,164.57,1,0.05,UPI,Delivered,4.0,164.57,8.23,156.34,119.6,36.74
+ORD-00206,2025-04-23,CUST-0018,East,Ranchi,Consumer,Retail Store,Furniture,Filing Cabinet,7241.96,1,0.05,UPI,Delivered,2.0,7241.96,362.1,6879.86,5413.18,1466.68
+ORD-00386,2025-09-21,CUST-0047,East,Ranchi,Consumer,Phone Order,Furniture,Desk,20627.96,4,0.2,UPI,Delivered,6.0,82511.84,16502.37,66009.47,49445.77,16563.7
+ORD-00312,2025-08-18,CUST-0135,West,Pune,Corporate,Online,Clothing,Jacket,2793.02,1,0.0,Credit Card,Shipped,8.0,2793.02,0.0,2793.02,1870.85,922.17
+ORD-00556,2025-10-06,CUST-0103,West,Surat,Consumer,Retail Store,Office Supplies,Markers,555.76,1,0.2,Cash,Delivered,3.0,555.76,111.15,444.61,424.24,20.37
+ORD-00741,2025-11-07,CUST-0102,North,Lucknow,Small Business,Retail Store,Furniture,Filing Cabinet,11131.75,8,0.1,Cash,Delivered,5.0,89054.0,8905.4,80148.6,47659.31,32489.29
+ORD-00134,2025-07-26,CUST-0115,North,Delhi,Consumer,Marketplace,Office supplies,Notebook,77.92,3,0.05,Debit Card,Processing,4.0,233.76,11.69,222.07,137.02,85.05
+ORD-00920,2025-03-09,CUST-0104,East,Ranchi,Consumer,Online,Office Supplies,Pen Set,567.56,1,0.05,Debit Card,Delivered,5.0,567.56,28.38,539.18,435.37,103.81
+ORD-00187,2025-11-03,CUST-0116,West,Mumbai,Small Business,Online,Clothing,Jeans,476.12,1,0.1,Credit Card,Delivered,2.0,476.12,47.61,428.51,267.28,161.23
+ORD-00270,2025-01-09,CUST-0089,North,Delhi,Consumer,Marketplace,Furniture,Bookshelf,16210.29,2,0.1,UPI,Delivered,3.0,32420.58,3242.06,29178.52,16810.45,12368.07
+ORD-00710,2025-09-10,CUST-0202,East,Kolkata,Small Business,Retail Store,Furniture,Bookshelf,21799.78,5,0.05,Credit Card,Processing,2.0,108998.9,5449.94,103548.96,68708.9,34840.06
+ORD-00307,2025-06-25,CUST-0090,West,Ahmedabad,Small Business,Online,Office Supplies,Notebook,103.28,1,0.1,UPI,Delivered,3.0,103.28,10.33,92.95,51.59,41.36
+ORD-00090,2025-07-07,CUST-0381,North,Jaipur,Consumer,Retail Store,Office Supplies,Stapler,121.74,1,0.15,UPI,Delivered,3.0,121.74,18.26,103.48,90.68,12.8
+ORD-00083,2025-07-27,CUST-0179,West,Mumbai,Consumer,Online,Clothing,Jeans,2962.37,5,0.2,UPI,Delivered,6.0,14811.85,2962.37,11849.48,10141.55,1707.93
+ORD-00745,2025-05-13,CUST-0193,West,Mumbai,Consumer,Online,Electronics,USB Hub,5157.47,1,0.15,Debit Card,Delivered,8.0,5157.47,773.62,4383.85,3404.38,979.47
+ORD-00666,2025-07-22,CUST-0334,South,Hyderabad,Consumer,Retail Store,Furniture,Office Chair,14367.0,1,0.1,Credit Card,Shipped,4.0,14367.0,1436.7,12930.3,7077.34,5852.96
+ORD-00579,2025-03-10,CUST-0321,South,Hyderabad,Corporate,Retail Store,Clothing,Sneakers,554.85,4,0.1,Credit Card,Delivered,7.0,2219.4,221.94,1997.46,1556.8,440.66
+ORD-00609,2025-06-17,CUST-0190,West,Ahmedabad,Consumer,online ,Home & Kitchen,Coffee Maker,3986.09,1,0.1,UPI,Delivered,2.0,3986.09,398.61,3587.48,2698.64,888.84
+ORD-00520,2025-04-05,CUST-0266,East,Bhubaneswar,Consumer,Phone Order,Furniture,Bookshelf,13009.76,5,0.0,Credit Card,Delivered,3.0,65048.8,0.0,65048.8,48143.23,16905.57
+ORD-00553,2025-09-25,CUST-0333,North,Jaipur,Consumer,Retail Store,Home & Kitchen,Coffee Maker,151.18,2,0.0,UPI,Delivered,4.0,302.36,0.0,302.36,189.48,112.88
+ORD-00114,2025-09-25,CUST-0141,West,Mumbai,Consumer,Online,Furniture,Office Chair,8758.16,5,0.15,UPI,Delivered,3.0,43790.8,6568.62,37222.18,31688.36,5533.82
+ORD-00629,2025-09-09,CUST-0344,West,Surat,Corporate,Marketplace,Office Supplies,Pen Set,486.54,1,0.05,Cash,Delivered,5.0,486.54,24.33,462.21,296.06,166.15
+ORD-00220,2025-07-17,CUST-0123,East,Ranchi,Corporate,Phone Order,Electronics,Monitor,15292.19,1,0.25,UPI,Shipped,4.0,15292.19,3823.05,11469.14,7889.52,3579.62
+ORD-00107,2025-09-18,CUST-0041,North,Jaipur,Corporate,online ,Office Supplies,Printer Paper,277.43,3,0.1,UPI,Delivered,5.0,832.29,83.23,749.06,638.12,110.94
+ORD-00336,2025-04-09,CUST-0206,East,Kolkata,Consumer,Online,Electronics,Keyboard,12296.53,2,0.25,Debit Card,Processing,3.0,24593.06,6148.26,18444.8,11952.34,6492.46
+ORD-00863,2025-05-01,CUST-0388,South,Kochi,,Marketplace,Home & Kitchen,Water Bottle,3304.49,3,0.2,Debit Card,Shipped,4.0,9913.47,1982.69,7930.78,5508.79,2421.99
+ORD-00394,2025-12-08,CUST-0188,north ,Lucknow,Small Business,Marketplace,Electronics,Keyboard,8125.0,3,0.2,,Delivered,4.0,24375.0,4875.0,19500.0,15973.92,3526.08
+ORD-00924,2025-05-26,CUST-0028,South,Hyderabad,Consumer,Marketplace,Office Supplies,Pen Set,166.39,1,0.25,Credit Card,Delivered,7.0,166.39,41.6,124.79,109.04,15.75
+ORD-00897,2025-04-21,CUST-0023,South,Hyderabad,Consumer,Online,Furniture,Filing Cabinet,1290.36,2,0.0,Cash,Delivered,5.0,2580.72,0.0,2580.72,1561.28,1019.44
+ORD-00480,2025-09-11,CUST-0267,North,Jaipur,Consumer,Marketplace,Electronics,USB Hub,4166.07,4,0.1,Cash,Delivered,4.0,16664.28,1666.43,14997.85,11952.73,3045.12
+ORD-00058,2025-09-21,CUST-0127,West,Pune,Corporate,Online,Furniture,Bookshelf,18574.37,2,0.15,Net Banking,Processing,4.0,37148.74,5572.31,31576.43,25215.64,6360.79
+ORD-00622,2025-05-25,CUST-0296,East,Bhubaneswar,Consumer,Retail Store,Office Supplies,Printer Paper,569.99,5,0.1,Cash,Delivered,8.0,2849.95,285.0,2564.95,1930.11,634.84
+ORD-01131,2025-10-30,CUST-0081,North,Jaipur,Consumer,Retail Store,Office Supplies,Printer Paper,97.11,3,0.2,Credit Card,Cancelled,4.0,291.33,58.27,233.06,210.65,22.41
+ORD-01037,2025-12-27,CUST-0327,East,Ranchi,Consumer,Retail Store,Electronics,Keyboard,17049.15,3,0.1,Credit Card,Delivered,5.0,51147.45,5114.74,46032.71,34563.29,11469.42
+ORD-00028,2025-08-24,CUST-0165,North,Jaipur,,Online,Clothing,Sneakers,775.75,4,0.05,Cash,Delivered,4.0,3103.0,155.15,2947.85,2080.66,867.19
+ORD-00809,2025-05-18,CUST-0132,West,Ahmedabad,Corporate,Online,Office Supplies,Stapler,290.76,1,0.15,Debit Card,Shipped,6.0,290.76,43.61,247.15,160.91,86.24
+ORD-00952,2025-11-14,CUST-0007,East,Bhubaneswar,Corporate,Online,Electronics,Headphones,14149.81,1,0.1,Net Banking,Delivered,10.0,14149.81,1414.98,12734.83,8222.15,4512.68
+ORD-01114,2025-04-05,CUST-0356,East,Ranchi,Consumer,Retail Store,Clothing,T-Shirt,2945.25,10,0.15,UPI,Delivered,10.0,29452.5,4417.88,25034.62,15625.26,9409.36
+ORD-00416,2025-01-05,CUST-0097,South,Bengaluru,Consumer,Phone Order,Home & Kitchen,Desk Lamp,3800.42,2,0.1,Debit Card,Delivered,,7600.84,760.08,6840.76,4644.2,2196.56
+ORD-00939,2025-08-14,CUST-0154,North,Lucknow,Small Business,Marketplace,Clothing,Sneakers,2000.35,3,0.0,UPI,Shipped,6.0,6001.05,0.0,6001.05,4661.1,1339.95
+ORD-00847,2025-01-22,CUST-0110,West,Mumbai,Small Business,Online,Furniture,Office Chair,5032.71,2,0.1,Debit Card,Shipped,4.0,10065.42,1006.54,9058.88,5880.25,3178.63
+ORD-00983,2025-04-28,CUST-0371,East,Kolkata,Small Business,Marketplace,Electronics,Wireless Mouse,17117.31,5,0.1,Credit Card,Delivered,1.0,85586.55,8558.66,77027.89,41963.98,35063.91
+ORD-00036,2025-06-24,CUST-0310,North,Chandigarh,Corporate,Online,Furniture,Filing Cabinet,12902.76,2,0.0,Debit Card,Shipped,6.0,25805.52,0.0,25805.52,14817.59,10987.93
+ORD-00942,2025-08-17,CUST-0346,West,Ahmedabad,Corporate,Retail Store,Home & Kitchen,Coffee Maker,5008.72,2,0.2,Debit Card,Processing,2.0,10017.44,2003.49,8013.95,6292.03,1721.92
+ORD-00771,2025-09-16,CUST-0226,West,Mumbai,Consumer,Phone Order,Office Supplies,Stapler,503.18,2,0.05,UPI,Shipped,3.0,1006.36,50.32,956.04,588.33,367.71
+ORD-00280,2025-06-10,CUST-0332,North,Chandigarh,Small Business,Retail Store,Furniture,Office Chair,3475.52,1,0.15,Net Banking,Shipped,8.0,3475.52,521.33,2954.19,2095.08,859.11
+ORD-00331,2025-06-21,CUST-0112,East,Patna,Corporate,Phone Order,Furniture,Bookshelf,10715.2,2,0.1,Cash,Delivered,1.0,21430.4,2143.04,19287.36,14587.74,4699.62
+ORD-00160,2025-06-19,CUST-0280,South,Bengaluru,Consumer,Online,Electronics,Keyboard,15782.1,2,0.15,Cash,Delivered,5.0,31564.2,4734.63,26829.57,15885.52,10944.05
+ORD-00683,2025-11-26,CUST-0336,South,Kochi,Consumer,Online,Clothing,Sneakers,3431.45,5,0.15,Credit Card,Delivered,4.0,17157.25,2573.59,14583.66,11585.12,2998.54
+ORD-00527,2025-03-31,CUST-0152,East,Bhubaneswar,Consumer,Marketplace,Home & Kitchen,Water Bottle,675.37,3,0.15,Cash,Delivered,3.0,2026.11,303.92,1722.19,1147.93,574.26
+ORD-00599,2025-05-26,CUST-0368,North,Lucknow,,Marketplace,Office Supplies,Printer Paper,696.15,10,0.0,Debit Card,Shipped,7.0,6961.5,0.0,6961.5,3368.12,3593.38
+ORD-00496,2025-11-21,CUST-0037,East,Kolkata,Consumer,Online,Office Supplies,Stapler,822.83,3,0.05,UPI,Processing,8.0,2468.49,123.42,2345.07,1319.15,1025.92
+ORD-00125,2025-08-15,CUST-0368,South,Chennai,Consumer,Phone Order,Electronics,Headphones,11151.2,2,0.2,Net Banking,Delivered,5.0,22302.4,4460.48,17841.92,16871.33,970.59
+ORD-01135,2025-08-06,CUST-0186,South,Kochi,Consumer,Marketplace,Clothing,T-Shirt,2408.12,1,0.2,UPI,Delivered,4.0,2408.12,481.62,1926.5,1665.89,260.61
+ORD-01125,2025-11-26,CUST-0239,East,Ranchi,Consumer,Online,Office Supplies,Notebook,328.78,1,0.05,UPI,Shipped,3.0,328.78,16.44,312.34,204.13,108.21
+ORD-01091,2025-01-10,CUST-0216,East,Ranchi,Consumer,Marketplace,Electronics,Wireless Mouse,1840.57,10,0.2,Debit Card,Delivered,6.0,18405.7,3681.14,14724.56,9525.01,5199.55
+ORD-00854,2025-02-15,CUST-0199,North,Lucknow,Consumer,Online,Home & Kitchen,Storage Box,711.58,8,0.25,Credit Card,Delivered,3.0,5692.64,1423.16,4269.48,3311.69,957.79
+ORD-00118,2025-08-04,CUST-0151,North,Delhi,Corporate,Online,Home & Kitchen,Storage Box,2420.02,10,0.1,UPI,Cancelled,8.0,24200.2,2420.02,21780.18,15062.05,6718.13
+ORD-01159,2025-10-29,CUST-0197,North,Lucknow,Consumer,Online,Electronics,Monitor,5051.74,2,0.25,Debit Card,Delivered,2.0,10103.48,2525.87,7577.61,6472.85,1104.76
+ORD-00156,2025-08-31,CUST-0100,North,Jaipur,Small Business,Marketplace,Office Supplies,Notebook,417.72,1,0.1,UPI,Returned,7.0,417.72,41.77,375.95,228.92,147.03
+ORD-01058,2025-01-14,CUST-0396,north ,Chandigarh,Corporate,Online,Clothing,Jeans,466.68,1,0.2,UPI,Delivered,3.0,466.68,93.34,373.34,259.78,113.56
+ORD-00433,2025-04-30,CUST-0304,West,Mumbai,Consumer,Retail Store,Furniture,Desk,15356.56,8,0.0,Net Banking,Delivered,1.0,122852.48,0.0,122852.48,75384.78,47467.7
+ORD-00747,2025-09-16,CUST-0020,East,Ranchi,Consumer,Online,Furniture,Office Chair,10231.08,8,0.2,Debit Card,Delivered,2.0,81848.64,16369.73,65478.91,40244.77,25234.14
+ORD-00459,2025-03-10,CUST-0196,East,Bhubaneswar,Consumer,Phone Order,Electronics,Headphones,13994.15,3,0.1,UPI,Delivered,4.0,41982.45,4198.24,37784.21,20292.9,17491.31
+ORD-00244,2025-05-27,CUST-0179,West,Surat,Corporate,Marketplace,Electronics,Monitor,16646.95,1,0.1,Credit Card,Cancelled,7.0,16646.95,1664.7,14982.25,12975.62,2006.63
+ORD-00880,2025-06-29,CUST-0299,North,Lucknow,Consumer,Marketplace,Electronics,Monitor,12075.93,3,0.0,Cash,Delivered,3.0,36227.79,0.0,36227.79,27249.54,8978.25
+ORD-00523,2025-08-30,CUST-0374,East,Kolkata,Corporate,Retail Store,Furniture,Office Chair,21015.44,8,0.0,Credit Card,RETURNED,10.0,168123.52,0.0,168123.52,112961.07,55162.45
+ORD-00415,2025-04-18,CUST-0313,East,Ranchi,Consumer,Online,Clothing,Jacket,3122.93,5,0.1,Credit Card,Shipped,6.0,15614.65,1561.46,14053.19,8582.51,5470.68
+ORD-01065,2025-05-23,CUST-0311,East,Kolkata,Small Business,Retail Store,Home & Kitchen,Coffee Maker,5930.7,1,0.1,Credit Card,RETURNED,3.0,5930.7,593.07,5337.63,4136.68,1200.95
+ORD-00375,2025-09-04,CUST-0328,East,Bhubaneswar,Small Business,Online,Office Supplies,Stapler,606.63,6,0.25,UPI,Delivered,,3639.78,909.94,2729.84,2648.88,80.96
+ORD-00354,2025-10-08,CUST-0232, east,Kolkata,Consumer,online ,Office Supplies,Pen Set,345.65,2,0.15,Debit Card,Delivered,7.0,691.3,103.7,587.6,361.25,226.35
+ORD-00674,2025-08-21,CUST-0137,North,Jaipur,Consumer,Online,Electronics,Monitor,7898.85,1,0.0,Credit Card,Delivered,3.0,7898.85,0.0,7898.85,4851.56,3047.29
+ORD-00453,2025-02-17,CUST-0177,East,Ranchi,Corporate,Retail Store,Office Supplies,Stapler,881.36,1,0.15,Cash,Cancelled,3.0,881.36,132.2,749.16,606.41,142.75
+ORD-00615,2025-01-29,CUST-0076,North,Jaipur,Small Business,Marketplace,Furniture,Office Chair,15808.64,1,0.1,Credit Card,Delivered,5.0,15808.64,1580.86,14227.78,10129.36,4098.42
+ORD-00894,2025-11-08,CUST-0201,South,Kochi,Small Business,Marketplace,Furniture,Bookshelf,16040.01,2,0.2,UPI,Delivered,4.0,32080.02,6416.0,25664.02,18146.16,7517.86
+ORD-01027,2025-03-17,CUST-0153,North,Delhi,Consumer,Marketplace,Home & Kitchen,Water Bottle,2899.34,4,0.25,Cash,Delivered,2.0,11597.36,2899.34,8698.02,8463.22,234.8
+ORD-00021,2025-10-21,CUST-0195,West,Pune,Consumer,Retail Store,Office Supplies,Printer Paper,344.65,2,0.1,UPI,Delivered,4.0,689.3,68.93,620.37,455.77,164.6
+ORD-01009,2025-06-17,CUST-0055,West,Surat,Consumer,Marketplace,Office Supplies,Printer Paper,501.22,1,0.1,,Delivered,5.0,501.22,50.12,451.1,353.55,97.55
+ORD-01132,2025-12-12,CUST-0197,West,Mumbai,Consumer,Online,Home & Kitchen,Water Bottle,1234.96,2,0.15,UPI,Delivered,2.0,2469.92,370.49,2099.43,1196.0,903.43
+ORD-00032,2025-06-19,CUST-0339,North,Jaipur,Corporate,Online,Office Supplies,Pen Set,99.78,1,0.1,UPI,Shipped,3.0,99.78,9.98,89.8,53.32,36.48
+ORD-00749,2025-02-22,CUST-0203,South,Hyderabad,Corporate,Marketplace,Electronics,Wireless Mouse,8577.8,1,0.15,UPI,Shipped,6.0,8577.8,1286.67,7291.13,6559.92,731.21
+ORD-01153,2025-01-29,CUST-0380,East,Kolkata,Small Business,Marketplace,Office Supplies,Markers,488.19,3,0.15,Net Banking,Delivered,7.0,1464.57,219.69,1244.88,898.3,346.58
+ORD-00092,2025-06-06,CUST-0327,West,Ahmedabad,Small Business,Retail Store,Office Supplies,Markers,883.16,1,0.0,Net Banking,Delivered,5.0,883.16,0.0,883.16,653.75,229.41
+ORD-01042,2025-10-18,CUST-0127,West,Surat,Corporate,Marketplace,Electronics,Wireless Mouse,15933.49,8,0.0,Net Banking,Processing,4.0,127467.92,0.0,127467.92,63766.9,63701.02
+ORD-00054,2025-12-12,CUST-0394,South,Kochi,Small Business,Online,Office Supplies,Pen Set,262.47,2,0.3,Credit Card,Delivered,3.0,524.94,157.48,367.46,281.68,85.78
+ORD-00457,2025-07-08,CUST-0180,North,Lucknow,Small Business,Online,Home & Kitchen,Coffee Maker,369.1,1,0.2,Cash,Delivered,1.0,369.1,73.82,295.28,283.39,11.89
+ORD-00461,2025-12-15,CUST-0225,North,Lucknow,Consumer,Marketplace,Electronics,USB Hub,13020.86,8,0.2,UPI,Delivered,14.0,104166.88,20833.38,83333.5,81055.48,2278.02
+ORD-00913,2025-05-06,CUST-0116,North,Jaipur,Corporate,Online,Office Supplies,Markers,716.43,4,0.0,UPI,Returned,4.0,2865.72,0.0,2865.72,1913.55,952.17
+ORD-00436,2025-04-02,CUST-0256,North,Lucknow,Consumer,Online,Home & Kitchen,Storage Box,688.03,2,0.0,Debit Card,Cancelled,6.0,1376.06,0.0,1376.06,728.09,647.97
+ORD-00688,2025-01-08,CUST-0322,South,Hyderabad,Consumer,Retail Store,Office Supplies,Notebook,271.15,2,0.1,UPI,Delivered,3.0,542.3,54.23,488.07,305.46,182.61
+ORD-00442,2025-10-06,CUST-0281,East,Bhubaneswar,Corporate,Online,Home & Kitchen,Desk Lamp,4822.98,5,0.05,Debit Card,Delivered,4.0,24114.9,1205.75,22909.15,17943.64,4965.51
+ORD-00630,2025-10-02,CUST-0141,West,Pune,,Marketplace,Clothing,Sneakers,3478.32,2,0.0,Net Banking,Delivered,2.0,6956.64,0.0,6956.64,4448.21,2508.43
+ORD-00446,2025-05-02,CUST-0318,South,Kochi,Corporate,Phone Order,Clothing,Jeans,1846.6,2,0.1,Net Banking,Cancelled,4.0,3693.2,369.32,3323.88,2177.58,1146.3
+ORD-00226,2025-09-12,CUST-0036,East,Ranchi,Consumer,Marketplace,Office Supplies,Pen Set,829.7,3,0.2,Debit Card,Delivered,3.0,2489.1,497.82,1991.28,1351.12,640.16
+ORD-00458,2025-07-11,CUST-0194,North,,Consumer,Marketplace,Electronics,USB Hub,5684.56,1,0.15,Debit Card,Delivered,3.0,5684.56,852.68,4831.88,4347.56,484.32
+ORD-01059,2025-10-15,CUST-0316,South,Chennai,Consumer,Online,Home & Kitchen,Coffee Maker,2918.86,1,0.1,UPI,Delivered,4.0,2918.86,291.89,2626.97,2039.2,587.77
+ORD-00265,2025-10-31,CUST-0032,West,,Small Business,Marketplace,Office Supplies,Stapler,161.07,1,0.15,Debit Card,Shipped,,161.07,24.16,136.91,124.03,12.88
+ORD-00947,2025-03-11,CUST-0177,East,Kolkata,Small Business,Phone Order,Office Supplies,Stapler,701.68,2,0.15,,Delivered,3.0,1403.36,210.5,1192.86,833.65,359.21
+ORD-00767,2025-06-03,CUST-0191,North,Chandigarh,Consumer,Online,Home & Kitchen,Storage Box,3130.2,4,0.1,Debit Card,Shipped,5.0,12520.8,1252.08,11268.72,8469.1,2799.62
+ORD-00746,2025-12-24,CUST-0062,North,Jaipur,Consumer,Retail Store,Home & Kitchen,Storage Box,2475.63,4,0.1,Net Banking,Delivered,1.0,9902.52,990.25,8912.27,6449.44,2462.83
+ORD-00911,2025-08-19,CUST-0016,East,Kolkata,Corporate, MARKETPLACE,Clothing,Jeans,1112.15,2,0.0,Net Banking,Delivered,3.0,2224.3,0.0,2224.3,1722.82,501.48
+ORD-00262,2025-04-22,CUST-0214,West,Surat,Small Business,Online,Clothing,Jeans,2378.5,10,0.05,UPI,Delivered,2.0,23785.0,1189.25,22595.75,15574.1,7021.65
+ORD-00070,2025-08-06,CUST-0199,SOUTH,Kochi,Corporate,Online,Furniture,Office Chair,15156.71,1,0.15,UPI,Delivered,2.0,15156.71,2273.51,12883.2,7333.68,5549.52
+ORD-00030,2025-02-18,CUST-0239,West,Mumbai,Consumer,Online,Furniture,Bookshelf,9224.9,2,0.15,Credit Card,Delivered,4.0,18449.8,2767.47,15682.33,12719.16,2963.17
+ORD-00848,2025-11-22,CUST-0052,South,Kochi,Small Business,Marketplace,Electronics,Headphones,4385.95,3,0.05,Cash,delivered,4.0,13157.85,657.89,12499.96,8223.28,4276.68
+ORD-00858,2025-10-28,CUST-0028,North,Delhi,Consumer, MARKETPLACE,Home & Kitchen,Coffee Maker,2438.04,5,0.1,UPI,Delivered,1.0,12190.2,1219.02,10971.18,6870.5,4100.68
+ORD-00601,2025-03-17,CUST-0106,West,Surat,Corporate,Online,Office Supplies,Printer Paper,554.2,1,0.05,Cash,Delivered,5.0,554.2,27.71,526.49,276.9,249.59
+ORD-00230,2025-04-08,CUST-0115,South,Bengaluru,Consumer,Online,Furniture,Office Chair,5217.68,2,0.15,Debit Card,Shipped,4.0,10435.36,1565.3,8870.06,7622.61,1247.45
+ORD-00497,2025-01-04,CUST-0286,North,Delhi,Consumer,Online,Clothing,Jacket,2317.67,1,0.1,Cash,Shipped,5.0,2317.67,231.77,2085.9,1342.24,743.66
+ORD-00282,2025-03-16,CUST-0065,West,Ahmedabad,Consumer,Marketplace,Clothing,Sneakers,1321.04,5,0.05,UPI,Cancelled,5.0,6605.2,330.26,6274.94,5061.37,1213.57
+ORD-00443,2025-05-07,CUST-0245,East,Kolkata,Consumer,online ,Electronics,Monitor,15206.07,1,0.0,Credit Card,Delivered,4.0,15206.07,0.0,15206.07,7604.44,7601.63
+ORD-00327,2025-02-04,CUST-0012,West,Mumbai,Consumer,Online,Clothing,T-Shirt,2290.28,5,0.2,UPI,Returned,8.0,11451.4,2290.28,9161.12,5598.34,3562.78
+ORD-00874,2025-10-19,CUST-0289,South,Chennai,Small Business,Retail Store,Clothing,T-Shirt,3472.58,6,0.05,Credit Card,Shipped,5.0,20835.48,1041.77,19793.71,10586.33,9207.38
+ORD-00572,2025-09-22,CUST-0375,North,Lucknow,Small Business,Retail Store,Clothing,Jeans,1704.51,3,0.05,Debit Card,Delivered,6.0,5113.53,255.68,4857.85,3213.51,1644.34
+ORD-00627,2025-10-19,CUST-0207,West,Surat,Corporate,Phone Order,Office Supplies,Notebook,702.19,3,0.3,UPI,Shipped,3.0,2106.57,631.97,1474.6,1298.82,175.78
+ORD-00972,2025-04-28,CUST-0229,West,Ahmedabad,Consumer,Retail Store,Electronics,Headphones,8215.52,2,0.0,Credit Card,Delivered,6.0,16431.04,0.0,16431.04,9986.65,6444.39
+ORD-01116,2025-08-31,CUST-0309,West,Ahmedabad,Corporate,Online,Electronics,Keyboard,8406.44,5,0.0,UPI,Processing,4.0,42032.2,0.0,42032.2,25589.84,16442.36
+ORD-00304,2025-07-14,CUST-0112,East,Patna,Consumer,Phone Order,Clothing,Jacket,1832.78,3,0.0,Debit Card,Delivered,2.0,5498.34,0.0,5498.34,4035.93,1462.41
+ORD-00332,2025-08-08,CUST-0066,West,Pune,Corporate,Marketplace,Electronics,USB Hub,9655.84,8,0.2,UPI,Processing,6.0,77246.72,15449.34,61797.38,45645.55,16151.83
+ORD-00757,2025-02-20,CUST-0202,North,Jaipur,Small Business,Retail Store,Home & Kitchen,Water Bottle,2978.78,1,0.25,Cash,Delivered,1.0,2978.78,744.7,2234.08,2177.63,56.45
+ORD-00785,2025-03-07,CUST-0160,North,,Consumer,Marketplace,Home & Kitchen,Coffee Maker,4872.04,1,0.05,UPI,Returned,2.0,4872.04,243.6,4628.44,2845.71,1782.73
+ORD-00159,2025-03-07,CUST-0074,West,Surat,Small Business,Marketplace,Home & Kitchen,Desk Lamp,2127.23,10,0.05,Cash,Delivered,4.0,21272.3,1063.62,20208.68,12594.41,7614.27
+ORD-00425,2025-11-04,CUST-0358,North,Lucknow,,Online,Clothing,T-Shirt,796.89,1,0.15,Credit Card,Delivered,3.0,796.89,119.53,677.36,407.24,270.12
+ORD-00840,2025-05-02,CUST-0278,East,Kolkata,Corporate,Online,Office Supplies,Printer Paper,317.3,1,0.0,Debit Card,Delivered,6.0,317.3,0.0,317.3,168.45,148.85
+ORD-00488,2025-04-10,CUST-0398,West,Ahmedabad,Consumer,Online,Electronics,USB Hub,15616.23,1,0.25,Net Banking,Delivered,8.0,15616.23,3904.06,11712.17,9311.08,2401.09
+ORD-00317,2025-01-27,CUST-0174,North,Lucknow,Small Business,Online,Clothing,Jeans,2140.89,5,0.1,UPI,Delivered,5.0,10704.45,1070.45,9634.0,6257.39,3376.61
+ORD-00263,2025-03-01,CUST-0296,West,Surat,Corporate,Retail Store,Electronics,USB Hub,8039.45,4,0.1,UPI,Cancelled,3.0,32157.8,3215.78,28942.02,18493.27,10448.75
+ORD-00099,2025-12-10,CUST-0367,North,Jaipur,Corporate,Retail Store,Home & kitchen,Water Bottle,541.43,3,0.1,Debit Card,Delivered,1.0,1624.29,162.43,1461.86,1057.37,404.49
+ORD-00717,2025-10-13,CUST-0386,East,Ranchi,Corporate,Online,Clothing,Sneakers,349.8,4,0.05,Debit Card,Processing,5.0,1399.2,69.96,1329.24,1070.35,258.89
+ORD-00885,2025-08-02,CUST-0333,East,Ranchi,Consumer,Marketplace,Electronics,Headphones,14237.46,8,0.05,Cash,Delivered,1.0,113899.68,5694.98,108204.7,65763.4,42441.3
+ORD-00836,2025-06-04,CUST-0145,South,Chennai,Consumer,Marketplace,Clothing,Jacket,2700.2,2,0.0,Cash,Delivered,2.0,5400.4,0.0,5400.4,3909.06,1491.34
+ORD-01069,2025-11-05,CUST-0034,South,Bengaluru,Consumer,Online,Furniture,Filing Cabinet,16481.93,1,0.05,Net Banking,Cancelled,4.0,16481.93,824.1,15657.83,9695.75,5962.08
+ORD-00138,2025-06-28,CUST-0018,North,Chandigarh,Consumer,Marketplace,Electronics,USB Hub,15005.43,2,0.0,UPI,Delivered,5.0,30010.86,0.0,30010.86,16269.91,13740.95
+ORD-00563,2025-03-25,CUST-0270,North,Delhi,Consumer,Marketplace,Electronics,USB Hub,13676.6,3,0.0,UPI,Delivered,5.0,41029.8,0.0,41029.8,31249.89,9779.91
+ORD-00059,2025-02-04,CUST-0058,North,Chandigarh,Small Business,Online,Clothing,Jacket,1313.9,2,0.15,Credit Card,Delivered,3.0,2627.8,394.17,2233.63,1865.18,368.45
+ORD-00621,2025-12-08,CUST-0315,South,Chennai,Consumer,Online,Electronics,Monitor,17577.35,3,0.0,Credit Card,Delivered,1.0,52732.05,0.0,52732.05,36661.54,16070.51
+ORD-01168,2025-05-29,CUST-0193,West,Pune,Small Business,Online,Furniture,Desk,7172.34,2,0.05,UPI,Delivered,1.0,14344.68,717.23,13627.45,8747.41,4880.04
+ORD-00811,2025-11-26,CUST-0123,North,Jaipur,Corporate,Retail Store,Office Supplies,Notebook,244.93,1,0.1,credit card,Delivered,5.0,244.93,24.49,220.44,163.06,57.38
+ORD-01185,2025-05-08,CUST-0151,South,Chennai,Corporate,Online,Electronics,Wireless Mouse,6490.7,4,0.0,Debit Card,Shipped,5.0,25962.8,0.0,25962.8,16994.16,8968.64
+ORD-00732,2025-03-04,CUST-0306,North,Lucknow,Corporate,online ,Office Supplies,Notebook,786.29,4,0.15,Cash,Delivered,5.0,3145.16,471.77,2673.39,1729.13,944.26
+ORD-00910,2025-09-30,CUST-0086,North,Lucknow,Consumer,Marketplace,Office Supplies,Printer Paper,728.44,4,0.15,Credit Card,Delivered,2.0,2913.76,437.06,2476.7,1519.17,957.53
+ORD-00665,2025-08-01,CUST-0293,South,Chennai,Consumer,Marketplace,Furniture,Office Chair,12081.11,2,0.1,Net Banking,Delivered,2.0,24162.22,2416.22,21746.0,13058.07,8687.93
+ORD-01090,2025-11-18,CUST-0364,North,Lucknow,Small Business,Marketplace,Office Supplies,Pen Set,225.09,2,0.0,Cash,Shipped,3.0,450.18,0.0,450.18,265.08,185.1
+ORD-00252,2025-12-26,CUST-0263,East,Bhubaneswar,Corporate,Marketplace,Clothing,Sneakers,1449.32,3,0.0,Credit Card,Delivered,2.0,4347.96,0.0,4347.96,3110.67,1237.29
+ORD-00041,2025-11-16,CUST-0204,North,Lucknow,Small Business,Online,Furniture,Desk,7086.75,2,0.1,UPI,Shipped,4.0,14173.5,1417.35,12756.15,8529.8,4226.35
+ORD-00116,2025-02-17,CUST-0137,South,Kochi,Consumer,Phone Order,Furniture,Office Chair,21561.74,4,0.05,UPI,Shipped,7.0,86246.96,4312.35,81934.61,55012.85,26921.76
+ORD-00677,2025-05-23,CUST-0044,East,Ranchi,Consumer,Marketplace,Office Supplies,Stapler,94.26,1,0.2,Debit Card,Delivered,4.0,94.26,18.85,75.41,49.32,26.09
+ORD-00806,2025-03-22,CUST-0277,West,Mumbai,Corporate,Retail Store,Clothing,Jeans,1907.37,3,0.2,Debit Card,Delivered,2.0,5722.11,1144.42,4577.69,3801.73,775.96
+ORD-00640,2025-06-22,CUST-0107,South,Chennai,Consumer,online ,Clothing,Jeans,3131.6,10,0.2,UPI,Delivered,2.0,31316.0,6263.2,25052.8,18480.65,6572.15
+ORD-00016,2025-05-11,CUST-0163,North,Delhi,Consumer,Retail Store,Office Supplies,Stapler,576.32,4,0.05,Debit Card,Returned,3.0,2305.28,115.26,2190.02,1484.83,705.19
+ORD-01036,2025-09-24,CUST-0220,East,Patna,Consumer,Online,Furniture,Bookshelf,13961.38,2,0.0,UPI,Delivered,2.0,27922.76,0.0,27922.76,18929.14,8993.62
+ORD-00558,2025-12-21,CUST-0117,North,Chandigarh,Consumer,Online,Home & Kitchen,Desk Lamp,2078.71,3,0.2,Debit Card,Delivered,8.0,6236.13,1247.23,4988.9,4404.33,584.57
+ORD-00554,2025-07-02,CUST-0398,South,Bengaluru,Consumer,Online,Furniture,Office Chair,8738.57,2,0.1,Credit Card,Delivered,6.0,17477.14,1747.71,15729.43,11879.75,3849.68
+ORD-01107,2025-09-18,CUST-0078,South,Hyderabad,Corporate,Retail Store,Clothing,Sneakers,3056.12,2,0.1,Cash,Cancelled,4.0,6112.24,611.22,5501.02,3461.52,2039.5
+ORD-00082,2025-08-01,CUST-0077,South,Chennai,Consumer,Retail Store,Clothing,Jacket,841.86,1,0.0,Credit Card,Delivered,7.0,841.86,0.0,841.86,423.62,418.24
+ORD-00684,2025-08-12,CUST-0356,North,Lucknow,Consumer,Retail Store,Office Supplies,Printer Paper,870.28,1,0.25,UPI,Delivered,4.0,870.28,217.57,652.71,555.32,97.39
+ORD-00564,2025-08-05,CUST-0313,East,Kolkata,Consumer,Retail Store,Home & Kitchen,Storage Box,5502.73,3,0.25,Credit Card,Shipped,5.0,16508.19,4127.05,12381.14,10040.26,2340.88
+ORD-00528,2025-09-21,CUST-0213,West,Pune,Consumer,Marketplace,Electronics,Keyboard,14954.86,2,0.0,Cash,Delivered,3.0,29909.72,0.0,29909.72,21666.49,8243.23
+ORD-00259,2025-09-09,CUST-0201,West,Pune,Consumer,Marketplace,Office Supplies,Pen Set,536.85,2,0.3,Cash,Delivered,3.0,1073.7,322.11,751.59,632.13,119.46
+ORD-01136,2025-05-21,CUST-0167,West,Pune,Consumer,Online,Home & Kitchen,Desk Lamp,4106.89,6,0.15,UPI,Processing,1.0,24641.34,3696.2,20945.14,15916.38,5028.76
+ORD-00085,2025-12-04,CUST-0154,South,Chennai,Consumer,Online,Office Supplies,Markers,542.15,1,0.1,UPI,Processing,5.0,542.15,54.22,487.93,296.79,191.14
+ORD-00266,2025-09-11,CUST-0048,North,Jaipur,Corporate,Marketplace,Electronics,Monitor,9579.03,5,0.15,Credit Card,delivered,4.0,47895.15,7184.27,40710.88,32627.15,8083.73
+ORD-00719,2025-09-08,CUST-0366,West,Surat,,Marketplace,Home & kitchen,Storage Box,2910.99,5,0.05,Cash,Delivered,2.0,14554.95,727.75,13827.2,9001.49,4825.71
+ORD-01096,2025-04-28,CUST-0008,West,Pune,Consumer,Online,Office Supplies,Stapler,798.27,3,0.2,Credit Card,Delivered,3.0,2394.81,478.96,1915.85,1252.68,663.17
+ORD-01074,2025-05-14,CUST-0366,South,Bengaluru,Small Business,Online,Office Supplies,Pen Set,561.61,5,0.0,Credit Card,Processing,3.0,2808.05,0.0,2808.05,1714.77,1093.28
+ORD-00929,2025-04-21,CUST-0324,South,Kochi,Consumer,Online,Clothing,Jacket,1587.82,2,0.0,UPI,Cancelled,6.0,3175.64,0.0,3175.64,2114.18,1061.46
+ORD-00142,2025-08-29,CUST-0080,West,Surat,Corporate,Marketplace,Home & Kitchen,Storage Box,2118.37,4,0.0,UPI,Delivered,3.0,8473.48,0.0,8473.48,6349.18,2124.3
+ORD-00703,2025-05-25,CUST-0215,East,Ranchi,Small Business,Online,Clothing,Jeans,2300.06,1,0.05,Credit Card,Delivered,3.0,2300.06,115.0,2185.06,1554.98,630.08
+ORD-00176,2025-10-10,CUST-0375,West,Surat,Small Business,Online,Clothing,Jeans,1934.37,1,0.15,UPI,Shipped,3.0,1934.37,290.16,1644.21,1364.33,279.88
+ORD-00647,2025-11-13,CUST-0290,South,Bengaluru,Consumer,Online,Furniture,Office Chair,18280.96,5,0.15,Debit Card,Delivered,3.0,91404.8,13710.72,77694.08,61243.88,16450.2
+ORD-00065,2025-02-23,CUST-0326,South,Kochi,,Marketplace,Clothing,Jeans,2365.64,2,0.0,UPI,Delivered,10.0,4731.28,0.0,4731.28,2515.66,2215.62
+ORD-01018,2025-02-07,CUST-0285,South,Hyderabad,Corporate,Phone Order,Office supplies,Notebook,363.69,2,0.15,Cash,Delivered,4.0,727.38,109.11,618.27,522.74,95.53
+ORD-00180,2025-09-16,CUST-0383,North,Chandigarh,Corporate,Phone Order,Furniture,Filing Cabinet,10475.7,2,0.15,UPI,Shipped,3.0,20951.4,3142.71,17808.69,12255.56,5553.13
+ORD-00598,2025-11-27,CUST-0248,East,Bhubaneswar,Small Business,Online,Home & Kitchen,Coffee Maker,492.71,6,0.0,Cash,Delivered,3.0,2956.26,0.0,2956.26,1486.18,1470.08
+ORD-00454,2025-03-30,CUST-0011,East,Kolkata,Corporate,Marketplace,Home & Kitchen,Desk Lamp,4775.25,3,0.1,Credit Card,Returned,3.0,14325.75,1432.58,12893.17,10440.58,2452.59
+ORD-01148,2025-05-07,CUST-0111,South,Kochi,Consumer,Online,Office Supplies,Markers,530.19,8,0.1,Debit Card,Shipped,5.0,4241.52,424.15,3817.37,2225.0,1592.37
+ORD-01190,2025-06-01,CUST-0158,East,Bhubaneswar,Consumer,Marketplace,Furniture,Bookshelf,5581.14,1,0.15,UPI,Delivered,2.0,5581.14,837.17,4743.97,2981.84,1762.13
+ORD-00956,2025-11-07,CUST-0195,North,Jaipur,Consumer,Retail Store,Clothing,Jacket,1407.76,3,0.05,Debit Card,Delivered,5.0,4223.28,211.16,4012.12,2199.84,1812.28
+ORD-00088,2025-08-05,CUST-0150,East,Ranchi,Consumer,Retail Store,Furniture,Office Chair,10866.28,1,0.2,UPI,Delivered,1.0,10866.28,2173.26,8693.02,8154.82,538.2
+ORD-00481,2025-08-10,CUST-0139,North,Delhi,Consumer,Phone Order,Furniture,Office Chair,21803.06,4,0.15,Debit Card,Shipped,5.0,87212.24,13081.84,74130.4,56601.94,17528.46
+ORD-00257,2025-04-09,CUST-0391,North,Lucknow,Corporate,Retail Store,Office Supplies,Markers,537.87,3,0.1,Credit Card,Delivered,4.0,1613.61,161.36,1452.25,1166.49,285.76
+ORD-00835,2025-07-14,CUST-0175,West,Ahmedabad,Consumer,Online,Home & Kitchen,Desk Lamp,973.99,4,0.15,UPI,Delivered,6.0,3895.96,584.39,3311.57,2821.22,490.35
+ORD-00388,2025-05-23,CUST-0363,North,Jaipur,Corporate,Phone Order,Clothing,Jacket,734.66,6,0.25,Debit Card,Delivered,5.0,4407.96,1101.99,3305.97,3340.34,-34.37
+ORD-00364,2025-12-08,CUST-0151,South,Kochi,Corporate,Marketplace,Office Supplies,Pen Set,498.72,1,0.0,,Returned,3.0,498.72,0.0,498.72,339.81,158.91
+ORD-00450,2025-04-06,CUST-0019,North,,Small Business,Retail Store,Furniture,Filing Cabinet,8823.07,1,0.15,Cash,Returned,1.0,8823.07,1323.46,7499.61,5480.0,2019.61
+ORD-00720,2025-12-31,CUST-0275,WEST ,Ahmedabad,Consumer,Online,Clothing,Jeans,942.45,1,0.25,UPI,Delivered,,942.45,235.61,706.84,717.58,-10.74
+ORD-00207,2025-01-02,CUST-0071,North,Lucknow,Corporate,Marketplace,Clothing,T-Shirt,828.55,4,0.25,UPI,Delivered,8.0,3314.2,828.55,2485.65,2150.52,335.13
+ORD-01054,2025-10-23,CUST-0397,North,Jaipur,Corporate,Online,Furniture,Office Chair,15677.52,1,0.2,UPI,Shipped,7.0,15677.52,3135.5,12542.02,10988.24,1553.78
+ORD-00368,2025-09-30,CUST-0066,South,,Consumer,Online,Electronics,Keyboard,7797.66,4,0.2,Debit Card,Delivered,8.0,31190.64,6238.13,24952.51,20822.41,4130.1
+ORD-00213,2025-08-13,CUST-0248,West,Surat,Corporate,Phone Order,Electronics,Wireless Mouse,7396.26,5,0.05,Net Banking,Delivered,1.0,36981.3,1849.07,35132.23,22272.46,12859.77
+ORD-00290,2025-06-02,CUST-0296,North,Lucknow,Consumer,Marketplace,Office Supplies,Markers,211.73,3,0.0,Debit Card,Delivered,,635.19,0.0,635.19,361.14,274.05
+ORD-01040,2025-11-12,CUST-0099,East,Patna,Corporate,Retail Store,Office Supplies,Markers,556.16,2,0.2,UPI,Delivered,3.0,1112.32,222.46,889.86,616.46,273.4
+ORD-00470,2025-03-10,CUST-0267,West,Surat,Corporate,Marketplace,Office Supplies,Markers,747.16,1,0.0,UPI,Returned,1.0,747.16,0.0,747.16,516.18,230.98
+ORD-00545,2025-04-09,CUST-0239,East,Kolkata,Corporate,Retail Store,Office Supplies,Stapler,313.88,1,0.05,Debit Card,Delivered,2.0,313.88,15.69,298.19,170.26,127.93
+ORD-00337,2025-08-21,CUST-0286,West,Ahmedabad,Consumer,Online,Home & Kitchen,Desk Lamp,4229.41,6,0.2,Debit Card,Processing,2.0,25376.46,5075.29,20301.17,16340.92,3960.25
+ORD-00557,2025-08-05,CUST-0242,South,Kochi,Small Business,Retail Store,Home & Kitchen,Water Bottle,1277.58,1,0.1,UPI,Delivered,3.0,1277.58,127.76,1149.82,883.62,266.2
+ORD-01048,2025-03-03,CUST-0352,north ,Jaipur,Consumer,Retail Store,Furniture,Office Chair,4698.84,5,0.15,UPI,Delivered,2.0,23494.2,3524.13,19970.07,14006.74,5963.33
+ORD-01187,2025-09-08,CUST-0021,East,Bhubaneswar,Consumer,Marketplace,Office Supplies,Notebook,624.92,3,0.3,Debit Card,Delivered,3.0,1874.76,562.43,1312.33,1383.64,-71.31
+ORD-00667,2025-09-09,CUST-0272,East,Patna,Consumer,Retail Store,Furniture,Desk,13228.4,1,0.0,UPI,Cancelled,1.0,13228.4,0.0,13228.4,10200.62,3027.78
+ORD-01122,2025-05-28,CUST-0271,South,Hyderabad,Consumer,Online,Clothing,T-Shirt,1574.1,4,0.1,Credit Card,Delivered,3.0,6296.4,629.64,5666.76,3137.71,2529.05
+ORD-00008,2025-04-13,CUST-0003,West,,Small Business,Online,Office Supplies,Printer Paper,757.35,8,0.1,Cash,Shipped,3.0,6058.8,605.88,5452.92,4355.86,1097.06
+ORD-01064,2025-03-04,CUST-0043,North,Jaipur,Consumer,Online,Home & Kitchen,Water Bottle,3082.24,2,0.1,UPI,Processing,6.0,6164.48,616.45,5548.03,3053.6,2494.43
+ORD-01166,2025-11-15,CUST-0149,West,Ahmedabad,Consumer,Online,Home & Kitchen,Coffee Maker,4295.36,1,0.15,UPI,Delivered,4.0,4295.36,644.3,3651.06,2568.83,1082.23
+ORD-01095,2025-12-19,CUST-0391,East,Ranchi,Small Business,Online,Furniture,Filing Cabinet,16159.6,2,0.25,Net Banking,Shipped,1.0,32319.2,8079.8,24239.4,18314.69,5924.71
+ORD-00649,2025-01-01,CUST-0112,South,Bengaluru,Small Business,Phone Order,Home & Kitchen,Storage Box,3559.46,1,0.3,Cash,Delivered,6.0,3559.46,1067.84,2491.62,2140.92,350.7
+ORD-00723,2025-10-16,CUST-0204,West,Ahmedabad,Consumer,Online,Clothing,Sneakers,694.58,2,0.1,UPI,Delivered,2.0,1389.16,138.92,1250.24,997.32,252.92
+ORD-00696,2025-06-27,CUST-0370,North,Jaipur,Consumer,Retail Store,Clothing,Jeans,2033.11,8,0.1,UPI,Shipped,7.0,16264.88,1626.49,14638.39,10721.96,3916.43
+ORD-00518,2025-10-12,CUST-0265,South,Bengaluru,Consumer,Marketplace,Electronics,Keyboard,14131.78,2,0.15,Credit Card,Delivered,3.0,28263.56,4239.53,24024.03,18301.83,5722.2
+ORD-00403,2025-02-27,CUST-0188,West,,Consumer,Phone Order,Electronics,Monitor,5775.75,2,0.2,UPI,Cancelled,2.0,11551.5,2310.3,9241.2,6045.21,3195.99
+ORD-00734,2025-12-08,CUST-0224,West,Surat,Small Business,Phone Order,Clothing,Jeans,527.7,2,0.1,Credit Card,Delivered,5.0,1055.4,105.54,949.86,676.85,273.01
+ORD-00713,2025-07-16,CUST-0199,West,Surat,Corporate,Marketplace,Home & kitchen,Water Bottle,246.6,1,0.05,Credit Card,Delivered,2.0,246.6,12.33,234.27,187.81,46.46
+ORD-01194,2025-12-10,CUST-0203,WEST ,Surat,Consumer,Online,Furniture,Bookshelf,20406.4,3,0.0,Debit Card,Delivered,3.0,61219.2,0.0,61219.2,45616.14,15603.06
+ORD-01172,2025-11-09,CUST-0221,North,Chandigarh,Consumer,Online,Office Supplies,Pen Set,48.48,4,0.1,UPI,Shipped,3.0,193.92,19.39,174.53,112.09,62.44
+ORD-00144,2025-04-06,CUST-0310,North,Chandigarh,Corporate,Online,Clothing,Sneakers,1095.1,4,0.2,Credit Card,Processing,2.0,4380.4,876.08,3504.32,2578.63,925.69
+ORD-01062,2025-12-19,CUST-0100,North,Chandigarh,Consumer,Online,Clothing,Sneakers,2484.46,10,0.0,UPI,Delivered,4.0,24844.6,0.0,24844.6,14473.24,10371.36
+ORD-00819,2025-05-06,CUST-0232,South,Chennai,Corporate,Retail Store,Clothing,T-Shirt,1514.82,2,0.05,Credit Card,Delivered,1.0,3029.64,151.48,2878.16,1737.17,1140.99
+ORD-00560,2025-10-13,CUST-0017,East,Ranchi,Corporate,Retail Store,Office Supplies,Stapler,528.33,3,0.2,Net banking ,Processing,5.0,1584.99,317.0,1267.99,840.96,427.03
+ORD-00868,2025-04-17,CUST-0097,North,Jaipur,Consumer,Online,Office Supplies,Printer Paper,728.35,3,0.0,Credit Card,Cancelled,3.0,2185.05,0.0,2185.05,1701.29,483.76
+ORD-00360,2025-06-23,CUST-0177,North,Lucknow,Consumer,Retail Store,Home & Kitchen,Water Bottle,5373.74,2,0.0,Credit Card,Delivered,4.0,10747.48,0.0,10747.48,6611.85,4135.63
+ORD-00495,2025-09-14,CUST-0384,West,Mumbai,Small Business,Retail Store,Electronics,Headphones,17368.28,2,0.25,Debit Card,Cancelled,5.0,34736.56,8684.14,26052.42,16748.31,9304.11
+ORD-00664,2025-03-21,CUST-0296,South,Bengaluru,Consumer,Retail Store,Furniture,Desk,3883.29,5,0.1,Credit Card,Delivered,4.0,19416.45,1941.65,17474.8,10480.44,6994.36
+ORD-00100,2025-05-09,CUST-0064,East,Bhubaneswar,Consumer,Marketplace,Electronics,Keyboard,17282.84,2,0.2,UPI,Returned,1.0,34565.68,6913.14,27652.54,22872.2,4780.34
+ORD-00704,2025-07-20,CUST-0203,North,Lucknow,Consumer,Marketplace,Electronics,Monitor,5069.44,5,0.3,UPI,Processing,2.0,25347.2,7604.16,17743.04,14379.28,3363.76
+ORD-00916,2025-05-25,CUST-0395,West,Mumbai,Consumer,Online,Office Supplies,Stapler,738.71,1,0.0,UPI,Delivered,5.0,738.71,0.0,738.71,366.89,371.82
+ORD-00060,2025-07-25,CUST-0376,North,Lucknow,Consumer,Online,Clothing,Jeans,2620.3,1,0.1,UPI,Processing,4.0,2620.3,262.03,2358.27,1614.48,743.79
+ORD-00326,2025-01-04,CUST-0166,WEST ,Mumbai,Consumer,Marketplace,Clothing,Jacket,1932.19,3,0.0,Net Banking,Delivered,6.0,5796.57,0.0,5796.57,4067.01,1729.56
+ORD-00012,2025-03-29,CUST-0184,East,Bhubaneswar,Small Business,Retail Store,Furniture,Office Chair,9005.13,3,0.25,Cash,Delivered,4.0,27015.39,6753.85,20261.54,14571.88,5689.66
+ORD-00539,2025-09-06,CUST-0360,South,Hyderabad,Consumer,Phone Order,Clothing,T-Shirt,2121.28,5,0.25,UPI,Shipped,3.0,10606.4,2651.6,7954.8,8223.41,-268.61
+ORD-00927,2025-04-21,CUST-0371,East,Kolkata,,Marketplace,Office Supplies,Markers,711.25,3,0.25,Net Banking,Shipped,3.0,2133.75,533.44,1600.31,1308.61,291.7
+ORD-00895,2025-01-07,CUST-0135,north ,Lucknow,Consumer,Marketplace,Furniture,Filing Cabinet,1274.41,1,0.15,UPI,Cancelled,,1274.41,191.16,1083.25,744.99,338.26
+ORD-00762,2025-02-03,CUST-0337,South,Hyderabad,Consumer,Online,Electronics,Wireless Mouse,8928.24,2,0.05,UPI,Delivered,3.0,17856.48,892.82,16963.66,11881.56,5082.1
+ORD-00845,2025-06-19,CUST-0365,North,Lucknow,,Retail Store,Office Supplies,Stapler,242.65,2,0.2,Credit Card,Delivered,2.0,485.3,97.06,388.24,362.79,25.45
+ORD-00075,2025-12-17,CUST-0049,East,Kolkata,Corporate,Online,Electronics,Keyboard,2124.64,2,0.25,Credit Card,Delivered,3.0,4249.28,1062.32,3186.96,3061.99,124.97
+ORD-00549,2025-05-31,CUST-0392,West,Ahmedabad,Corporate,Online,Home & Kitchen,Coffee Maker,6358.23,1,0.2,Cash,Shipped,3.0,6358.23,1271.65,5086.58,4943.77,142.81
+ORD-00585,2025-02-26,CUST-0340,West,Ahmedabad,Consumer,Retail Store,Electronics,Keyboard,3250.24,3,0.1,Cash,Delivered,5.0,9750.72,975.07,8775.65,7487.64,1288.01
+ORD-00087,2025-10-07,CUST-0124,North,Lucknow,Consumer,Retail Store,Electronics,Keyboard,1982.08,4,0.1,Debit Card,Shipped,10.0,7928.32,792.83,7135.49,4234.42,2901.07
+ORD-00189,2025-06-21,CUST-0008,South,Bengaluru,Consumer,Marketplace,Office Supplies,Stapler,822.14,3,0.1,Debit Card,Delivered,3.0,2466.42,246.64,2219.78,1600.17,619.61
+ORD-01171,2025-07-21,CUST-0145,North,Lucknow,Small Business, MARKETPLACE,Clothing,Jacket,3162.03,10,0.0,UPI,Returned,10.0,31620.3,0.0,31620.3,21319.44,10300.86
+ORD-00178,2025-04-26,CUST-0085,East,Patna,Corporate,Retail Store,Electronics,Headphones,13972.01,5,0.0,UPI,Delivered,14.0,69860.05,0.0,69860.05,51748.99,18111.06
+ORD-01192,2025-06-29,CUST-0076,East,Kolkata,Corporate,Online,Clothing,Jeans,1373.73,3,0.2,UPI,Delivered,,4121.19,824.24,3296.95,2021.53,1275.42
+ORD-01163,2025-07-01,CUST-0229,West,Ahmedabad,Corporate,Marketplace,Clothing,T-Shirt,1019.6,1,0.15,Debit Card,Shipped,10.0,1019.6,152.94,866.66,772.9,93.76
+ORD-00191,2025-11-11,CUST-0207,North,Jaipur,Consumer,Marketplace,Office Supplies,Pen Set,717.63,2,0.15,Cash,Processing,2.0,1435.26,215.29,1219.97,760.49,459.48
+ORD-01029,2025-01-01,CUST-0260,North,Jaipur,Consumer,Retail Store,Electronics,Keyboard,14933.58,1,0.1,UPI,Delivered,4.0,14933.58,1493.36,13440.22,7335.82,6104.4
+ORD-00414,2025-03-01,CUST-0229,north ,Lucknow,Consumer,Online,Furniture,Office Chair,21583.71,1,0.05,Credit Card,Processing,3.0,21583.71,1079.19,20504.52,14587.25,5917.27
+ORD-00619,2025-12-31,CUST-0190,North,Jaipur,Consumer,Online,Office Supplies,Stapler,,2,0.15,Credit Card,Delivered,3.0,544.82,81.72,463.1,339.47,123.63
+ORD-01068,2025-08-13,CUST-0034,South,Hyderabad,Corporate,Marketplace,Furniture,Office Chair,21138.16,2,0.05,Net Banking,Returned,5.0,42276.32,2113.82,40162.5,32818.08,7344.42
+ORD-00246,2025-12-18,CUST-0037,South,Bengaluru,Consumer,Marketplace,Home & Kitchen,Desk Lamp,5878.48,4,0.1,Net Banking,Delivered,1.0,23513.92,2351.39,21162.53,18071.0,3091.53
+ORD-00218,2025-08-06,CUST-0204,South,Chennai,Consumer,Online,Electronics,USB Hub,17905.3,1,0.15,UPI,Processing,3.0,17905.3,2685.79,15219.51,9549.36,5670.15
+ORD-00605,2025-08-18,CUST-0308,West,Pune,Consumer,Marketplace,Clothing,Sneakers,1633.87,1,0.0,Debit Card,Delivered,6.0,1633.87,0.0,1633.87,992.78,641.09
+ORD-00490,2025-06-29,CUST-0097,South,Hyderabad,Small Business,Marketplace,Home & Kitchen,Coffee Maker,2780.86,1,0.05,Credit Card,Delivered,3.0,2780.86,139.04,2641.82,1742.6,899.22
+ORD-00765,2025-03-13,CUST-0247,North,Chandigarh,Consumer,Marketplace,Clothing,T-Shirt,2034.84,1,0.05,Debit Card,Shipped,3.0,2034.84,101.74,1933.1,1070.21,862.89
+ORD-00402,2025-11-10,CUST-0143,West,,Consumer,Online,Home & Kitchen,Storage Box,678.33,2,0.1,credit card,Delivered,5.0,1356.66,135.67,1220.99,781.16,439.83
+ORD-00979,2025-06-22,CUST-0320,East,Bhubaneswar,Consumer,Online,Clothing,Sneakers,1087.18,2,0.1,UPI,Processing,4.0,2174.36,217.44,1956.92,1435.04,521.88
+ORD-00651,2025-07-09,CUST-0138,North,Jaipur,Consumer,Marketplace,Electronics,Headphones,2801.34,3,0.2,Cash,Processing,2.0,8404.02,1680.8,6723.22,4452.61,2270.61
+ORD-00714,2025-10-30,CUST-0171,West,Ahmedabad,Corporate,Marketplace,Office Supplies,Notebook,780.66,4,0.25,Net Banking,Shipped,4.0,3122.64,780.66,2341.98,1928.63,413.35
+ORD-00748,2025-01-23,CUST-0241,SOUTH,Kochi,Consumer,Online,Office Supplies,Pen Set,152.76,2,0.05,Credit Card,Delivered,4.0,305.52,15.28,290.24,215.45,74.79
+ORD-00670,2025-08-15,CUST-0015,West,Mumbai,Consumer,Retail Store,Office Supplies,Markers,58.21,1,0.05,UPI,Cancelled,5.0,58.21,2.91,55.3,36.36,18.94
+ORD-00047,2025-06-16,CUST-0199,East,Patna,Corporate,Phone Order,Electronics,Keyboard,5974.41,1,0.2,Credit Card,Delivered,3.0,5974.41,1194.88,4779.53,3021.95,1757.58
+ORD-00708,2025-02-15,CUST-0075,East,Kolkata,Consumer,Retail Store,Electronics,Headphones,17275.52,3,0.15,Debit Card,Shipped,7.0,51826.56,7773.98,44052.58,33406.88,10645.7
+ORD-00872,2025-12-03,CUST-0035,North,Jaipur,Small Business,Online,Electronics,Keyboard,13654.72,1,0.25,Credit Card,Shipped,5.0,13654.72,3413.68,10241.04,8352.63,1888.41
+ORD-00283,2025-04-23,CUST-0062,West,Ahmedabad,Consumer,Phone Order,Clothing,Jeans,2754.97,2,0.15,Debit Card,Processing,1.0,5509.94,826.49,4683.45,4160.03,523.42
+ORD-00281,2025-04-26,CUST-0209,West,Pune,Corporate,Online,Furniture,Filing Cabinet,14924.27,4,0.2,Credit Card,Cancelled,6.0,59697.08,11939.42,47757.66,35745.28,12012.38
+ORD-00653,2025-11-08,CUST-0200,North,Delhi,Corporate,Retail Store,Furniture,Desk,15818.05,1,0.2,UPI,Processing,2.0,15818.05,3163.61,12654.44,8563.15,4091.29
+ORD-00232,2025-08-28,CUST-0223,North,Chandigarh,Corporate,Retail Store,Home & Kitchen,Water Bottle,743.52,2,0.2,Credit Card,Delivered,3.0,1487.04,297.41,1189.63,894.85,294.78
+ORD-00081,2025-10-23,CUST-0219,West,Ahmedabad,Consumer,Marketplace,Home & Kitchen,Storage Box,4661.2,1,0.1,,Shipped,10.0,4661.2,466.12,4195.08,2940.85,1254.23
+ORD-00474,2025-07-23,CUST-0374,West,Mumbai,Consumer,Retail Store,Electronics,Monitor,13054.48,2,0.0,UPI,Shipped,2.0,26108.96,0.0,26108.96,18715.49,7393.47
+ORD-00222,2025-11-20,CUST-0339,WEST ,Pune,Corporate,Marketplace,Furniture,Desk,7333.21,8,0.25,UPI,Delivered,5.0,58665.68,14666.42,43999.26,33294.33,10704.93
+ORD-00473,2025-08-26,CUST-0077,East,Bhubaneswar,Consumer,Online,Clothing,Sneakers,995.12,2,0.3,Debit Card,Delivered,4.0,1990.24,597.07,1393.17,1498.16,-104.99
+ORD-00351,2025-11-19,CUST-0357,North,Chandigarh,Corporate,Online,Electronics,Monitor,13255.84,4,0.25,Debit Card,Returned,3.0,53023.36,13255.84,39767.52,30813.01,8954.51
+ORD-00392,2025-10-15,CUST-0234,North,Jaipur,Corporate,Retail Store,Office Supplies,Notebook,441.1,2,0.15,Credit Card,Processing,5.0,882.2,132.33,749.87,667.59,82.28
+ORD-00229,2025-11-21,CUST-0047,South,Chennai,Consumer,Online,Furniture,Filing Cabinet,17667.26,1,0.0,Net Banking,Delivered,8.0,17667.26,0.0,17667.26,9880.91,7786.35
+ORD-00624,2025-08-05,CUST-0288,East,Kolkata,Consumer,Retail Store,Electronics,Keyboard,17297.27,1,0.05,Cash,Shipped,4.0,17297.27,864.86,16432.41,13478.2,2954.21
+ORD-00689,2025-05-02,CUST-0274,West,Surat,Consumer,Phone Order,Electronics,Keyboard,9907.85,2,0.15,Debit Card,Delivered,5.0,19815.7,2972.36,16843.34,14650.31,2193.03
+ORD-00783,2025-08-17,CUST-0245,East,Ranchi,Small Business,Retail Store,Clothing,Jacket,574.4,2,0.15,Net Banking,Delivered,2.0,1148.8,172.32,976.48,798.85,177.63
+ORD-01180,2025-03-16,CUST-0236,East,,Consumer,Marketplace,Office Supplies,Stapler,524.26,5,0.1,UPI,Delivered,2.0,2621.3,262.13,2359.17,1681.85,677.32
+ORD-01113,2025-05-10,CUST-0054,East,Patna,Consumer,Marketplace,Furniture,Bookshelf,3832.49,1,0.05,UPI,Delivered,2.0,3832.49,191.62,3640.87,2494.94,1145.93
+ORD-01043,2025-08-01,CUST-0032,East,Ranchi,Consumer,Retail Store,Clothing,Sneakers,1347.2,4,0.05,Debit Card,Delivered,2.0,5388.8,269.44,5119.36,3279.78,1839.58
+ORD-00299,2025-03-09,CUST-0041,South,Bengaluru,Consumer,Retail Store,Home & Kitchen,Storage Box,1044.74,1,0.25,UPI,Cancelled,2.0,1044.74,261.18,783.56,806.84,-23.28
+ORD-00648,2025-12-27,CUST-0179,East,Bhubaneswar,Corporate,Marketplace,Clothing,Jacket,3227.21,2,0.2,UPI,Delivered,3.0,6454.42,1290.88,5163.54,3418.71,1744.83
+ORD-00994,2025-05-22,CUST-0168,East,Bhubaneswar,Consumer,Marketplace,Furniture,Office Chair,9424.42,6,0.0,Credit Card,Delivered,1.0,56546.52,0.0,56546.52,39781.71,16764.81
+ORD-01041,2025-10-13,CUST-0180,East,Patna,Small Business,Online,Clothing,Jacket,,2,0.15,Debit Card,Shipped,3.0,2417.98,362.7,2055.28,1857.06,198.22
+ORD-00371,2025-09-03,CUST-0366,SOUTH,Kochi,Consumer,Retail Store,Office Supplies,Stapler,75.48,3,0.1,Debit Card,Delivered,5.0,226.44,22.64,203.8,141.17,62.63
+ORD-00837,2025-04-03,CUST-0126,North,Chandigarh,Consumer,Online,Home & Kitchen,Storage Box,780.1,4,0.05,UPI,Delivered,2.0,3120.4,156.02,2964.38,2047.22,917.16
+ORD-00955,2025-06-01,CUST-0351,North,Lucknow,Small Business,Retail Store,Office Supplies,Stapler,425.34,2,0.3,UPI,Delivered,2.0,850.68,255.2,595.48,461.99,133.49
+ORD-00764,2025-04-05,CUST-0098,South,Chennai,Consumer,Phone Order,Furniture,Desk,19095.7,1,0.0,UPI,Delivered,3.0,19095.7,0.0,19095.7,14681.18,4414.52
+ORD-00499,2025-10-07,CUST-0135,North,Lucknow,Small Business,Marketplace,Office Supplies,Notebook,358.28,2,0.0,UPI,Delivered,,716.56,0.0,716.56,541.56,175.0
+ORD-00766,2025-02-08,CUST-0261,South,Bengaluru,Corporate,Online,Clothing,Jacket,2506.83,6,0.0,Debit Card,Delivered,2.0,15040.98,0.0,15040.98,11667.77,3373.21
+ORD-00301,2025-10-04,CUST-0279,West,Pune,Consumer,Online,Furniture,Bookshelf,14671.54,5,0.25,Debit Card,Delivered,5.0,73357.7,18339.42,55018.28,49477.25,5541.03
+ORD-00349,2025-06-10,CUST-0384,South,Hyderabad,Consumer,Retail Store,Clothing,Jeans,3305.63,3,0.1,UPI,Shipped,,9916.89,991.69,8925.2,5817.16,3108.04
+ORD-00731,2025-10-09,CUST-0263,East,Kolkata,Corporate,Retail Store,Electronics,USB Hub,16530.06,2,0.15,UPI,Delivered,4.0,33060.12,4959.02,28101.1,22881.25,5219.85
+ORD-00594,2025-06-12,CUST-0198, east,Ranchi,Consumer,Marketplace,Electronics,Wireless Mouse,16847.4,-2,0.0,Cash,Shipped,5.0,16847.4,0.0,16847.4,12434.83,4412.57
+ORD-00832,2025-10-08,CUST-0377,West,Mumbai,Corporate,Marketplace,Clothing,Jacket,1376.51,8,0.0,,Delivered,3.0,11012.08,0.0,11012.08,7433.67,3578.41
+ORD-01022,2025-03-10,CUST-0396,East,Ranchi,Small Business,Online,Office Supplies,Stapler,616.5,1,0.15,Cash,Delivered,2.0,616.5,92.48,524.02,420.51,103.51
+ORD-00438,2025-12-12,CUST-0184,West,Pune,Consumer,online ,Electronics,Keyboard,817.39,1,0.0,Cash,Delivered,6.0,817.39,0.0,817.39,555.17,262.22
+ORD-00106,2025-10-16,CUST-0001,North,Lucknow,Consumer,Marketplace,Clothing,Jacket,2355.39,8,0.0,UPI,Delivered,2.0,18843.12,0.0,18843.12,14335.14,4507.98
+ORD-00890,2025-12-31,CUST-0030,East,Patna,Consumer,Online,Office Supplies,Printer Paper,733.23,10,0.0,UPI,Delivered,2.0,7332.3,0.0,7332.3,5466.85,1865.45
+ORD-00753,2025-05-25,CUST-0107,North,Lucknow,Consumer,Marketplace,Home & Kitchen,Storage Box,3444.43,4,0.2,Cash,RETURNED,,13777.72,2755.54,11022.18,9526.93,1495.25
+ORD-00775,2025-08-24,CUST-0285,South,Chennai,Consumer,Online,Clothing,Jacket,,2,0.15,Credit Card,Shipped,6.0,1544.16,231.62,1312.54,1156.45,156.09
+ORD-00899,2025-12-29,CUST-0031,South,Chennai,Consumer,Online,Clothing,Sneakers,1635.64,3,0.1,Cash,Delivered,5.0,4906.92,490.69,4416.23,2595.94,1820.29
+ORD-00334,2025-02-15,CUST-0204,North,Jaipur,Corporate,Marketplace,Clothing,Jacket,2410.01,8,0.1,UPI,Delivered,6.0,19280.08,1928.01,17352.07,14372.56,2979.51
+ORD-00569,2025-04-10,CUST-0139,East,Kolkata,Corporate,Online,Office Supplies,Pen Set,146.84,2,0.0,Debit Card,delivered,5.0,293.68,0.0,293.68,211.29,82.39
+ORD-00064,2025-01-02,CUST-0332,East,Bhubaneswar,Consumer,Retail Store,Electronics,USB Hub,10974.02,4,0.05,Cash,Delivered,3.0,43896.08,2194.8,41701.28,30851.98,10849.3
+ORD-00025,2025-11-10,CUST-0283,South,Bengaluru,Consumer,Marketplace,Office Supplies,Notebook,535.43,4,0.2,Net Banking,Delivered,5.0,2141.72,428.34,1713.38,1048.67,664.71
+ORD-01121,2025-03-10,CUST-0311,North,Jaipur,Consumer,Retail Store,Electronics,Keyboard,15465.22,2,0.2,Credit Card,Cancelled,3.0,30930.44,6186.09,24744.35,20047.45,4696.9
+ORD-00921,2025-03-08,CUST-0141,South,Hyderabad,Consumer,Online,Furniture,Desk,8559.1,1,0.1,UPI,Shipped,2.0,8559.1,855.91,7703.19,5294.08,2409.11
+ORD-00907,2025-01-28,CUST-0394,North,Chandigarh,Corporate,Online,Electronics,Wireless Mouse,2089.83,4,0.1,Credit Card,Delivered,3.0,8359.32,835.93,7523.39,4324.55,3198.84
+ORD-01167,2025-02-24,CUST-0340,South,Bengaluru,Consumer,Online,Office Supplies,Stapler,776.29,1,0.0,UPI,Cancelled,6.0,776.29,0.0,776.29,385.72,390.57
+ORD-00676,2025-01-14,CUST-0227,North,Jaipur,Corporate,Retail Store,Clothing,T-Shirt,2277.74,3,0.1,UPI,Delivered,,6833.22,683.32,6149.9,4339.83,1810.07
+ORD-00862,2025-02-16,CUST-0315,South,Hyderabad,Corporate,online ,Clothing,Sneakers,2600.91,5,0.05,UPI,Delivered,5.0,13004.55,650.23,12354.32,7841.28,4513.04
+ORD-00164,2025-10-11,CUST-0174,East,Bhubaneswar,Small Business,Phone Order,Home & Kitchen,Coffee Maker,2387.97,1,0.1,UPI,Delivered,3.0,2387.97,238.8,2149.17,1678.42,470.75
+ORD-00635,2025-07-21,CUST-0269,South,Chennai,Consumer,Phone Order,Home & Kitchen,Storage Box,890.43,2,0.1,Debit Card,Delivered,3.0,1780.86,178.09,1602.77,1108.75,494.02
+ORD-00884,2025-02-25,CUST-0265,North,Jaipur,Consumer,Retail Store,Electronics,USB Hub,14901.74,2,0.0,Credit Card,Delivered,,29803.48,0.0,29803.48,21729.28,8074.2
+ORD-00412,2025-09-21,CUST-0107,South,Bengaluru,,Marketplace,Office Supplies,Stapler,448.86,1,0.0,Debit Card,Returned,3.0,448.86,0.0,448.86,282.65,166.21
+ORD-00365,2025-05-31,CUST-0303,South,Kochi,Corporate,Online,Office Supplies,Printer Paper,482.39,6,0.1,UPI,Delivered,6.0,2894.34,289.43,2604.91,2239.5,365.41
+ORD-00695,2025-11-12,CUST-0239,South,Bengaluru,,Online,Home & Kitchen,Desk Lamp,2316.0,1,0.0,UPI,Processing,3.0,2316.0,0.0,2316.0,1434.2,881.8
+ORD-01112,2025-06-22,CUST-0146,North,Lucknow,Consumer,Marketplace,Home & Kitchen,Water Bottle,719.05,1,0.25,Net Banking,Returned,4.0,719.05,179.76,539.29,370.29,169.0
+ORD-00977,2025-07-22,CUST-0235,South,Hyderabad,Corporate,Marketplace,Office Supplies,Markers,306.21,5,0.1,UPI,Delivered,2.0,1531.05,153.1,1377.95,856.5,521.45
+ORD-00400,2025-05-05,CUST-0002,North,Jaipur,Corporate,Marketplace,Office Supplies,Pen Set,608.79,1,0.05,Credit Card,Delivered,5.0,608.79,30.44,578.35,407.63,170.72
+ORD-01076,2025-06-28,CUST-0346,East,Bhubaneswar,Consumer,Online,Furniture,Office Chair,18586.92,4,0.0,Credit Card,Delivered,,74347.68,0.0,74347.68,49708.25,24639.43
+ORD-01181,2025-10-21,CUST-0013,West,Ahmedabad,Corporate,Online,Furniture,Bookshelf,13548.7,3,0.2,Debit Card,Shipped,4.0,40646.1,8129.22,32516.88,23170.23,9346.65
+ORD-00033,2025-07-07,CUST-0266,East,Patna,Small Business,Retail Store,Clothing,Sneakers,3410.93,2,0.1,Net Banking,Delivered,2.0,6821.86,682.19,6139.67,5166.84,972.83
+ORD-01127,2025-02-07,CUST-0374,North,Chandigarh,Consumer,Online,Office Supplies,Printer Paper,865.23,5,0.0,Debit Card,Delivered,3.0,4326.15,0.0,4326.15,3282.34,1043.81
+ORD-01173,2025-04-27,CUST-0392,West,Mumbai,Consumer,Online,Furniture,Bookshelf,15299.67,4,0.2,UPI,Delivered,4.0,61198.68,12239.74,48958.94,32338.53,16620.41
+ORD-00646,2025-05-28,CUST-0191,SOUTH,Hyderabad,Consumer,Marketplace,Electronics,USB Hub,3947.7,2,0.0,UPI,Delivered,5.0,7895.4,0.0,7895.4,4390.16,3505.24
+ORD-00344,2025-04-09,CUST-0235,West,,Corporate,Marketplace,Clothing,Jacket,3452.86,8,0.0,UPI,Returned,,27622.88,0.0,27622.88,17121.61,10501.27
+ORD-01038,2025-08-17,CUST-0160,South,Bengaluru,Corporate,online ,Furniture,Filing Cabinet,2204.06,1,0.1,Debit Card,Delivered,5.0,2204.06,220.41,1983.65,1166.04,817.61
+ORD-00589,2025-02-11,CUST-0287,East,Patna,Consumer,Retail Store,Electronics,Keyboard,12584.03,2,0.1,UPI,Shipped,5.0,25168.06,2516.81,22651.25,15852.45,6798.8
+ORD-00532,2025-04-15,CUST-0361,North,Lucknow,Corporate,Retail Store,Furniture,Filing Cabinet,18610.06,1,0.25,Credit Card,Delivered,8.0,18610.06,4652.52,13957.54,12885.5,1072.04
+ORD-00035,2025-07-09,CUST-0040,North,Lucknow,Consumer,Retail Store,Home & Kitchen,Desk Lamp,3968.36,3,0.15,Debit Card,Delivered,2.0,11905.08,1785.76,10119.32,7653.73,2465.59
+ORD-00822,2025-08-28,CUST-0158,South,Bengaluru,Consumer,Phone Order,Electronics,Keyboard,11904.68,1,0.05,UPI,Delivered,4.0,11904.68,595.23,11309.45,6944.14,4365.31
+ORD-00760,2025-09-17,CUST-0302,West,Ahmedabad,Small Business,Retail Store,Office Supplies,Stapler,58.23,3,0.1,Credit Card,Shipped,4.0,174.69,17.47,157.22,88.37,68.85
+ORD-00152,2025-01-13,CUST-0018,East,Kolkata,Consumer,Retail Store,Home & Kitchen,Storage Box,1729.98,4,0.1,credit card,Delivered,2.0,6919.92,691.99,6227.93,3570.44,2657.49
+ORD-00752,2025-03-24,CUST-0062,West,Mumbai,Consumer,Online,Home & Kitchen,Desk Lamp,2763.43,1,0.15,Net Banking,Delivered,2.0,2763.43,414.51,2348.92,1774.12,574.8
+ORD-00315,2025-09-21,CUST-0333,East,Ranchi,Consumer,Retail Store,Home & Kitchen,Coffee Maker,2288.8,1,0.0,Debit Card,Shipped,4.0,2288.8,0.0,2288.8,1208.74,1080.06
+ORD-00237,2025-07-06,CUST-0120,South,Hyderabad,Consumer,Online,Office supplies,Printer Paper,888.96,3,0.15,Credit Card,Delivered,2.0,2666.88,400.03,2266.85,2003.87,262.98
+ORD-00022,2025-07-11,CUST-0034,South,Chennai,Consumer,Marketplace,Home & Kitchen,Coffee Maker,4351.5,1,0.3,Debit Card,Delivered,3.0,4351.5,1305.45,3046.05,3381.94,-335.89
+ORD-01115,2025-04-25,CUST-0277,West,Ahmedabad,Corporate,Retail Store,Furniture,Filing Cabinet,19186.92,1,0.1,UPI,Returned,3.0,19186.92,1918.69,17268.23,13030.11,4238.12
+ORD-01099,2025-10-30,CUST-0277,South,Kochi,Corporate,Marketplace,Clothing,Jacket,1110.09,1,0.05,Debit Card,Delivered,3.0,1110.09,55.5,1054.59,736.79,317.8
+ORD-00096,2025-12-11,CUST-0375,North,Chandigarh,Corporate,Online,Clothing,Sneakers,381.35,2,0.15,Debit Card,Returned,1.0,762.7,114.4,648.3,493.02,155.28
+ORD-00798,2025-11-04,CUST-0274,North,Delhi,Consumer,Marketplace,Office Supplies,Pen Set,451.16,5,0.2,Cash,Delivered,4.0,2255.8,451.16,1804.64,1313.6,491.04
+ORD-00186,2025-08-13,CUST-0038,South,Hyderabad,Corporate,Marketplace,Home & kitchen,Coffee Maker,558.97,1,0.3,UPI,Delivered,10.0,558.97,167.69,391.28,282.54,108.74
+ORD-00573,2025-10-11,CUST-0092,North,Jaipur,Consumer,Marketplace,Electronics,Headphones,17189.79,2,0.1,Debit Card,Delivered,10.0,34379.58,3437.96,30941.62,18425.96,12515.66
+ORD-00531,2025-04-25,CUST-0111,West,Mumbai,Consumer,Marketplace,Clothing,Jeans,555.16,1,0.2,Debit Card,Delivered,1.0,555.16,111.03,444.13,402.44,41.69
+ORD-00813,2025-12-06,CUST-0367,North,Lucknow,Corporate,Marketplace,Clothing,Jeans,3077.49,4,0.1,Credit Card,Delivered,2.0,12309.96,1231.0,11078.96,6566.62,4512.34
+ORD-00456,2025-09-29,CUST-0114,North,Chandigarh,Consumer,Marketplace,Clothing,Jeans,1372.3,1,0.0,Cash,Delivered,4.0,1372.3,0.0,1372.3,792.82,579.48
+ORD-00566,2025-07-06,CUST-0134,South,Bengaluru,Consumer,Retail Store,Home & Kitchen,Coffee Maker,2625.07,1,0.2,Net Banking,delivered,2.0,2625.07,525.01,2100.06,1630.49,469.57
+ORD-00359,2025-12-26,CUST-0032,East,Patna,Corporate,Online,Furniture,Bookshelf,11118.23,1,0.0,Debit Card,Returned,4.0,11118.23,0.0,11118.23,7432.28,3685.95
+ORD-00472,2025-04-04,CUST-0181,West,Ahmedabad,Corporate,Online,Furniture,Desk,21259.3,2,0.15,,Cancelled,7.0,42518.6,6377.79,36140.81,25218.25,10922.56
+ORD-00333,2025-06-07,CUST-0182,East,Bhubaneswar,Small Business,Online,Clothing,Sneakers,2961.84,6,0.0,Credit Card,Delivered,10.0,17771.04,0.0,17771.04,9666.4,8104.64
+ORD-00919,2025-01-25,CUST-0188,North,Jaipur,Consumer,Retail Store,Electronics,Keyboard,5718.6,1,0.0,UPI,Delivered,1.0,5718.6,0.0,5718.6,3162.94,2555.66
+ORD-00818,2025-07-24,CUST-0296,South,Bengaluru,Consumer,Marketplace,Clothing,Jeans,1630.35,2,0.0,Credit Card,Delivered,7.0,3260.7,0.0,3260.7,1735.72,1524.98
+ORD-00610,2025-06-19,CUST-0125,East,Patna,Consumer,Marketplace,Clothing,T-Shirt,2697.56,2,0.15,Debit Card,Delivered,2.0,5395.12,809.27,4585.85,3337.96,1247.89
+ORD-00855,2025-02-03,CUST-0284,South,Kochi,Consumer,Online,Clothing,T-Shirt,3353.98,3,0.0,UPI,Processing,4.0,10061.94,0.0,10061.94,5730.45,4331.49
+ORD-00303,2025-05-15,CUST-0051,East,Kolkata,,Online,Furniture,Desk,4253.47,1,0.25,UPI,Delivered,2.0,4253.47,1063.37,3190.1,3182.81,7.29
+ORD-00340,2025-12-15,CUST-0235,East,Bhubaneswar,Consumer,Marketplace,Home & Kitchen,Coffee Maker,4261.29,1,0.1,Debit Card,Returned,4.0,4261.29,426.13,3835.16,2474.58,1360.58
+ORD-00295,2025-06-12,CUST-0336,East,Bhubaneswar,Corporate,Retail Store,Clothing,Jeans,3390.68,1,0.05,UPI,Shipped,5.0,3390.68,169.53,3221.15,1716.25,1504.9
+ORD-00031,2025-02-28,CUST-0137,South,Chennai,Corporate,Retail Store,Clothing,Sneakers,2585.49,2,0.1,Credit Card,Shipped,10.0,5170.98,517.1,4653.88,3057.53,1596.35
+ORD-00254,2025-09-24,CUST-0298,South,Bengaluru,Corporate,Marketplace,Clothing,T-Shirt,677.77,5,0.0,Debit Card,Returned,3.0,3388.85,0.0,3388.85,2351.12,1037.73
+ORD-01067,2025-05-25,CUST-0192,West,Mumbai,Corporate,Retail Store,Clothing,Jacket,1895.94,3,0.15,Credit Card,Delivered,3.0,5687.82,853.17,4834.65,3028.01,1806.64
+ORD-00744,2025-12-17,CUST-0065,South,Chennai,Small Business,Online,Furniture,Desk,12406.47,1,0.05,Credit Card,Processing,2.0,12406.47,620.32,11786.15,7722.76,4063.39
+ORD-00258,2025-09-20,CUST-0011,North,Jaipur,Corporate,Phone Order,Furniture,Bookshelf,9368.14,5,0.15,Credit Card,Returned,14.0,46840.7,7026.1,39814.6,35871.68,3942.92
+ORD-00199,2025-09-25,CUST-0308,North,Delhi,Consumer,Online,Clothing,Jeans,3049.4,4,0.0,Net Banking,Delivered,2.0,12197.6,0.0,12197.6,8485.06,3712.54
+ORD-00429,2025-04-16,CUST-0393,East,Ranchi,Consumer,Marketplace,Furniture,Bookshelf,21926.17,8,0.0,Net Banking,Delivered,3.0,175409.36,0.0,175409.36,91056.67,84352.69
+ORD-00146,2025-08-19,CUST-0225,South,Kochi,Consumer,Marketplace,Furniture,Bookshelf,6922.66,1,0.0,UPI,Cancelled,4.0,6922.66,0.0,6922.66,4698.16,2224.5
+ORD-00432,2025-05-25,CUST-0158,West,Surat,Consumer,Marketplace,Office Supplies,Pen Set,748.08,1,0.15,Debit Card,Delivered,3.0,748.08,112.21,635.87,499.65,136.22
+ORD-00074,2025-09-27,CUST-0122,South,Bengaluru,Small Business,Retail Store,Furniture,Desk,3412.46,1,0.2,UPI,Shipped,6.0,3412.46,682.49,2729.97,1835.57,894.4
+ORD-00925,2025-04-21,CUST-0272,North,Lucknow,Corporate,Marketplace,Office Supplies,Stapler,828.69,2,0.1,UPI,Shipped,3.0,1657.38,165.74,1491.64,958.91,532.73
+ORD-01156,2025-08-02,CUST-0271,East,Kolkata,Consumer,Marketplace,Clothing,Jacket,2040.6,4,0.1,Cash,Processing,1.0,8162.4,816.24,7346.16,5998.57,1347.59
+ORD-00900,2025-08-27,CUST-0121,South,Kochi,Consumer,Retail Store,Electronics,Headphones,5847.56,1,0.05,Debit Card,Shipped,4.0,5847.56,292.38,5555.18,3408.42,2146.76
+ORD-00829,2025-01-08,CUST-0126,North,Lucknow,Consumer,Marketplace,Home & Kitchen,Storage Box,2467.48,1,0.1,Credit Card,Returned,1.0,2467.48,246.75,2220.73,1389.68,831.05
+ORD-00055,2025-02-22,CUST-0281,East,Bhubaneswar,Small Business,Marketplace,Home & Kitchen,Desk Lamp,4693.82,3,0.15,UPI,delivered,6.0,14081.46,2112.22,11969.24,9670.9,2298.34
+ORD-01151,2025-10-14,CUST-0358,West,Ahmedabad,Consumer,Phone Order,Electronics,Keyboard,3993.63,5,0.0,Credit Card,Delivered,3.0,19968.15,0.0,19968.15,12049.36,7918.79
+ORD-00637,2025-01-19,CUST-0023,West,Surat,Consumer,Retail Store,Home & Kitchen,Coffee Maker,311.59,2,0.0,Credit Card,Returned,4.0,623.18,0.0,623.18,362.11,261.07
+ORD-00678,2025-01-01,CUST-0020,West,Surat,Consumer,Online,Electronics,USB Hub,2565.9,3,0.1,Debit Card,Delivered,4.0,7697.7,769.77,6927.93,5131.96,1795.97
+ORD-00142,2025-08-29,CUST-0080,West,Surat,Corporate,Marketplace,Home & Kitchen,Storage Box,2118.37,4,0.0,UPI,Delivered,3.0,8473.48,0.0,8473.48,6349.18,2124.3
+ORD-01078,2025-01-15,CUST-0071,East,Bhubaneswar,Corporate,Retail Store,Electronics,Monitor,9931.37,2,0.0,UPI,Delivered,2.0,19862.74,0.0,19862.74,11064.01,8798.73
+ORD-00705,2025-07-31,CUST-0250,West,Mumbai,Consumer,Retail store,Office Supplies,Stapler,615.3,4,0.2,UPI,Delivered,3.0,2461.2,492.24,1968.96,1614.61,354.35
+ORD-00937,2025-10-09,CUST-0062,East,Kolkata,,Marketplace,Electronics,Keyboard,838.95,1,0.05,Debit Card,Delivered,3.0,838.95,41.95,797.0,650.11,146.89
+ORD-00441,2025-11-14,CUST-0131,East,Bhubaneswar,Consumer,Online,Clothing,Jeans,1988.2,2,0.0,Credit Card,Returned,,3976.4,0.0,3976.4,1957.58,2018.82
+ORD-00004,2025-04-17,CUST-0111,West,Mumbai,Consumer,Online,Clothing,Jacket,3169.03,5,0.2,UPI,Delivered,3.0,15845.15,3169.03,12676.12,10205.23,2470.89
+ORD-00221,2025-09-04,CUST-0058,West,Surat,Consumer,Marketplace,Home & Kitchen,Desk Lamp,4521.17,1,0.0,Debit Card,Delivered,2.0,4521.17,0.0,4521.17,3437.31,1083.86
+ORD-01002,2025-06-10,CUST-0227,South,Bengaluru,Consumer,Marketplace,Home & Kitchen,Desk Lamp,609.88,4,0.05,Credit Card,Delivered,5.0,2439.52,121.98,2317.54,1545.82,771.72
+ORD-01193,2025-07-17,CUST-0329,South,Bengaluru,Consumer,Marketplace,Home & Kitchen,Water Bottle,2215.15,6,0.0,Credit Card,Delivered,3.0,13290.9,0.0,13290.9,9536.42,3754.48
+ORD-00974,2025-03-03,CUST-0251,North,Jaipur,Corporate,Online,Clothing,T-Shirt,361.6,2,0.05,Credit Card,Delivered,5.0,723.2,36.16,687.04,395.19,291.85
+ORD-01000,2025-11-29,CUST-0010,north ,Lucknow,Small Business,Online,Electronics,Headphones,10438.17,5,0.15,Debit Card,Delivered,8.0,52190.85,7828.63,44362.22,33202.77,11159.45
+ORD-01011,2025-03-25,CUST-0209,South,Bengaluru,Corporate,Phone Order,Clothing,T-Shirt,1835.27,1,0.0,UPI,Delivered,2.0,1835.27,0.0,1835.27,1409.51,425.76
+ORD-00328,2025-07-11,CUST-0216,South,Kochi,Consumer,Marketplace,Office Supplies,Printer Paper,380.01,2,0.15,Net Banking,Shipped,3.0,760.02,114.0,646.02,451.67,194.35
+ORD-01050,2025-03-30,CUST-0400,West,Surat,Consumer,Online,Electronics,Headphones,8674.82,2,0.25,UPI,Shipped,2.0,17349.64,4337.41,13012.23,8487.41,4524.82
+ORD-00697,2025-01-28,CUST-0314,North,Lucknow,Consumer,Online,Home & Kitchen,Desk Lamp,4437.45,10,0.05,Credit Card,Delivered,10.0,44374.5,2218.72,42155.78,23434.71,18721.07
+ORD-00130,2025-08-06,CUST-0050,South,Chennai,Consumer,Online,Clothing,Jeans,973.24,3,0.05,Debit Card,Delivered,4.0,2919.72,145.99,2773.73,1555.92,1217.81
+ORD-00390,2025-12-20,CUST-0022,South,Bengaluru,Consumer,Online,Clothing,Jeans,2783.75,6,0.1,Debit Card,Delivered,3.0,16702.5,1670.25,15032.25,11491.47,3540.78
+ORD-00076,2025-10-31,CUST-0304,South,Kochi,Small Business,Online,Furniture,Desk,1256.19,1,0.25,Credit Card,Cancelled,,1256.19,314.05,942.14,886.86,55.28
+ORD-01081,2025-10-16,CUST-0285,East,Patna,Corporate,Retail Store,Furniture,Office Chair,17771.54,1,0.1,UPI,Delivered,4.0,17771.54,1777.15,15994.39,9686.91,6307.48
+ORD-00802,2025-01-30,CUST-0177,West,Mumbai,Consumer,Online,Office Supplies,Markers,811.63,5,0.15,Credit Card,Delivered,3.0,4058.15,608.72,3449.43,2295.07,1154.36
+ORD-00935,2025-01-06,CUST-0049,West,Mumbai,Consumer,Marketplace,Home & Kitchen,Coffee Maker,5696.55,3,0.1,Net Banking,Delivered,1.0,17089.65,1708.96,15380.69,9720.92,5659.77
+ORD-00761,2025-10-15,CUST-0112,North,,Consumer,Retail Store,Electronics,USB Hub,4635.59,1,0.1,Cash,Delivered,7.0,4635.59,463.56,4172.03,2804.6,1367.43
+ORD-01092,2025-01-05,CUST-0246,East,Patna,Corporate,Retail Store,Home & Kitchen,Desk Lamp,3527.08,3,0.0,Credit Card,Delivered,2.0,10581.24,0.0,10581.24,5536.17,5045.07
+ORD-01044,2025-06-14,CUST-0265,West,Pune,Corporate,Online,Furniture,Bookshelf,7226.54,2,0.05,Debit Card,Processing,1.0,14453.08,722.65,13730.43,10715.17,3015.26
+ORD-00567,2025-01-19,CUST-0114,West,Surat,Consumer,Phone Order,Home & Kitchen,Desk Lamp,2643.7,1,0.15,Credit Card,delivered,14.0,2643.7,396.55,2247.15,1503.12,744.03
+ORD-00844,2025-04-02,CUST-0095,West,Pune,Consumer,Retail Store,Home & Kitchen,Coffee Maker,4380.82,3,0.2,UPI,Delivered,2.0,13142.46,2628.49,10513.97,9023.86,1490.11
+ORD-01098,2025-06-08,CUST-0324,West,Pune,,Online,Clothing,T-Shirt,515.03,1,0.15,Debit Card,Delivered,2.0,515.03,77.25,437.78,356.84,80.94
+ORD-00086,2025-02-22,CUST-0121,North,Chandigarh,Consumer,Marketplace,Furniture,Desk,5563.33,1,0.1,Cash,Returned,2.0,5563.33,556.33,5007.0,3134.93,1872.07
+ORD-00204,2025-03-22,CUST-0144,East,Patna,Corporate,Marketplace,Home & Kitchen,Coffee Maker,5549.2,8,0.05,Debit Card,Returned,4.0,44393.6,2219.68,42173.92,32273.03,9900.89
+ORD-00857,2025-08-06,CUST-0046,North,Delhi,Corporate,Online,Home & Kitchen,Water Bottle,492.9,3,0.0,Net Banking,Cancelled,7.0,1478.7,0.0,1478.7,724.24,754.46
+ORD-00898,2025-08-26,CUST-0087,North,Chandigarh,Consumer,Online,Furniture,Bookshelf,14622.65,2,0.15,UPI,Delivered,1.0,29245.3,4386.8,24858.5,15204.67,9653.83
+ORD-00963,2025-02-05,CUST-0052,South,Chennai,Small Business,Retail Store,Electronics,Headphones,2970.03,1,0.05,UPI,Delivered,5.0,2970.03,148.5,2821.53,1676.19,1145.34
+ORD-00923,2025-04-19,CUST-0300,North,Chandigarh,Consumer,Online,Electronics,USB Hub,1356.33,2,0.3,UPI,Delivered,3.0,2712.66,813.8,1898.86,1578.64,320.22
+ORD-00614,2025-01-05,CUST-0333,East,Patna,Small Business,Online,Electronics,USB Hub,1293.25,1,0.1,Debit Card,delivered,6.0,1293.25,129.33,1163.92,637.93,525.99
+ORD-00057,2025-04-02,CUST-0227,South,Kochi,Consumer,Phone Order,Clothing,Jeans,1203.67,1,0.15,UPI,Delivered,3.0,1203.67,180.55,1023.12,746.94,276.18
+ORD-00915,2025-01-25,CUST-0270,West,Ahmedabad,Corporate,Marketplace,Electronics,Wireless Mouse,1731.52,2,0.15,Debit Card,Shipped,10.0,3463.04,519.46,2943.58,1810.65,1132.93
+ORD-00289,2025-04-09,CUST-0210,South,Chennai,Corporate,Online,Clothing,Jacket,961.63,5,0.05,Cash,Processing,4.0,4808.15,240.41,4567.74,2563.91,2003.83
+ORD-00378,2025-11-02,CUST-0327,East,Kolkata,,Online,Office Supplies,Markers,40.97,1,0.0,UPI,Delivered,5.0,40.97,0.0,40.97,22.3,18.67
+ORD-00296,2025-07-27,CUST-0063,North,Delhi,Corporate,Online,Electronics,USB Hub,16990.28,3,0.2,Debit Card,Delivered,2.0,50970.84,10194.17,40776.67,35763.14,5013.53
+ORD-00492,2025-09-07,CUST-0205,East,Patna,,Retail Store,Home & Kitchen,Desk Lamp,2761.45,2,0.05,UPI,Shipped,1.0,5522.9,276.14,5246.76,3292.93,1953.83
+ORD-01005,2025-09-18,CUST-0305,West,Surat,Small Business,Online,Clothing,Jacket,2072.29,6,0.0,UPI,Delivered,4.0,12433.74,0.0,12433.74,6366.13,6067.61
+ORD-00462,2025-09-04,CUST-0331,West,Surat,Consumer,Retail Store,Clothing,Sneakers,2155.3,8,0.3,UPI,Delivered,3.0,17242.4,5172.72,12069.68,10825.6,1244.08
+ORD-00362,2025-04-24,CUST-0198,North,Delhi,Consumer,Online,Clothing,Sneakers,892.66,1,0.15,Credit Card,Delivered,4.0,892.66,133.9,758.76,607.81,150.95
+ORD-00587,2025-04-19,CUST-0073,North,Jaipur,Consumer,Retail Store,Furniture,Bookshelf,10257.68,4,0.0,UPI,Delivered,3.0,41030.72,0.0,41030.72,25631.19,15399.53
+ORD-00215,2025-05-10,CUST-0325,West,,Corporate,Online,Electronics,Monitor,14591.32,2,0.15,Cash,Delivered,3.0,29182.64,4377.4,24805.24,15385.13,9420.11
+ORD-00198,2025-02-21,CUST-0010,East,Ranchi,Corporate,Online,Electronics,Keyboard,3339.53,2,0.2,Credit Card,Delivered,7.0,6679.06,1335.81,5343.25,4746.54,596.71
+ORD-00018,2025-11-05,CUST-0039,South,Chennai,Consumer,Retail Store,Home & Kitchen,Coffee Maker,527.9,2,0.2,UPI,Delivered,2.0,1055.8,211.16,844.64,719.35,125.29
+ORD-00193,2025-04-06,CUST-0368,North,Jaipur,Consumer,Retail Store,Electronics,Monitor,9180.84,3,0.0,Net Banking,Delivered,4.0,27542.52,0.0,27542.52,17528.07,10014.45
+ORD-00151,2025-02-05,CUST-0048,West,Ahmedabad,Consumer,Online,Clothing,T-Shirt,2162.98,10,0.0,Cash,Delivered,5.0,21629.8,0.0,21629.8,11125.06,10504.74
+ORD-00373,2025-02-08,CUST-0381,North,Delhi,Consumer,Online,Furniture,Desk,2286.71,2,0.1,Credit Card,Delivered,4.0,4573.42,457.34,4116.08,2979.97,1136.11
+ORD-00544,2025-06-26,CUST-0112,North,Chandigarh,Consumer,Retail Store,Furniture,Office Chair,10411.28,3,0.1,UPI,Delivered,1.0,31233.84,3123.38,28110.46,16917.19,11193.27
+ORD-00112,2025-07-20,CUST-0251,East,Kolkata,Consumer,Phone Order,Clothing,Sneakers,2963.16,10,0.0,,delivered,7.0,29631.6,0.0,29631.6,17782.34,11849.26
+ORD-00079,2025-09-09,CUST-0251,West,Pune,Consumer,Online,Home & Kitchen,Water Bottle,4199.17,10,0.1,Net Banking,Delivered,3.0,41991.7,4199.17,37792.53,24756.84,13035.69
+ORD-00502,2025-09-15,CUST-0048,South,Kochi,Consumer,Marketplace,Home & Kitchen,Coffee Maker,4939.37,8,0.2,Net Banking,Processing,2.0,39514.96,7902.99,31611.97,23207.26,8404.71
+ORD-00593,2025-05-13,CUST-0279,South,,Consumer,Phone Order,Furniture,Desk,16823.86,10,0.1,Net Banking,Delivered,2.0,168238.6,16823.86,151414.74,112747.07,38667.67
+ORD-00475,2025-08-06,CUST-0116,South,Bengaluru,Corporate,Online,Electronics,Wireless Mouse,,2,0.1,Cash,Delivered,2.0,14200.06,1420.01,12780.05,10013.59,2766.46
+ORD-00856,2025-03-19,CUST-0217,North,Delhi,Consumer,Phone Order,Electronics,USB Hub,16638.89,1,0.2,Credit Card,Delivered,1.0,16638.89,3327.78,13311.11,8193.24,5117.87
+ORD-00366,2025-05-07,CUST-0268,West,Mumbai,Consumer,Marketplace,Home & Kitchen,Water Bottle,1780.49,6,0.05,Credit Card,Delivered,2.0,10682.94,534.15,10148.79,6832.72,3316.07
+ORD-00797,2025-12-13,CUST-0374,South,Kochi,,Marketplace,Furniture,Desk,16349.74,6,0.25,Credit Card,Delivered,3.0,98098.44,24524.61,73573.83,70309.81,3264.02
+ORD-01020,2025-04-05,CUST-0020,East,Bhubaneswar,Corporate,Marketplace,Home & Kitchen,Water Bottle,5797.99,1,0.25,Debit Card,Delivered,4.0,5797.99,1449.5,4348.49,4273.64,74.85
+ORD-00121,2025-06-21,CUST-0343,North,Lucknow,Small Business,Online,Electronics,Headphones,3393.18,3,0.2,Credit Card,Delivered,4.0,10179.54,2035.91,8143.63,5098.38,3045.25
+ORD-00515,2025-11-26,CUST-0001,South,Hyderabad,Consumer,Marketplace,Office Supplies,Printer Paper,537.89,3,0.05,Debit Card,Delivered,2.0,1613.67,80.68,1532.99,951.13,581.86
+ORD-00592,2025-05-02,CUST-0048,South,Bengaluru,Consumer,Retail Store,Office Supplies,Stapler,826.42,4,0.05,UPI,Delivered,7.0,3305.68,165.28,3140.4,1981.91,1158.49
+ORD-00782,2025-07-26,CUST-0370,North,Jaipur,Consumer,Retail Store,Office Supplies,Stapler,624.78,10,0.0,Debit Card,Delivered,14.0,6247.8,0.0,6247.8,3088.57,3159.23
+ORD-00494,2025-04-06,CUST-0077,West,Mumbai,Corporate,Retail Store,Office Supplies,Markers,335.44,2,0.3,UPI,Shipped,4.0,670.88,201.26,469.62,360.41,109.21
+ORD-01085,2025-04-07,CUST-0320,West,Ahmedabad,Small Business,Online,Furniture,Desk,11797.24,1,0.1,Net Banking,Delivered,4.0,11797.24,1179.72,10617.52,6906.32,3711.2
+ORD-00613,2025-07-13,CUST-0031,West,Mumbai,Consumer,Retail Store,Office Supplies,Notebook,50.37,4,0.05,UPI,Shipped,7.0,201.48,10.07,191.41,101.82,89.59
+ORD-00251,2025-12-04,CUST-0168,West,Ahmedabad,Small Business,Phone Order,Furniture,Filing Cabinet,19304.23,1,0.0,Cash,Shipped,2.0,19304.23,0.0,19304.23,11674.81,7629.42
+ORD-00001,2025-04-13,CUST-0358,North,Chandigarh,Small Business,Online,Furniture,Office Chair,2294.96,1,0.15,UPI,Cancelled,6.0,2294.96,344.24,1950.72,1430.72,520.0
+ORD-00168,2025-12-06,CUST-0164,West,Mumbai,Consumer,Phone Order,Electronics,USB Hub,3410.0,2,0.2,Credit Card,Delivered,10.0,6820.0,1364.0,5456.0,4155.64,1300.36
+ORD-00355,2025-08-11,CUST-0184,North,Lucknow,Consumer,Retail Store,Electronics,Headphones,14894.59,1,0.05,UPI,Delivered,5.0,14894.59,744.73,14149.86,11566.89,2582.97
+ORD-00484,2025-09-07,CUST-0341,North,Delhi,Consumer,Marketplace,Office Supplies,Printer Paper,722.89,2,1.2,UPI,Delivered,1.0,1445.78,433.73,1012.05,922.36,89.69
+ORD-00908,2025-07-21,CUST-0263,North,Chandigarh,Consumer,Retail Store,Office Supplies,Pen Set,719.54,8,0.0,Debit Card,Delivered,8.0,5756.32,0.0,5756.32,3678.59,2077.73
+ORD-00791,2025-10-21,CUST-0135,West,Surat,Corporate,Phone Order,Office Supplies,Pen Set,222.15,2,0.1,Credit Card,Delivered,1.0,444.3,44.43,399.87,228.29,171.58
+ORD-00306,2025-02-02,CUST-0301,West,Ahmedabad,Consumer,Retail Store,Electronics,Headphones,13396.39,1,0.15,Debit Card,Delivered,2.0,13396.39,2009.46,11386.93,9210.34,2176.59
+ORD-01003,2025-06-27,CUST-0236,South,Hyderabad,Corporate,Marketplace,Office Supplies,Printer Paper,293.92,2,0.1,Credit Card,Delivered,3.0,587.84,58.78,529.06,427.26,101.8
+ORD-00239,2025-12-15,CUST-0103,North,Jaipur,Consumer,Retail Store,Office Supplies,Pen Set,497.48,4,0.0,UPI,Delivered,4.0,1989.92,0.0,1989.92,1280.69,709.23
+ORD-01023,2025-11-14,CUST-0120,North,Chandigarh,Consumer,Phone Order,Electronics,Wireless Mouse,17826.66,4,0.1,Cash,Delivered,3.0,71306.64,7130.66,64175.98,40466.67,23709.31
+ORD-00823,2025-04-21,CUST-0056,West,Surat,Consumer,Phone Order,Clothing,Jacket,1745.57,8,0.0,Credit Card,Delivered,5.0,13964.56,0.0,13964.56,9485.81,4478.75
+ORD-00834,2025-12-18,CUST-0333,West,Mumbai,Consumer,Retail Store,Clothing,Jeans,1931.78,3,0.05,Cash,Shipped,5.0,5795.34,289.77,5505.57,3011.4,2494.17
+ORD-00269,2025-06-09,CUST-0199, east,Ranchi,Corporate,Online,Furniture,Office Chair,7974.71,1,0.0,Debit Card,Delivered,2.0,7974.71,0.0,7974.71,5181.09,2793.62
+ORD-00155,2025-07-06,CUST-0019,South,Chennai,Consumer,Marketplace,Office Supplies,Notebook,49.2,3,0.1,Debit Card,Delivered,,147.6,14.76,132.84,101.33,31.51
+ORD-00743,2025-07-16,CUST-0069,East,Kolkata,Consumer,Online,Electronics,USB Hub,9175.82,3,0.3,Credit Card,Shipped,3.0,27527.46,8258.24,19269.22,16378.99,2890.23
+ORD-00887,2025-01-28,CUST-0063,South,Bengaluru,Consumer,Retail Store,Home & Kitchen,Storage Box,,1,0.05,Credit Card,Processing,3.0,1130.2,56.51,1073.69,773.9,299.79
+ORD-00115,2025-02-02,CUST-0071,South,Bengaluru,Consumer,Retail Store,Home & Kitchen,Coffee Maker,3099.65,1,0.1,Debit Card,Shipped,2.0,3099.65,309.97,2789.68,1697.74,1091.94
+ORD-00976,2025-12-01,CUST-0048,West,Pune,Consumer,Phone Order,Electronics,Monitor,3169.09,2,0.15,Cash,Delivered,6.0,6338.18,950.73,5387.45,4503.07,884.38
+ORD-01197,2025-10-12,CUST-0263,north ,Delhi,Consumer,Online,Home & Kitchen,Storage Box,303.48,4,0.15,Credit Card,Delivered,3.0,1213.92,182.09,1031.83,627.53,404.3
+ORD-00211,2025-12-09,CUST-0299,West,Ahmedabad,Small Business,Online,Clothing,Jacket,1806.95,2,0.15,Credit Card,Delivered,2.0,3613.9,542.08,3071.82,1745.06,1326.76
+ORD-00227,2025-10-21,CUST-0234,North,Lucknow,Consumer,Marketplace,Office Supplies,Markers,558.58,2,0.15,UPI,Shipped,3.0,1117.16,167.57,949.59,634.36,315.23
+ORD-00909,2025-02-08,CUST-0293,West,Ahmedabad,Consumer,Retail Store,Furniture,Filing Cabinet,9993.38,2,0.2,UPI,Delivered,2.0,19986.76,3997.35,15989.41,11880.94,4108.47
+ORD-00870,2025-02-17,CUST-0024,East,Bhubaneswar,,Marketplace,Electronics,Wireless Mouse,17948.48,2,0.0,Debit Card,Shipped,2.0,35896.96,0.0,35896.96,27315.32,8581.64
+ORD-01146,2025-10-20,CUST-0390,North,Lucknow,Consumer,Online,Electronics,Keyboard,12983.51,2,0.15,Cash,Delivered,6.0,25967.02,3895.05,22071.97,17806.74,4265.23
+ORD-00300,2025-10-16,CUST-0029,East,Bhubaneswar,Consumer,Marketplace,Electronics,Monitor,4469.75,2,0.2,Credit Card,Cancelled,5.0,8939.5,1787.9,7151.6,5214.5,1937.1
+ORD-00478,2025-04-10,CUST-0092,East,Patna,Consumer,Online,Electronics,Monitor,10258.31,4,0.05,Cash,Delivered,4.0,41033.24,2051.66,38981.58,27217.02,11764.56
+ORD-00356,2025-02-23,CUST-0359,West,Ahmedabad,Consumer,Online,Home & Kitchen,Desk Lamp,433.89,6,0.0,Cash,Delivered,5.0,2603.34,0.0,2603.34,1266.91,1336.43
+ORD-01170,2025-05-17,CUST-0111,South,Kochi,Small Business,Retail Store,Electronics,Keyboard,7254.06,1,0.0,UPI,Delivered,4.0,7254.06,0.0,7254.06,4687.51,2566.55
+ORD-00673,2025-02-16,CUST-0218,West,Mumbai,Consumer,Phone Order,Clothing,Jacket,2754.17,3,0.1,Debit Card,Delivered,3.0,8262.51,826.25,7436.26,5744.04,1692.22
+ORD-00260,2025-05-24,CUST-0297,South,Hyderabad,Consumer,Online,Electronics,USB Hub,9610.96,4,0.0,UPI,Delivered,5.0,38443.84,0.0,38443.84,20205.0,18238.84
+ORD-00889,2025-08-04,CUST-0279,West,Ahmedabad,Corporate,Online,Home & Kitchen,Water Bottle,4839.37,4,0.15,Credit Card,Shipped,2.0,19357.48,2903.62,16453.86,12942.43,3511.43
+ORD-00631,2025-12-30,CUST-0085, east,Bhubaneswar,Consumer,Online,Furniture,Bookshelf,1440.7,3,0.1,UPI,Delivered,4.0,4322.1,432.21,3889.89,2429.35,1460.54
+ORD-01061,2025-05-05,CUST-0214,East,Patna,Consumer,Marketplace,Office Supplies,Notebook,762.88,4,0.1,Debit Card,Shipped,,3051.52,305.15,2746.37,2194.42,551.95
+ORD-01110,2025-11-20,CUST-0195,South,Hyderabad,Consumer,Marketplace,Home & Kitchen,Water Bottle,3954.4,4,0.15,Net Banking,Delivered,2.0,15817.6,2372.64,13444.96,10412.35,3032.61
+ORD-00335,2025-01-06,CUST-0371,East,,Corporate,Online,Furniture,Desk,8462.54,5,0.0,UPI,Processing,4.0,42312.7,0.0,42312.7,32763.21,9549.49
+ORD-01026,2025-05-17,CUST-0025,West,Mumbai,Consumer,Online,Office Supplies,Pen Set,374.24,4,0.15,UPI,Delivered,7.0,1496.96,224.54,1272.42,824.39,448.03
+ORD-00975,2025-07-13,CUST-0303,north ,Delhi,Small Business,Marketplace,Furniture,Desk,18364.47,1,0.15,UPI,Returned,5.0,18364.47,2754.67,15609.8,11255.8,4354.0
+ORD-00671,2025-05-27,CUST-0248,WEST ,Ahmedabad,Consumer,Online,Clothing,Jeans,1413.64,4,0.05,Credit Card,Cancelled,1.0,5654.56,282.73,5371.83,3209.47,2162.36
+ORD-01025,2025-11-30,CUST-0120,West,Surat,Small Business,Online,Office Supplies,Notebook,670.78,5,0.0,,Delivered,4.0,3353.9,0.0,3353.9,2024.73,1329.17
+ORD-01066,2025-06-02,CUST-0168,North,Chandigarh,Consumer,Online,Home & Kitchen,Coffee Maker,2224.81,1,0.25,Debit Card,Delivered,3.0,2224.81,556.2,1668.61,1083.48,585.13
+ORD-00547,2025-04-06,CUST-0150,West,Ahmedabad,Consumer,Phone Order,Furniture,Bookshelf,17873.4,1,0.2,UPI,Shipped,4.0,17873.4,3574.68,14298.72,11510.38,2788.34
+ORD-00145,2025-08-10,CUST-0202,East,Ranchi,Corporate,Retail Store,Home & Kitchen,Desk Lamp,4230.08,1,0.05,Credit Card,Delivered,4.0,4230.08,211.5,4018.58,2856.62,1161.96
+ORD-00581,2025-01-25,CUST-0158,South,Bengaluru,Corporate,Marketplace,Office Supplies,Printer Paper,855.17,2,0.0,UPI,Delivered,10.0,1710.34,0.0,1710.34,858.16,852.18
+ORD-00330,2025-01-17,CUST-0232,South,Chennai,Corporate,Retail Store,Office Supplies,Notebook,405.66,1,0.1,Credit Card,Processing,3.0,405.66,40.57,365.09,253.75,111.34
+ORD-01035,2025-11-24,CUST-0346,East,Ranchi,Small Business,Marketplace,Office Supplies,Markers,,2,0.25,Cash,Delivered,8.0,519.3,129.82,389.48,350.98,38.5
+ORD-00420,2025-12-31,CUST-0040,East,Kolkata,Corporate,Retail Store,Home & kitchen,Coffee Maker,1732.26,1,0.0,UPI,Delivered,2.0,1732.26,0.0,1732.26,1016.61,715.65
+ORD-01184,2025-01-17,CUST-0190,North,Chandigarh,,Marketplace,Furniture,Desk,1571.77,2,0.25,UPI,Delivered,2.0,3143.54,785.88,2357.66,2285.73,71.93
+ORD-00770,2025-04-28,CUST-0250,East,Patna,Corporate,Marketplace,Electronics,USB Hub,7808.94,2,0.0,Debit Card,Shipped,2.0,15617.88,0.0,15617.88,10750.47,4867.41
+ORD-00298,2025-06-10,CUST-0396,South,Kochi,Consumer,Online,Office Supplies,Notebook,469.98,1,0.3,Credit Card,Returned,1.0,469.98,140.99,328.99,293.32,35.67
+ORD-00706,2025-08-08,CUST-0362,South,Hyderabad,Small Business,Marketplace,Clothing,T-Shirt,2690.43,3,0.0,Debit Card,Returned,2.0,8071.29,0.0,8071.29,5339.23,2732.06
+ORD-00409,2025-09-28,CUST-0023,West,Pune,Small Business,Marketplace,Office Supplies,Notebook,597.84,6,0.05,Debit Card,Delivered,3.0,3587.04,179.35,3407.69,2246.76,1160.93
+ORD-01063,2025-01-23,CUST-0001,West,Ahmedabad,Consumer,Online,Furniture,Desk,5533.9,2,0.3,UPI,Delivered,,11067.8,3320.34,7747.46,8302.82,-555.36
+ORD-00607,2025-06-23,CUST-0397,East,Bhubaneswar,Consumer,Marketplace,Office Supplies,Stapler,409.22,2,0.15,Net banking ,Delivered,3.0,818.44,122.77,695.67,465.62,230.05
+ORD-00893,2025-07-06,CUST-0299,South,Kochi,Consumer,Online,Furniture,Desk,2814.74,5,0.0,Credit Card,Delivered,5.0,14073.7,0.0,14073.7,7971.08,6102.62
+ORD-00498,2025-01-16,CUST-0303,East,,Small Business,Retail Store,Clothing,T-Shirt,2155.43,6,0.15,Credit Card,Delivered,3.0,12932.58,1939.89,10992.69,8295.8,2696.89
+ORD-00108,2025-08-19,CUST-0173,West,Surat,Consumer,Retail Store,Electronics,Wireless Mouse,4461.84,2,0.05,Debit Card,Delivered,5.0,8923.68,446.18,8477.5,6576.59,1900.91
+ORD-01106,2025-05-16,CUST-0142,South,Chennai,Consumer,Marketplace,Electronics,Keyboard,10349.99,1,0.05,UPI,Shipped,1.0,10349.99,517.5,9832.49,6331.25,3501.24
+ORD-00126,2025-04-11,CUST-0330,South,Kochi,Consumer,Marketplace,Home & Kitchen,Water Bottle,4408.96,4,0.1,UPI,Delivered,3.0,17635.84,1763.58,15872.26,10675.64,5196.62
+ORD-00471,2025-02-16,CUST-0044,North,Jaipur,Consumer,Retail Store,Clothing,Jacket,2100.54,2,0.15,Debit Card,Returned,10.0,4201.08,630.16,3570.92,2985.2,585.72
+ORD-00421,2025-12-16,CUST-0085,North,,Consumer,Online,Furniture,Office Chair,16151.21,1,0.0,UPI,Cancelled,7.0,16151.21,0.0,16151.21,8354.28,7796.93
+ORD-00742,2025-01-06,CUST-0094,South,Bengaluru,Small Business,Online,Office Supplies,Printer Paper,465.35,2,0.0,Cash,Shipped,5.0,930.7,0.0,930.7,547.02,383.68
+ORD-01144,2025-11-20,CUST-0319,South,Chennai,Corporate,Marketplace,Home & Kitchen,Desk Lamp,613.88,8,0.0,Debit Card,Shipped,3.0,4911.04,0.0,4911.04,3022.52,1888.52
+ORD-00247,2025-07-18,CUST-0201,East,Kolkata,Consumer,Online,Office Supplies,Notebook,829.01,2,0.0,Net Banking,Processing,8.0,1658.02,0.0,1658.02,1282.85,375.17
+ORD-00268,2025-02-06,CUST-0252,West,Surat,Corporate,Online,Furniture,Filing Cabinet,11110.98,8,0.15,Net Banking,Delivered,7.0,88887.84,13333.18,75554.66,67619.28,7935.38
+ORD-00546,2025-02-05,CUST-0256,South,Kochi,Consumer,Phone Order,Office Supplies,Notebook,661.98,4,0.1,Credit Card,Delivered,4.0,2647.92,264.79,2383.13,1391.49,991.64
+ORD-00050,2025-11-12,CUST-0077,north ,Chandigarh,Consumer,Retail Store,Office Supplies,Printer Paper,609.14,4,0.2,UPI,delivered,2.0,2436.56,487.31,1949.25,1880.99,68.26
+ORD-00162,2025-03-03,CUST-0125,East,Bhubaneswar,Consumer,Phone Order,Home & Kitchen,Coffee Maker,1460.93,1,0.05,Cash,Delivered,5.0,1460.93,73.05,1387.88,984.92,402.96
+ORD-00208,2025-05-10,CUST-0175,North,Delhi,Small Business,Marketplace,Furniture,Desk,20365.82,4,0.25,UPI,Shipped,5.0,81463.28,20365.82,61097.46,47706.77,13390.69
+ORD-00578,2025-05-24,CUST-0370,North,Jaipur,Consumer,Marketplace,Electronics,Headphones,6298.78,3,0.15,Debit Card,Delivered,1.0,18896.34,2834.45,16061.89,14480.39,1581.5
+ORD-00514,2025-06-17,CUST-0224,East,Ranchi,Consumer,Retail Store,Office Supplies,Printer Paper,241.5,6,0.0,Debit Card,Processing,5.0,1449.0,0.0,1449.0,1080.69,368.31
+ORD-00068,2025-11-06,CUST-0322,South,Hyderabad,Small Business,Online,Furniture,Bookshelf,8971.6,8,0.0,Credit Card,Delivered,3.0,71772.8,0.0,71772.8,53089.71,18683.09
+ORD-01157,2025-09-24,CUST-0339,West,Ahmedabad,Small Business,Marketplace,Office Supplies,Pen Set,376.98,6,0.3,UPI,Delivered,3.0,2261.88,678.56,1583.32,1749.36,-166.04
+ORD-00346,2025-04-26,CUST-0153,West,Mumbai,Corporate,Marketplace,Home & Kitchen,Water Bottle,655.81,1,0.1,UPI,Delivered,3.0,655.81,65.58,590.23,465.4,124.83
+ORD-00343,2025-04-05,CUST-0031,East,Kolkata,Consumer,Retail Store,Clothing,T-Shirt,2140.67,1,0.2,Net Banking,Delivered,2.0,2140.67,428.13,1712.54,1613.76,98.78
+ORD-00707,2025-08-28,CUST-0257,West,Surat,Consumer,Online,Furniture,Filing Cabinet,20251.3,1,0.2,UPI,Delivered,7.0,20251.3,4050.26,16201.04,10460.84,5740.2
+ORD-00800,2025-06-15,CUST-0366,West,Mumbai,Consumer,online ,Home & Kitchen,Coffee Maker,5555.17,4,0.0,Credit Card,Cancelled,7.0,22220.68,0.0,22220.68,16526.73,5693.95
+ORD-00759,2025-07-24,CUST-0344,North,Lucknow,Consumer,Marketplace,Furniture,Office Chair,10806.16,1,0.15,UPI,Delivered,3.0,10806.16,1620.92,9185.24,5904.92,3280.32
+ORD-00002,2025-12-15,CUST-0233,East,Patna,Consumer,Online,Electronics,Keyboard,1726.04,8,0.1,Debit Card,Cancelled,3.0,13808.32,1380.83,12427.49,8902.12,3525.37
+ORD-00308,2025-01-22,CUST-0229,East,Bhubaneswar,Consumer,Marketplace,Office Supplies,Markers,581.04,3,0.2,,Delivered,5.0,1743.12,348.62,1394.5,1340.38,54.12
+ORD-00882,2025-10-30,CUST-0377,North,Delhi,Consumer,Online,Office Supplies,Printer Paper,536.26,4,0.1,UPI,Delivered,5.0,2145.04,214.5,1930.54,1324.6,605.94
+ORD-00826,2025-07-02,CUST-0399,West,Surat,Consumer,Retail store,Clothing,Jacket,1410.55,2,0.2,Cash,Delivered,2.0,2821.1,564.22,2256.88,1955.89,300.99
+ORD-01075,2025-03-08,CUST-0340,South,Bengaluru,Small Business,Phone Order,Home & Kitchen,Coffee Maker,808.69,1,0.05,Credit Card,Delivered,5.0,808.69,40.43,768.26,523.87,244.39
+ORD-00645,2025-02-27,CUST-0245,South,Hyderabad,Consumer,Online,Office Supplies,Stapler,333.27,3,0.05,UPI,Returned,4.0,999.81,49.99,949.82,738.18,211.64
+ORD-00758,2025-06-22,CUST-0162,North,Chandigarh,Corporate,Online,Home & Kitchen,Storage Box,5697.82,1,0.0,Debit Card,Delivered,5.0,5697.82,0.0,5697.82,3462.49,2235.33
+ORD-00006,2025-07-08,CUST-0358,South,Kochi,Consumer,Marketplace,Furniture,Desk,17218.73,1,0.05,Cash,Shipped,10.0,17218.73,860.94,16357.79,11188.98,5168.81
+ORD-00936,2025-06-29,CUST-0164,South,Bengaluru,Corporate,Retail Store,Furniture,Office Chair,5924.71,1,0.0,Net Banking,Delivered,8.0,5924.71,0.0,5924.71,3355.31,2569.4
+ORD-01089,2025-03-27,CUST-0205,East,Patna,Small Business,Retail Store,Electronics,Keyboard,14362.3,3,0.05,UPI,Delivered,3.0,43086.9,2154.35,40932.55,32358.45,8574.1
+ORD-00620,2025-11-17,CUST-0377,East,Patna,Corporate,Marketplace,Home & Kitchen,Storage Box,3354.47,1,0.0,UPI,Delivered,4.0,3354.47,0.0,3354.47,2603.75,750.72
+ORD-00639,2025-05-06,CUST-0366,WEST ,,Consumer,Retail Store,Furniture,Filing Cabinet,19769.04,3,0.1,Debit Card,Delivered,10.0,59307.12,5930.71,53376.41,37334.51,16041.9
+ORD-00793,2025-04-08,CUST-0069,East,Kolkata,Consumer,Retail store,Clothing,Sneakers,1667.69,1,0.0,UPI,Processing,4.0,1667.69,0.0,1667.69,1167.14,500.55
+ORD-00991,2025-02-16,CUST-0348,West,Mumbai,Consumer,Retail Store,Clothing,Jacket,2247.79,2,0.1,UPI,Delivered,3.0,4495.58,449.56,4046.02,2633.86,1412.16
+ORD-00616,2025-06-14,CUST-0243,West,Ahmedabad,Corporate,Online,Electronics,USB Hub,5528.17,5,0.1,UPI,Delivered,,27640.85,2764.08,24876.77,19123.86,5752.91
+ORD-00009,2025-05-02,CUST-0211,South,Chennai,Small Business,Online,Office Supplies,Pen Set,47.01,2,0.0,UPI,Cancelled,4.0,94.02,0.0,94.02,56.31,37.71
+ORD-00034,2025-09-28,CUST-0187,South,Kochi,Corporate,Online,Electronics,Monitor,946.99,1,0.05,UPI,Shipped,7.0,946.99,47.35,899.64,483.99,415.65
+ORD-00584,2025-05-24,CUST-0225,North,Delhi,Consumer,Retail Store,Electronics,Keyboard,15145.91,1,0.05,Cash,Delivered,2.0,15145.91,757.3,14388.61,10267.64,4120.97
+ORD-00122,2025-12-26,CUST-0257,East,Patna,Corporate,Online,Electronics,USB Hub,4633.67,1,0.15,Credit Card,Delivered,1.0,4633.67,695.05,3938.62,2898.28,1040.34
+ORD-00511,2025-09-25,CUST-0280,West,Pune,Consumer,Online,Clothing,Sneakers,365.53,2,0.25,Debit Card,Shipped,14.0,731.06,182.76,548.3,402.41,145.89
+ORD-00182,2025-07-17,CUST-0129,South,Kochi,Corporate,Marketplace,Furniture,Bookshelf,16318.76,4,0.15,Debit Card,Shipped,3.0,65275.04,9791.26,55483.78,40780.03,14703.75
+ORD-00410,2025-02-23,CUST-0355,East,Kolkata,Corporate,Online,Furniture,Desk,16208.32,1,0.0,Credit Card,Processing,3.0,16208.32,0.0,16208.32,8832.69,7375.63
+ORD-01088,2025-07-15,CUST-0185,South,Chennai,Consumer,Retail Store,Electronics,Headphones,11103.95,10,0.05,UPI,Delivered,3.0,111039.5,5551.98,105487.52,67111.72,38375.8
+ORD-01137,2025-04-14,CUST-0205,North,Jaipur,Corporate,Marketplace,Home & Kitchen,Desk Lamp,3290.65,1,0.1,Debit Card,Delivered,10.0,3290.65,329.07,2961.58,2109.45,852.13
+ORD-00161,2025-02-14,CUST-0269,North,Lucknow,Small Business,Retail Store,Clothing,Jeans,798.82,4,0.2,UPI,Shipped,6.0,3195.28,639.06,2556.22,2105.66,450.56
+ORD-01198,2025-03-04,CUST-0072,North,Lucknow,Consumer,Marketplace,Electronics,Headphones,5999.76,4,0.3,Cash,Delivered,5.0,23999.04,7199.71,16799.33,14270.87,2528.46
+ORD-00763,2025-12-14,CUST-0032,North,Jaipur,Consumer,Retail Store,Home & Kitchen,Coffee Maker,2844.92,1,0.1,Net Banking,Delivered,,2844.92,284.49,2560.43,1933.45,626.98
+ORD-00922,2025-08-21,CUST-0167,West,Ahmedabad,Small Business,Online,Home & Kitchen,Coffee Maker,2268.45,4,0.15,,Shipped,5.0,9073.8,1361.07,7712.73,4435.53,3277.2
+ORD-00973,2025-04-04,CUST-0195,North,Lucknow,Corporate,online ,Furniture,Filing Cabinet,8405.8,4,0.0,UPI,Shipped,4.0,33623.2,0.0,33623.2,18057.46,15565.74
+ORD-00389,2025-04-02,CUST-0382,West,Mumbai,Consumer,Retail Store,Clothing,T-Shirt,1058.16,3,0.3,UPI,Delivered,3.0,3174.48,952.34,2222.14,1731.16,490.98
+ORD-00954,2025-04-05,CUST-0075,East,Patna,Corporate,Retail store,Office Supplies,Printer Paper,324.13,1,0.05,UPI,Delivered,4.0,324.13,16.21,307.92,182.98,124.94
+ORD-00236,2025-05-04,CUST-0107,South,Hyderabad,Corporate,Retail Store,Office Supplies,Stapler,756.36,3,0.3,Credit Card,Returned,5.0,2269.08,680.72,1588.36,1222.98,365.38
+ORD-01158,2025-09-14,CUST-0169,North,Jaipur,Consumer,Online,Electronics,Monitor,6063.7,8,0.25,Net Banking,Delivered,2.0,48509.6,12127.4,36382.2,25583.11,10799.09
+ORD-00385,2025-11-17,CUST-0157,South,Kochi,Consumer,Online,Electronics,Wireless Mouse,15732.86,4,0.25,Cash,Cancelled,4.0,62931.44,15732.86,47198.58,42368.29,4830.29
+ORD-00878,2025-12-21,CUST-0337,East,Kolkata,Consumer,Online,Furniture,Desk,,8,0.0,Credit Card,Delivered,1.0,120718.16,0.0,120718.16,59549.41,61168.75
+ORD-00465,2025-05-24,CUST-0116,East,Kolkata,Consumer,Marketplace,Furniture,Desk,11523.11,1,0.25,Cash,Delivered,2.0,11523.11,2880.78,8642.33,8622.75,19.58
+ORD-01162,2025-04-20,CUST-0067,North,Jaipur,Consumer,Retail Store,Home & Kitchen,Storage Box,1369.15,1,0.0,UPI,Delivered,6.0,1369.15,0.0,1369.15,733.72,635.43
+ORD-01053,2025-03-30,CUST-0018,West,Surat,Consumer,Online,Clothing,Sneakers,1964.68,1,0.0,Net Banking,Delivered,4.0,1964.68,0.0,1964.68,1035.97,928.71
+ORD-00859,2025-03-14,CUST-0002,West,Surat,Corporate,Online,Electronics,Keyboard,14767.38,2,0.0,Credit Card,Processing,3.0,29534.76,0.0,29534.76,18877.2,10657.56
+ORD-00272,2025-04-09,CUST-0291,North,Chandigarh,Consumer,Online,Electronics,Headphones,16519.82,2,0.05,Cash,Delivered,4.0,33039.64,1651.98,31387.66,22337.8,9049.86
+ORD-00241,2025-05-28,CUST-0186,West,Mumbai,Consumer,Online,Furniture,Filing Cabinet,21051.55,5,0.1,Cash,Delivered,14.0,105257.75,10525.78,94731.97,67104.59,27627.38
+ORD-00781,2025-10-30,CUST-0094,South,Kochi,Consumer,Marketplace,Clothing,T-Shirt,1964.06,2,0.05,Net Banking,Shipped,8.0,3928.12,196.41,3731.71,2794.59,937.12
+ORD-00930,2025-09-21,CUST-0348,South,Hyderabad,Small Business,Marketplace,Home & Kitchen,Water Bottle,4845.85,2,0.0,Credit Card,Delivered,3.0,9691.7,0.0,9691.7,6453.47,3238.23
+ORD-00476,2025-12-07,CUST-0067,East,Ranchi,Consumer,Online,Home & Kitchen,Water Bottle,1921.44,4,0.2,Cash,Delivered,3.0,7685.76,1537.15,6148.61,5927.89,220.72
+ORD-00249,2025-05-08,CUST-0049,West,Ahmedabad,Corporate,Retail Store,Clothing,Jeans,1165.43,2,0.1,Debit Card,Shipped,1.0,2330.86,233.09,2097.77,1810.09,287.68
+ORD-00751,2025-07-21,CUST-0195,East,Bhubaneswar,Consumer,Retail Store,Furniture,Office Chair,18423.64,1,0.1,Credit Card,Delivered,8.0,18423.64,1842.36,16581.28,9836.82,6744.46
+ORD-01105,2025-06-06,CUST-0153,West,Pune,Consumer,Marketplace,Electronics,Wireless Mouse,6275.75,3,0.2,,Delivered,5.0,18827.25,3765.45,15061.8,13000.61,2061.19
+ORD-00561,2025-09-30,CUST-0179,North,Lucknow,Corporate,Online,Office Supplies,Stapler,755.17,1,0.25,Debit Card,Delivered,4.0,755.17,188.79,566.38,451.82,114.56
+ORD-00483,2025-01-23,CUST-0244,West,Mumbai,Corporate,Phone Order,Electronics,Monitor,13645.19,1,0.0,UPI,Delivered,7.0,13645.19,0.0,13645.19,9221.65,4423.54
+ORD-00953,2025-12-16,CUST-0255,South,Kochi,Corporate,Phone Order,Office Supplies,Notebook,369.45,1,0.1,Cash,Delivered,4.0,369.45,36.94,332.51,189.72,142.79
+ORD-00051,2025-01-14,CUST-0019,East,Bhubaneswar,Consumer,Online,Office Supplies,Stapler,425.48,4,0.15,UPI,Delivered,2.0,1701.92,255.29,1446.63,971.38,475.25
+ORD-00275,2025-07-27,CUST-0052,East,,Consumer,Online,Furniture,Filing Cabinet,10817.0,4,0.0,Cash,Delivered,5.0,43268.0,0.0,43268.0,24888.83,18379.17
+ORD-00487,2025-11-21,CUST-0304,North,Jaipur,Consumer,Marketplace,Clothing,T-Shirt,1004.78,1,0.1,Cash,Cancelled,6.0,1004.78,100.48,904.3,585.76,318.54
+ORD-00682,2025-01-12,CUST-0379,West,Ahmedabad,Consumer,Online,Electronics,Wireless Mouse,9121.76,1,0.0,Cash,Processing,14.0,9121.76,0.0,9121.76,5480.9,3640.86
+ORD-00888,2025-03-19,CUST-0308,West,Ahmedabad,Consumer,Online,Clothing,Jeans,1103.16,2,0.05,Credit Card,Delivered,3.0,2206.32,110.32,2096.0,1292.95,803.05
+ORD-00661,2025-11-13,CUST-0272,SOUTH,Bengaluru,Consumer,Retail Store,Office Supplies,Notebook,205.27,4,0.0,UPI,Delivered,7.0,821.08,0.0,821.08,403.31,417.77
+ORD-00597,2025-08-23,CUST-0007,South,Hyderabad,Corporate,Online,Electronics,Wireless Mouse,7075.36,1,0.15,Cash,Delivered,3.0,7075.36,1061.3,6014.06,4363.57,1650.49
+ORD-00999,2025-12-22,CUST-0349,West,Mumbai,Consumer,online ,Furniture,Desk,19191.87,5,0.15,UPI,Delivered,10.0,95959.35,14393.9,81565.45,61081.64,20483.81
+ORD-00869,2025-11-15,CUST-0105,East,Kolkata,Consumer,Online,Home & Kitchen,Desk Lamp,3864.7,1,0.0,Credit Card,Shipped,3.0,3864.7,0.0,3864.7,2233.6,1631.1
+ORD-00305,2025-05-08,CUST-0361,North,Chandigarh,Corporate,Retail Store,Clothing,Sneakers,355.78,2,0.05,Net Banking,Delivered,3.0,711.56,35.58,675.98,393.13,282.85
+ORD-00123,2025-08-02,CUST-0398,North,Lucknow,Consumer,Online,Clothing,Jacket,1022.22,4,0.1,Debit Card,Delivered,3.0,4088.88,408.89,3679.99,2537.9,1142.09
+ORD-00234,2025-04-07,CUST-0160,North,Jaipur,Small Business,Retail Store,Office Supplies,Stapler,179.52,1,0.15,Cash,Delivered,3.0,179.52,26.93,152.59,111.21,41.38
+ORD-00830,2025-12-26,CUST-0317,WEST ,Ahmedabad,Consumer,Online,Electronics,Monitor,5435.18,1,0.3,UPI,Delivered,10.0,5435.18,1630.55,3804.63,2943.61,861.02
+ORD-00448,2025-08-27,CUST-0007,South,Chennai,Consumer,Phone Order,Electronics,Monitor,3372.73,2,0.05,UPI,Returned,3.0,6745.46,337.27,6408.19,5174.61,1233.58
+ORD-00841,2025-02-20,CUST-0083,South,Bengaluru,Consumer,Retail Store,Electronics,Headphones,16722.27,1,0.0,UPI,Delivered,2.0,16722.27,0.0,16722.27,12355.08,4367.19
+ORD-00203,2025-04-23,CUST-0317,South,Chennai,Consumer,Online,Home & Kitchen,Coffee Maker,6321.72,1,0.2,Cash,Shipped,1.0,6321.72,1264.34,5057.38,3646.29,1411.09
+ORD-00754,2025-03-26,CUST-0125,North,Jaipur,Consumer,Online,Furniture,Desk,1899.93,8,0.15,Net Banking,Shipped,3.0,15199.44,2279.92,12919.52,10391.42,2528.1
+ORD-00512,2025-11-19,CUST-0067,East,Kolkata,Consumer,Online,Furniture,Filing Cabinet,12055.0,3,0.0,Net Banking,Shipped,8.0,36165.0,0.0,36165.0,18152.0,18013.0
+ORD-00611,2025-10-10,CUST-0163,South,Hyderabad,Consumer,Online,Office Supplies,Markers,845.26,1,0.25,UPI,Delivered,6.0,845.26,211.32,633.94,609.59,24.35
+ORD-00701,2025-08-16,CUST-0385,East,Bhubaneswar,Small Business,Marketplace,Home & Kitchen,Desk Lamp,1958.84,1,0.05,Credit Card,Delivered,7.0,1958.84,97.94,1860.9,1401.18,459.72
+ORD-01145,2025-05-13,CUST-0085,North,Delhi,Consumer,Retail Store,Clothing,Jacket,1510.22,5,0.0,Credit Card,Delivered,6.0,7551.1,0.0,7551.1,3877.33,3673.77
+ORD-00369,2025-04-14,CUST-0133,North,Lucknow,Consumer,Marketplace,Clothing,T-Shirt,640.99,1,0.1,Debit Card,Delivered,3.0,640.99,64.1,576.89,406.31,170.58
+ORD-00049,2025-03-30,CUST-0314,North,Lucknow,Corporate,Retail Store,Office Supplies,Stapler,105.23,5,0.15,Credit Card,Delivered,3.0,526.15,78.92,447.23,391.12,56.11
+ORD-00773,2025-09-25,CUST-0153,East,Kolkata,Consumer,Retail Store,Electronics,Headphones,16115.25,4,0.25,UPI,Delivered,5.0,64461.0,16115.25,48345.75,43832.49,4513.26
+ORD-00970,2025-12-01,CUST-0365,North,Delhi,Consumer,Retail Store,Home & Kitchen,Storage Box,5579.81,2,0.0,Debit Card,Delivered,3.0,11159.62,0.0,11159.62,8431.36,2728.26
