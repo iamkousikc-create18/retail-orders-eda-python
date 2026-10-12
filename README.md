@@ -26,10 +26,12 @@ The project demonstrates the complete EDA workflow, including data inspection, d
 
 ## 📂 Project Files
 
-| File | Description |
-|---|---|
-| `Retail_Orders.ipynb` | Jupyter Notebook containing the complete EDA process |
-| `retail_orders_eda_practice.csv` | Raw retail orders dataset |
+retail-orders-eda-python/
+│
+├── Retail_Orders.ipynb
+├── retail_orders_eda_practice.csv
+├── requirements.txt
+└── README.md
 
 ## 📊 Dataset Description
 
